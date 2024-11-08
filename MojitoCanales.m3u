@@ -9,11 +9,11 @@ http://8.243.249.70:8000/play/a04u/index.m3u8
 
 
 # [ Adult Swim ]
-#EXTINF:-1 group-title="[ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/logos/adultswim.png?raw=true",[Adult Swim] MoJiTo (Opción 1)
+#EXTINF:-1 group-title="[ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[Adult Swim] MoJiTo (Opción 1)
 https://directv.bz/uuid/354qtbj1/key/344493cd1ed7962fa418c7bc4e47be97
-#EXTINF:-1 group-title="[ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/logos/adultswim.png?raw=true",[Adult Swim] MoJiTo (Opción 2)
+#EXTINF:-1 group-title="[ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[Adult Swim] MoJiTo (Opción 2)
 https://directv.bz/uuid/352tlys8/key/344493cd1ed7962fa418c7bc4e47be97
-#EXTINF:-1 group-title="[ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/logos/adultswim.png?raw=true",[Adult Swim] MoJiTo (Opción 3)
+#EXTINF:-1 group-title="[ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[Adult Swim] MoJiTo (Opción 3)
 https://directv.bz/uuid/371lbras/key/344493cd1ed7962fa418c7bc4e47be97
 
 # MTV
