@@ -1,21 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="TVEZ",TVEZ TVEZ ==> By MoJiTo
+#EXTINF:-1 group-title="TVEZ",TVEZ ==> By MoJiTo
 https://directv.bz/uuid/346746jn/key/4460822af1b974b1cb62d6c6899b2395
-#EXTINF:-1 group-title="Venevision", VENEVISION 1 ==> By MoJiTo
-https://directv.bz/uuid/459rgnzq/key/4460822af1b974b1cb62d6c6899b2395
-#EXTINF:-1 group-title="Venevision",Venevision 2 ==> By MoJiTo
-https://directv.bz/uuid/459rgnzq/key/4460822af1b974b1cb62d6c6899b2395
 
-#EXTINF:-1 group-title="Venevision",VENEVISION 3 ==> By MoJiTo
+#EXTINF:-1 group-title="Venevision",VENEVISION 1 ==> By MoJiTo
 http://8.243.249.70:8000/play/a04u/index.m3u8
 
-#EXTINF:-1 group-title="Venevision",VENEVISION + 4 ==> By MoJiTo
+#EXTINF:-1 group-title="Venevision",VENEVISION + 2 ==> By MoJiTo
 https://directv.bz/uuid/45dmt3ev/key/7d90d86c4b9b2dad661994a0b34bfcc5
 
-#EXTINF:-1 group-title="Venevision",Venevision + 5 ==> By MoJiTo
+#EXTINF:-1 group-title="Venevision",Venevision + 3 ==> By MoJiTo
 https://directv.bz/uuid/45dmvf9c/key/7d90d86c4b9b2dad661994a0b34bfcc5
 
-#EXTINF:-1 group-title="Venevision",Venevision 6 ==> By MoJiTo
+#EXTINF:-1 group-title="Venevision",Venevision 4 ==> By MoJiTo
 https://directv.bz/uuid/461vy5wd/key/7d90d86c4b9b2dad661994a0b34bfcc5
 
 # DEPORTES
