@@ -17,15 +17,15 @@ http://181.233.168.3:8282/play/a02a
 
 # MTV
 
+#EXTINF:-1 group-title="MTV+" language="Español",MTV Live + MoJiTo (Opción 1)
+http://190.61.42.218:9000/play/a00i
 #EXTINF:-1 group-title="MTV+" language="Español",MTV Live + MoJiTo (Opción 2)
-http://190.61.42.218:9000/play/a00i
+http://195.189.60.33:9015/play/a002
 #EXTINF:-1 group-title="MTV+" language="Español",MTV Live + MoJiTo (Opción 3)
-http://195.189.60.33:9015/play/a002
-#EXTINF:-1 group-title="MTV+" language="Español",MTV Live + MoJiTo (Opción 15)
 https://directv.bz/uuid/369dp6ho/key/344493cd1ed7962fa418c7bc4e47be97
-#EXTINF:-1 group-title="MTV+" language="Español",MTV🎶 MoJiTo (Opción 19)
+#EXTINF:-1 group-title="MTV+" language="Español",MTV🎶 MoJiTo (Opción 4)
 http://190.61.42.218:9000/play/a00i
-#EXTINF:-1 group-title="MTV+" language="Español",MTV LIVE-MoJiTo (Opción 20)
+#EXTINF:-1 group-title="MTV+" language="Español",MTV LIVE-MoJiTo (Opción 5)
 http://195.189.60.33:9015/play/a002
-#EXTINF:-1 group-title="MTV+" language="Español",MTV🎶 MoJiTo (Opción 21) 
+#EXTINF:-1 group-title="MTV+" language="Español",MTV🎶 MoJiTo (Opción 6) 
 http://177.93.46.163:8000/play/a00a
