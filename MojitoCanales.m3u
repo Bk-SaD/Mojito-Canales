@@ -15,86 +15,31 @@ http://181.233.168.3:8282/play/a02a
 #EXTINF:-1 group-title="[ Adult Swim ]",[ Adult Swim ] HD (Opción 2) ==> By MoJiTo
 http://168.90.14.115:8282/play/a02a
 
+# MTV
 
-# DEPORTES
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/b31nsnn.png?raw=true" group-title="Deportes",Bein Sports Extra Ñ [ඞ MoJiTo]
-http://tv.teleclub.xyz/club/server_1/deportes/beinsportsextran/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/clrospn.png?raw=true" group-title="Deportes",Claro Sports [ඞ MoJiTo]
-http://tv.teleclub.xyz/club/server_1/deportes/clarosports/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/clrospn.png?raw=true" group-title="Deportes",Claro Sports - !3 [ඞ MoJiTo]
-http://tv.teleclub.xyz/club/server_3/deportes/clarosports/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dazn1.png?raw=true?raw=true" group-title="Deportes",DAZN 1 [ඞ MoJiTo]
-http://tv.teleclub.xyz/club/server_1/deportes/dazn1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dazn2.png?raw=true" group-title="Deportes",DAZN 2 [ඞ MoJiTo]
-http://tv.teleclub.xyz/club/server_1/deportes/dazn2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/daznf1.jpg?raw=true" group-title="Deportes",DAZN 3 [ඞ MoJiTo]
-http://tv.teleclub.xyz/club/server_1/deportes/dazn3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/daznf1.jpg?raw=true" group-title="Deportes",DAZN F1 [ඞ MoJiTo]
-http://tv.teleclub.xyz/club/server_1/deportes/daznf1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/liga1max.png?raw=true" group-title="Deportes",DAZN La Liga [ඞ MoJiTo]
-http://tv.teleclub.xyz/club/server_1/deportes/daznlaliga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/liga1max.png?raw=true" group-title="Deportes",DAZN Moto GP [ඞ MoJiTo]
-http://tv.teleclub.xyz/club/server_1/deportes/daznmotogp/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dtvs1.png?raw=true" group-title="Deportes",Directv Sports [ඞ MoJiTo]
-http://tv.teleclub.xyz/club/server_1/deportes/directvsports/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dtvs3.png?raw=true" group-title="Deportes",Directv Sports + [ඞ MoJiTo]
-http://tv.teleclub.xyz/club/server_1/deportes/directvsportsplus/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dtvs2.png?raw=true" group-title="Deportes",Directv Sports 2 [ඞ MoJiTo]
-http://tv.teleclub.xyz/club/server_1/deportes/directvsports2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espnn.png?raw=true" group-title="Deportes",ESPN 1 [ඞ MoJiTo]
-http://tv.teleclub.xyz/club/server_1/deportes/espn1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espn2n.png?raw=true" group-title="Deportes",ESPN 2 [ඞ MoJiTo]
-http://tv.teleclub.xyz/club/server_1/deportes/espn2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espn3n.png?raw=true" group-title="Deportes",ESPN 3 [ඞ MoJiTo]
-http://tv.teleclub.xyz/club/server_1/deportes/espn3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espn4ab.png?raw=true" group-title="Deportes",ESPN 4 [ඞ MoJiTo]
-http://tv.teleclub.xyz/club/server_1/deportes/espn4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espn5.png?raw=true" group-title="Deportes",ESPN 5 [ඞ MoJiTo]
-http://tv.teleclub.xyz/club/server_1/deportes/espn5/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espn6.png?raw=true" group-title="Deportes",ESPN 6 [ඞ MoJiTo]
-http://tv.teleclub.xyz/club/server_1/deportes/espn6/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espn7.png?raw=true" group-title="Deportes",ESPN 7 [ඞ MoJiTo]
-http://tv.teleclub.xyz/club/server_1/deportes/espn7/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espnpr.png?raw=true" group-title="Deportes",ESPN Premium [ඞ MoJiTo]
-http://tv.teleclub.xyz/club/server_1/deportes/espnpremium/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/fxdpots.png?raw=true" group-title="Deportes",Fox Deportes [ඞ MoJiTo]
-http://tv.teleclub.xyz/club/server_1/deportes/foxdeportes/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/foxsports.png?raw=true" group-title="Deportes",Fox Sports 1 [ඞ MoJiTo]
-http://tv.teleclub.xyz/club/server_1/deportes/foxsports1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/foxsportsmx.png?raw=true" group-title="Deportes",Fox Sports 1 MX [ඞ MoJiTo]
-http://tv.teleclub.xyz/club/server_1/deportes/foxsports1mx/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/foxsports2.png?raw=true" group-title="Deportes",Fox Sports 2 [ඞ MoJiTo]
-http://tv.teleclub.xyz/club/server_1/deportes/foxsports2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/foxsports2mx.png?raw=true" group-title="Deportes",Fox Sports 2 MX [ඞ MoJiTo]
-http://tv.teleclub.xyz/club/server_1/deportes/foxsports2mx/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/foxsports2mx.png?raw=true" group-title="Deportes",Fox Sports 2 MX - !3 [ඞ MoJiTo]
-http://tv.teleclub.xyz/club/server_3/deportes/foxsports2mx/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/foxsports3.png?raw=true" group-title="Deportes",Fox Sports 3 [ඞ MoJiTo]
-http://tv.teleclub.xyz/club/server_1/deportes/foxsports3/index.m3u8
+#EXTINF:-1 group-title="MTV+" language="Español",MTV🎶 MoJiTo (Opción 1)
+https://directv.bz/uuid/3574lnj2/key/344493cd1ed7962fa418c7bc4e47be97
+#EXTINF:-1 group-title="MTV+" language="Español",MTV🎶 MoJiTo (Opción 2)
+http://190.61.42.218:9000/play/a00i
+#EXTINF:-1 group-title="MTV+" language="Español",MTV🎶 MoJiTo (Opción 3)
+http://195.189.60.33:9015/play/a002
+#EXTINF:-1 group-title="MTV+" language="Español",MTV🎶 MoJiTo (Opción 4)
+http://181.163.51.27:8000/play/a02s
+#EXTINF:-1 group-title="MTV+" language="Español",MTV🎶 MoJiTo (Opción 5)
+http://181.163.51.27:8000/play/a05r
+#EXTINF:-1 group-title="MTV+" language="Español",MTV🎶 MoJiTo (Opción 6)
+https://directv.bz/uuid/353zjb1a/key/344493cd1ed7962fa418c7bc4e47be97
+#EXTINF:-1 group-title="MTV+" language="Español",MTV🎶 MoJiTo (Opción 7)
+http://177.93.46.163:8000/play/a00a
+#EXTINF:-1 group-title="MTV+" language="Español",MTV🎶 MoJiTo (Opción 8)
+https://directv.bz/uuid/34cutrqp/key/344493cd1ed7962fa418c7bc4e47be97
+#EXTINF:-1 group-title="MTV+" language="Español",MTV🎶 MoJiTo (Opción 9)
+http://103.106.238.11:81/play/a0c0
+#EXTINF:-1 group-title="MTV+" language="Español",MTV🎶 MoJiTo (Opción 10)
+https://directv.bz/uuid/34a7cllp/key/344493cd1ed7962fa418c7bc4e47be97
+#EXTINF:-1 group-title="MTV+" language="Español",MTV🎶 MoJiTo (Opción 11)
+https://directv.bz/uuid/345pjaqu/key/344493cd1ed7962fa418c7bc4e47be97
+#EXTINF:-1 group-title="MTV+" language="Español",MTV🎶 MoJiTo (Opción 12)
+http://179.1.33.2:4000/play/a11e
+#EXTINF:-1 group-title="MTV+" language="Español",MTV🎶 MoJiTo (Opción 13)
+http://190.7.192.162:8006/play/s9
