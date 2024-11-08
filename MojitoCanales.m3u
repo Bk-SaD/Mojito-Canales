@@ -10,8 +10,50 @@ http://8.243.249.70:8000/play/a04u/index.m3u8
 
 # [ Adult Swim ]
 
-#EXTINF:-1 group-title="[ Adult Swim ]",[ Adult Swim ] HD (Opción 1) ==> By MoJiTo
-http://181.233.168.3:8282/play/a02a
+#EXTINF:-1 group-title="[ Adult Swim ]" language="Español",[Adult Swim] MoJiTo (Opción 1)
+https://directv.bz/uuid/3574lnj2/key/344493cd1ed7962fa418c7bc4e47be97
+#EXTINF:-1 group-title="[ Adult Swim ]" language="Español",[Adult Swim] MoJiTo (Opción 2)
+http://190.61.42.218:9000/play/a00i
+#EXTINF:-1 group-title="[ Adult Swim ]" language="Español",[Adult Swim] MoJiTo (Opción 3)
+http://195.189.60.33:9015/play/a002
+#EXTINF:-1 group-title="[ Adult Swim ]" language="Español",[Adult Swim] MoJiTo (Opción 4)
+http://181.163.51.27:8000/play/a02s
+#EXTINF:-1 group-title="[ Adult Swim ]" language="Español",[Adult Swim] MoJiTo (Opción 5)
+http://181.163.51.27:8000/play/a05r
+#EXTINF:-1 group-title="[ Adult Swim ]" language="Español",[Adult Swim] MoJiTo (Opción 6)
+https://directv.bz/uuid/353zjb1a/key/344493cd1ed7962fa418c7bc4e47be97
+#EXTINF:-1 group-title="[ Adult Swim ]" language="Español",[Adult Swim] MoJiTo (Opción 7)
+http://177.93.46.163:8000/play/a00a
+#EXTINF:-1 group-title="[ Adult Swim ]" language="Español",[Adult Swim] MoJiTo (Opción 8)
+https://directv.bz/uuid/34cutrqp/key/344493cd1ed7962fa418c7bc4e47be97
+#EXTINF:-1 group-title="[ Adult Swim ]" language="Español",[Adult Swim] MoJiTo (Opción 9)
+http://103.106.238.11:81/play/a0c0
+#EXTINF:-1 group-title="[ Adult Swim ]" language="Español",[Adult Swim] MoJiTo (Opción 10)
+https://directv.bz/uuid/34a7cllp/key/344493cd1ed7962fa418c7bc4e47be97
+#EXTINF:-1 group-title="[ Adult Swim ]" language="Español",[Adult Swim] MoJiTo (Opción 11)
+https://directv.bz/uuid/345pjaqu/key/344493cd1ed7962fa418c7bc4e47be97
+#EXTINF:-1 group-title="[ Adult Swim ]" language="Español",[Adult Swim] MoJiTo (Opción 12)
+http://179.1.33.2:4000/play/a11e
+#EXTINF:-1 group-title="[ Adult Swim ]" language="Español",[Adult Swim] MoJiTo (Opción 13)
+http://190.7.192.162:8006/play/s9
+#EXTINF:-1 group-title="[ Adult Swim ]" language="Español",[Adult Swim] MoJiTo (Opción 14)
+https://directv.bz/luuid/bXR2LWxpdmUtKDcyMHApL251bWJlci8y/key/344493cd1ed7962fa418c7bc4e47be97
+#EXTINF:-1 group-title="[ Adult Swim ]" language="Español",[Adult Swim] MoJiTo (Opción 15)
+https://directv.bz/uuid/369dp6ho/key/344493cd1ed7962fa418c7bc4e47be97
+#EXTINF:-1 group-title="[ Adult Swim ]" language="Español",[Adult Swim] MoJiTo (Opción 16)
+https://directv.bz/uuid/35cxzjsz/key/344493cd1ed7962fa418c7bc4e47be97
+#EXTINF:-1 group-title="[ Adult Swim ]" language="Español",[Adult Swim] MoJiTo (Opción 17)
+https://directv.bz/uuid/35b89ro3/key/344493cd1ed7962fa418c7bc4e47be97
+#EXTINF:-1 group-title="[ Adult Swim ]" language="Español",[Adult Swim] MoJiTo (Opción 18)
+https://directv.bz/uuid/32ew2sq3/key/344493cd1ed7962fa418c7bc4e47be97
+#EXTINF:-1 group-title="[ Adult Swim ]" language="Español",[Adult Swim] MoJiTo (Opción 19)
+https://directv.bz/uuid/354qtbj1/key/344493cd1ed7962fa418c7bc4e47be97
+#EXTINF:-1 group-title="[ Adult Swim ]" language="Español",[Adult Swim] MoJiTo (Opción 20)
+https://directv.bz/uuid/352tlys8/key/344493cd1ed7962fa418c7bc4e47be97
+#EXTINF:-1 group-title="[ Adult Swim ]" language="Español",[Adult Swim] MoJiTo (Opción 21)
+https://directv.bz/uuid/371lbras/key/344493cd1ed7962fa418c7bc4e47be97
+#EXTINF:-1 group-title="[ Adult Swim ]" language="Español",[Adult Swim] MoJiTo (Opción 22)
+https://directv.bz/uuid/342bq2go/key/344493cd1ed7962fa418c7bc4e47be97
 
 
 
