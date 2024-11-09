@@ -32,11 +32,10 @@ https://directv.bz/uuid/38dpkmez/key/b5f9bf673dbcd296f3e342d60ed1b781
 http://186.148.181.154:8000/play/a02g
 
 # MTV
-#EXTINF:-1 group-title="MTV+" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/logos/mtv.png?raw=true",MTV Live + MoJiTo (Opción 1)
+#EXTINF:-1 group-title="MTV+" language="Español" tvg-logo="https://i.imgur.com/kNbmc8n.png",MTV MoJiTo (Opción 1)
 http://190.61.42.218:9000/play/a00i
-#EXTINF:-1 group-title="MTV+" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/logos/mtv.png?raw=true",MTV Live + MoJiTo (Opción 2)
+#EXTINF:-1 group-title="MTV+" language="Español" tvg-logo="https://i.imgur.com/kNbmc8n.png",MTV MoJiTo (Opción 2)
 http://195.189.60.33:9015/play/a002
-#EXTINF:-1 group-title="MTV+" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/logos/mtv.png?raw=true",MTV Live + MoJiTo (Opción 3)
-https://directv.bz/uuid/369dp6ho/key/344493cd1ed7962fa418c7bc4e47be97
-#EXTINF:-1 group-title="MTV+" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/logos/mtv.png?raw=true",MTV🎶 MoJiTo (Opción 4)
+#EXTINF:-1 group-title="MTV+" language="Español" tvg-logo="https://i.imgur.com/kNbmc8n.png",MTV MoJiTo (Opción 3)
 http://177.93.46.163:8000/play/a00a
+
