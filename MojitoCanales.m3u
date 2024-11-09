@@ -104,5 +104,5 @@ http://45.175.139.194:8000/play/62
 # QMusic
 #EXTINF:-1 group-title="© QMusic" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1280px-Qmusic_logo.svg.png",QMusic - MoJiTo (Opción 1)
 https://directv.bz/luuid/cW11c2ljLWhkL251bWJlci8x/key/76c77e800adafaea29daa320f523e13a
-#EXTINF:-1 group-title="© QMusic" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1280px-Qmusic_logo.svg.png",QMusic - MoJiTo (Opción 2)
+#EXTINF:-1 group-title="© QMusic" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1280px-Qmusic_logo.svg.png",QMusic - MoJiTo ()
 https://live-video.dpgmedia.net/f1d26a28c95485cc/out/v1/5f60a245c110454fba652900ecf30ea2/index.m3u8
