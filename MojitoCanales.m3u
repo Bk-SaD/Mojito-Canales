@@ -104,3 +104,5 @@ http://45.175.139.194:8000/play/62
 # QMusic
 #EXTINF:-1 group-title="© QMusic" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1280px-Qmusic_logo.svg.png",QMusic - MoJiTo
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 group-title="© QMusic" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1280px-Qmusic_logo.svg.png",QMusic - MoJiTo2
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
