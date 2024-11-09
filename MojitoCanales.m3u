@@ -78,3 +78,25 @@ http://154.198.57.34:8000/play/62
 https://directv.bz/uuid/335hsvc4/key/76c77e800adafaea29daa320f523e13a
 #EXTINF:-1 group-title="© TeleHit" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png",TeleHit - MoJiTo (Opción 8)
 https://directv.bz/uuid/47buj223/key/76c77e800adafaea29daa320f523e13a
+
+# HTV
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV -  MoJiTo (Opción 1)
+http://181.233.168.4:8282/play/a04m
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV -  MoJiTo (Opción 2)
+https://directv.bz/uuid/351o2xon/key/76c77e800adafaea29daa320f523e13a
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV -  MoJiTo (Opción 3)
+http://45.175.139.194:8000/play/61
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV -  MoJiTo (Opción 4)
+https://directv.bz/uuid/34decsbz/key/76c77e800adafaea29daa320f523e13a
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV -  MoJiTo (Opción 5)
+http://66.231.71.18:8000/play/a02v
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV -  MoJiTo (Opción 6)
+https://directv.bz/uuid/348d5qn1/key/76c77e800adafaea29daa320f523e13a
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV -  MoJiTo (Opción 7)
+https://directv.bz/uuid/3428gyzi/key/76c77e800adafaea29daa320f523e13a
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV -  MoJiTo (Opción 8)
+https://directv.bz/uuid/338jzmj6/key/76c77e800adafaea29daa320f523e13a
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV -  MoJiTo (Opción 9)
+https://directv.bz/uuid/315pzbkk/key/76c77e800adafaea29daa320f523e13a
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV -  MoJiTo (Opción 10)
+http://45.175.139.194:8000/play/62
