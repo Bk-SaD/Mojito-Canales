@@ -100,3 +100,9 @@ https://directv.bz/uuid/338jzmj6/key/76c77e800adafaea29daa320f523e13a
 https://directv.bz/uuid/315pzbkk/key/76c77e800adafaea29daa320f523e13a
 #EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV -  MoJiTo (Opción 10)
 http://45.175.139.194:8000/play/62
+
+# QMusic
+#EXTINF:-1 group-title="© QMusic" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1280px-Qmusic_logo.svg.png",QMusic - MoJiTo (Opción 1)
+https://directv.bz/luuid/cW11c2ljLWhkL251bWJlci8x/key/76c77e800adafaea29daa320f523e13a
+#EXTINF:-1 group-title="© QMusic" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1280px-Qmusic_logo.svg.png",QMusic - MoJiTo (Opción 2)
+https://list.iptvcat.com/my_list/s/fd62cb038e22bfb701cbc31d48adf3b4.m3u8
