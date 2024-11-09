@@ -102,5 +102,5 @@ https://directv.bz/uuid/315pzbkk/key/76c77e800adafaea29daa320f523e13a
 http://45.175.139.194:8000/play/62
 
 # QMusic
-#EXTINF:-1 group-title="© QMusic" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1280px-Qmusic_logo.svg.png",QMusic - MoJiTo (Opción 1)
+#EXTINF:-1 group-title="© QMusic" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1280px-Qmusic_logo.svg.png",QMusic - MoJiTo
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
