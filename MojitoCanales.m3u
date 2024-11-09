@@ -12,8 +12,8 @@ https://directv.bz/uuid/357d46ro/key/bdd15eb2eb1c0b1e42a77166b4964a58
 
 
 # [ Adult Swim ]
-#EXTINF:-1 group-title="[ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[ Adult Swim ] MoJiTo (Opción 4)
-http://186.148.181.152:8000/play/a02g
+#EXTINF:-1 group-title="[ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[ Adult Swim  ] MoJiTo (Opción 1)
+http://152.200.192.150:8000/play/a02g
 #EXTINF:-1 group-title="[ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[ Adult Swim ] MoJiTo (Opción 1)
 https://directv.bz/uuid/46d87nlr/key/b5f9bf673dbcd296f3e342d60ed1b781
 #EXTINF:-1 group-title="[ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[ Adult Swim ] MoJiTo (Opción 2)
@@ -28,8 +28,8 @@ http://190.60.49.243:4000/play/a078
 https://directv.bz/uuid/38dpkmez/key/b5f9bf673dbcd296f3e342d60ed1b781
 #EXTINF:-1 group-title="[ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[ Adult Swim ] MoJiTo (Opción 8)
 http://201.184.160.154:4849/play/CH155
-#EXTINF:-1 group-title="[ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[ Adult Swim ] MoJiTo (Opción 9)
-https://directv.bz/uuid/38dpkmez/key/b5f9bf673dbcd296f3e342d60ed1b781
+#EXTINF:-1 group-title="[ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[ Adult Swim  ] MoJiTo (Opción 2)
+http://177.8.76.2:8000/play/a02j
 #EXTINF:-1 group-title="[ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[ Adult Swim ] MoJiTo (Opción 10)
 http://186.148.181.154:8000/play/a02g
 
@@ -41,3 +41,24 @@ http://195.189.60.33:9015/play/a002
 #EXTINF:-1 group-title="MTV+" language="Español" tvg-logo="https://github.com/Bk-SaD/Mojito-Canales/blob/main/logo/mtv.png?raw=true",MTV MoJiTo (Opción 3)
 http://177.93.46.163:8000/play/a00a
 
+# NatGeo
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",© NatGeo - MoJiTo (Opción 1)
+https://directv.bz/uuid/357d46ro/key/bdd15eb2eb1c0b1e42a77166b4964a58
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",© NatGeo - MoJiTo (Opción 2)
+http://190.61.106.106:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",© NatGeo - MoJiTo (Opción 3)
+https://directv.bz/uuid/457nf87t/key/76c77e800adafaea29daa320f523e13a
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",© NatGeo - MoJiTo (Opción 4)
+https://directv.bz/uuid/43dffpfp/key/76c77e800adafaea29daa320f523e13a
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",© NatGeo - MoJiTo (Opción 5)
+https://directv.bz/uuid/434jyjbd/key/76c77e800adafaea29daa320f523e13a
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",© NatGeo - MoJiTo (Opción 6)
+https://directv.bz/uuid/35arr0n1/key/76c77e800adafaea29daa320f523e13a
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",© NatGeo - MoJiTo (Opción 7)
+https://directv.bz/uuid/434jyjbd/key/76c77e800adafaea29daa320f523e13a
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",© NatGeo - MoJiTo (Opción 8)
+https://directv.bz/uuid/36e447ew/key/76c77e800adafaea29daa320f523e13a
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",© NatGeo - MoJiTo (Opción 9)
+http://181.233.168.46:8000/play/a037
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",© NatGeo - MoJiTo (Opción 10)
+https://directv.bz/uuid/331b3kxq/key/76c77e800adafaea29daa320f523e13a
