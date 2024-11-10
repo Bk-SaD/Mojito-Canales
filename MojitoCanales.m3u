@@ -106,8 +106,10 @@ http://45.175.139.194:8000/play/62
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=1500000,AVERAGE-BANDWIDTH=1300000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000
-#EXTINF:-1 group-title="© QMusic" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1280px-Qmusic_logo.svg.png",QMusic - MoJiTo
+#EXTINF:-1 group-title="© QMusic" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1280px-Qmusic_logo.svg.png",QMusic - MoJiTo null
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
+#EXTINF:-1 group-title="© QMusic" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1280px-Qmusic_logo.svg.png",QMusic - MoJiTo (Opción 1)
+https://directv.bz/luuid/cW11c2ljLWhkL251bWJlci8x/key/6dd921c2b3dc16fa7cf3621b1a83e044
 
 # HBO
 #EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO POP - MoJiTo (Opción 1)
