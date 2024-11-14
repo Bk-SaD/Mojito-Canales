@@ -134,3 +134,21 @@ http://190.95.11.209:8000/play/019
 https://directv.bz/uuid/31cnmne5/key/6dd921c2b3dc16fa7cf3621b1a83e044
 #EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO+Plus - MoJiTo (Opción 13)
 https://directv.bz/uuid/317obfqa/key/6dd921c2b3dc16fa7cf3621b1a83e044
+
+# SporTV
+#EXTINF:-1 group-title="© SporTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",SporTV MoJiTo (Opción 1)
+http://170.80.69.8:8000/play/a0em/index.m3u8
+#EXTINF:-1 group-title="© SporTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",SporTV MoJiTo (Opción 2)
+https://directv.bz/uuid/36aanr3y/key/2bf36c5220020ddf7c6e6a4b165b6b4a
+#EXTINF:-1 group-title="© SporTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",SporTV MoJiTo (Opción 3)
+http://176.65.146.218:9008/play/a002
+#EXTINF:-1 group-title="© SporTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",SporTV MoJiTo (Opción 4)
+http://170.80.69.8:8000/play/a097/index.m3u8
+#EXTINF:-1 group-title="© SporTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",SporTV MoJiTo (Opción 5)
+https://directv.bz/uuid/444za0p0/key/2bf36c5220020ddf7c6e6a4b165b6b4a
+#EXTINF:-1 group-title="© SporTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",SporTV MoJiTo (Opción 6)
+https://directv.bz/uuid/447ku8od/key/2bf36c5220020ddf7c6e6a4b165b6b4a
+#EXTINF:-1 group-title="© SporTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",SporTV MoJiTo (Opción 7)
+https://directv.bz/uuid/44b5f41s/key/2bf36c5220020ddf7c6e6a4b165b6b4a
+#EXTINF:-1 group-title="© SporTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",SporTV MoJiTo (Opción 8)
+https://directv.bz/uuid/44d8bm9d/key/2bf36c5220020ddf7c6e6a4b165b6b4a
