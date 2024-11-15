@@ -34,29 +34,14 @@ http://177.8.76.2:8000/play/a02j
 http://186.148.181.154:8000/play/a02g
 
 # MTV
-#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://github.com/Bk-SaD/Mojito-Canales/blob/main/logo/mtv.png?raw=true",MTV MoJiTo (Opción 2)
-http://195.189.60.33:9015/play/a002
-#EXTM3U
-#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://github.com/Bk-SaD/Mojito-Canales/blob/main/logo/mtv.png?raw=true",MTV MoJiTo (Opción 1)
-http://195.24.89.82/MTV_SD/index.m3u8
-#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://github.com/Bk-SaD/Mojito-Canales/blob/main/logo/mtv.png?raw=true",MTV MoJiTo (Opción 2)
-http://88.216.83.245/mtv/index.m3u8
-#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://github.com/Bk-SaD/Mojito-Canales/blob/main/logo/mtv.png?raw=true",MTV MoJiTo (Opción 3)
-http://151.248.16.100:4444/MTV/index.m3u8
-#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://github.com/Bk-SaD/Mojito-Canales/blob/main/logo/mtv.png?raw=true",MTV MoJiTo (Opción 4 - Español)
-http://51.222.44.30:14921/MTV.m3u8
-#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://github.com/Bk-SaD/Mojito-Canales/blob/main/logo/mtv.png?raw=true",MTV MoJiTo 80s
-http://151.248.16.100:4444/MTV80/index.m3u8
-#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://github.com/Bk-SaD/Mojito-Canales/blob/main/logo/mtv.png?raw=true",MTV MoJiTo 90s
-http://151.248.16.100:4444/MTV90s/index.m3u8
-#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://github.com/Bk-SaD/Mojito-Canales/blob/main/logo/mtv.png?raw=true",MTV MoJiTo 00s (Opción 1)
-http://195.24.89.82/VH1_SD/index.m3u8
-#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://github.com/Bk-SaD/Mojito-Canales/blob/main/logo/mtv.png?raw=true",MTV MoJiTo 00s (Opción 2)
-http://50.7.137.106:8080/VH1/index.m3u8
-#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://github.com/Bk-SaD/Mojito-Canales/blob/main/logo/mtv.png?raw=true",MTV HITS MoJiTo (Opción 1)
-http://178.170.47.109/MTVHITS/index.m3u8
-#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://github.com/Bk-SaD/Mojito-Canales/blob/main/logo/mtv.png?raw=true",MTV HITS MoJiTo (Opción 2)
-http://45.88.92.3:80/tr3_MTVHits_SD/index.m3u8?token=test
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://github.com/Bk-SaD/Mojito-Canales/blob/main/logo/mtv.png?raw=true",MTV MoJiTo (1)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://github.com/Bk-SaD/Mojito-Canales/blob/main/logo/mtv.png?raw=true",MTV MoJiTo (2)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://github.com/Bk-SaD/Mojito-Canales/blob/main/logo/mtv.png?raw=true",MTV MoJiTo (3)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aadf373bed3000794d1d7&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=300&terminate=false&userId=
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://github.com/Bk-SaD/Mojito-Canales/blob/main/logo/mtv.png?raw=true",MTV MoJiTo (4)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/611b87946b7f420007c22361/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 # NatGeo
 #EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",© NatGeo - MoJiTo (Opción 1)
