@@ -83,25 +83,206 @@ https://directv.bz/uuid/47buj223/key/76c77e800adafaea29daa320f523e13a
 
 # HTV
 #EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV -  MoJiTo (Opción 1)
-http://181.233.168.4:8282/play/a04m
-#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV -  MoJiTo (Opción 2)
-https://directv.bz/uuid/351o2xon/key/76c77e800adafaea29daa320f523e13a
-#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV -  MoJiTo (Opción 3)
-http://45.175.139.194:8000/play/61
-#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV -  MoJiTo (Opción 4)
-https://directv.bz/uuid/34decsbz/key/76c77e800adafaea29daa320f523e13a
-#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV -  MoJiTo (Opción 5)
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (1)
+http://38.41.8.1:8000/play/a08i
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (2)
+http://154.198.57.34:8000/play/61
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (3)
+http://154.198.59.1:8000/play/a01i
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (4)
+http://177.126.51.9:8000/play/a042
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (5)
 http://66.231.71.18:8000/play/a02v
-#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV -  MoJiTo (Opción 6)
-https://directv.bz/uuid/348d5qn1/key/76c77e800adafaea29daa320f523e13a
-#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV -  MoJiTo (Opción 7)
-https://directv.bz/uuid/3428gyzi/key/76c77e800adafaea29daa320f523e13a
-#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV -  MoJiTo (Opción 8)
-https://directv.bz/uuid/338jzmj6/key/76c77e800adafaea29daa320f523e13a
-#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV -  MoJiTo (Opción 9)
-https://directv.bz/uuid/315pzbkk/key/76c77e800adafaea29daa320f523e13a
-#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV -  MoJiTo (Opción 10)
-http://45.175.139.194:8000/play/62
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (6)
+http://200.59.188.3:8000/play/a0h2
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (7)
+http://45.175.139.194:8000/play/61
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (8)
+http://190.60.49.244:4000/play/a068
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (9)
+http://181.233.168.4:8282/play/a04m
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (10)
+http://190.107.20.43:6004/play/a04m
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (11)
+http://181.233.168.3:8282/play/a04m
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (12)
+http://168.90.14.116:8282/play/a04m
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (13)
+http://190.61.44.134:1088/play/a05o
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (14)
+http://181.233.168.6:8282/play/a04m
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (15)
+http://190.14.249.39:8000/play/a04m
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (16)
+http://168.90.14.114:8282/play/a04m
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (17)
+http://181.233.168.8:8282/play/a04m
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (18)
+http://168.90.14.118:8282/play/a04m
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (19)
+http://38.52.182.236:9000/play/a042
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (20)
+http://187.73.179.86:8000/play/a08r
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (21)
+http://168.90.14.115:8282/play/a04m
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (22)
+http://190.60.49.243:4000/play/a068
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (23)
+http://181.233.168.5:8282/play/a04m
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (24)
+http://181.233.168.7:8282/play/a04m
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (25)
+http://186.148.184.65:8000/play/a039
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (26)
+http://186.148.196.82:8001/play/a057
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (27)
+http://181.233.168.13:8282/play/a04m
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (28)
+http://181.233.168.46:8000/play/a04m
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (29)
+http://190.109.15.194:8000/play/a0b9
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (30)
+http://181.78.105.146:8800/play/a02a
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (31)
+http://181.78.105.146:6060/play/a012
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (32)
+http://201.184.160.157:4849/play/CH95
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (33)
+http://200.125.170.120:8000/play/a049
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (34)
+http://186.148.181.147:8000/play/a00n
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (35)
+http://186.148.181.155:8000/play/a00n
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (36)
+http://200.125.170.122:8000/play/a049
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (37)
+http://186.148.181.158:8000/play/a00n
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (38)
+http://152.200.192.150:8000/play/a00n
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (39)
+http://186.148.181.157:8000/play/a00n
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (40)
+http://186.148.181.152:8000/play/a00n
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (41)
+http://186.148.181.145:8000/play/a00n
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (42)
+http://186.148.181.156:8000/play/a00n
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (43)
+http://152.200.192.148:8000/play/a00n
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (44)
+http://152.200.192.149:8000/play/a00n
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (45)
+http://201.184.160.154:4849/play/CH95
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (46)
+http://186.148.181.154:8000/play/a00n
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (47)
+http://186.148.181.149:8000/play/a00n
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (48)
+http://152.200.192.151:8000/play/a00n
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (49)
+http://186.148.181.146:8000/play/a00n
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (50)
+http://200.125.170.123:8000/play/a049
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (51)
+http://186.148.181.144:8000/play/a00n
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (52)
+http://186.148.181.159:8000/play/a00n
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (53)
+http://186.148.181.153:8000/play/a00n
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (54)
+http://186.148.181.148:8000/play/a00n
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (55)
+http://200.125.170.121:8000/play/a049
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (56)
+http://186.148.181.150:8000/play/a00n
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (57)
+http://186.148.181.151:8000/play/a00n
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (58)
+http://45.5.117.23:8000/play/a0l7/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (59)
+http://38.191.90.7:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (60)
+http://170.80.69.8:8000/play/a0db/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (61)
+http://38.191.90.9:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (62)
+http://45.5.119.96:9000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (63)
+http://45.5.119.97:9000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (64)
+http://38.191.90.2:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (65)
+http://204.157.96.1:8875/play/a0e3/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (66)
+http://38.191.90.24:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (67)
+http://38.191.90.21:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (68)
+http://38.191.90.62:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (69)
+http://38.191.90.68:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (70)
+http://38.191.90.90:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (71)
+http://38.191.90.93:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (72)
+http://38.191.90.79:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (73)
+http://191.97.12.90:8099/play/a02p/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (74)
+http://38.191.90.42:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (75)
+http://38.252.238.7:6102/play/a02j/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (76)
+http://38.191.90.53:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (77)
+http://38.191.90.36:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (78)
+http://38.191.90.60:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (79)
+http://38.252.238.9:6102/play/a02j/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (80)
+http://181.78.85.53:9000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (81)
+http://181.78.82.6:46090/play/a02r/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (82)
+http://181.78.6.66:8000/play/a081/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (83)
+http://38.191.90.6:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (84)
+http://38.191.90.0:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (85)
+http://38.191.90.8:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (86)
+http://38.191.90.4:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (87)
+http://38.191.90.1:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (88)
+http://8.243.64.39:8002/play/a017/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (89)
+http://38.191.90.5:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (90)
+http://38.191.90.3:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (91)
+http://179.1.48.57:9000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (92)
+http://45.71.37.196:8010/play/a07g/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (93)
+http://38.191.90.28:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (94)
+http://38.191.90.81:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (95)
+http://38.191.90.59:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (96)
+http://45.5.117.183:9000/play/a0b7/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (97)
+http://181.78.85.43:9000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (98)
+http://38.191.90.16:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (99)
+http://38.191.90.34:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="© HTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1280px-Htv_logo.svg.png",HTV - MoJiTo (100)
+http://38.191.90.20:8000/play/a049/index.m3u8
 
 # QMusic
 #EXTM3U
