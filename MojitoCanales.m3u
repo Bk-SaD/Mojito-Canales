@@ -114,28 +114,217 @@ https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
 https://directv.bz/luuid/cW11c2ljLWhkL251bWJlci8x/key/6dd921c2b3dc16fa7cf3621b1a83e044
 
 # HBO
-#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO POP - MoJiTo (Opción 1)
-https://directv.bz/uuid/3423rt35/key/6dd921c2b3dc16fa7cf3621b1a83e044
-#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (Opción 2)
-https://directv.bz/uuid/312psous/key/6dd921c2b3dc16fa7cf3621b1a83e044
-#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO POP - MoJiTo (Opción 3)
-https://directv.bz/uuid/3149zggb/key/6dd921c2b3dc16fa7cf3621b1a83e044
-#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO Family - MoJiTo (Opción 4)
-https://directv.bz/uuid/316pw694/key/6dd921c2b3dc16fa7cf3621b1a83e044
-#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO2 - MoJiTo (Opción 5)
-https://directv.bz/uuid/317xtlj7/key/6dd921c2b3dc16fa7cf3621b1a83e044
-#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (Opción 6)
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (1)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (2)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98537a5a4341000733aefe/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (3)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (4)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (5)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/611b87946b7f420007c22361/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (6)
+http://45.181.123.30:8000/play/017
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (7)
+http://45.181.123.30:8000/play/018
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (8)
+http://45.181.123.30:8000/play/019
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (9)
+http://45.181.123.30:8000/play/020
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (10)
+http://45.181.123.30:8000/play/021
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (11)
+http://207.248.3.81:8081/play/a0go
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (12)
+http://177.93.46.163:8000/play/a01z
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (13)
+http://200.59.188.3:8000/play/a0ks
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (14)
+http://200.59.188.3:8000/play/a03r
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (15)
+http://38.41.8.1:8000/play/a05u
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (16)
+http://190.61.42.218:9000/play/a00v
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (17)
+http://200.59.188.3:8000/play/a0l7
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (18)
+http://38.41.8.1:8000/play/a05h
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (19)
+http://177.8.76.2:8000/play/a03p
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (20)
+http://181.78.78.66:8000/play/a019
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (21)
+http://181.233.168.4:8282/play/a015
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (22)
+http://179.1.33.2:4000/play/a119
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (23)
+http://190.2.212.209:8050/play/a0qm
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (24)
+http://181.233.168.5:8282/play/a015
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (25)
+http://179.63.6.17:9000/play/a01z
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (26)
+http://38.187.2.125:8000/play/a022
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (27)
+http://200.59.188.3:8000/play/a027
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (28)
+http://38.41.8.1:8000/play/a021
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (29)
+http://200.59.188.3:8000/play/a06o
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (30)
+http://38.41.8.1:8000/play/a05k
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (31)
+http://177.8.76.2:8000/play/a04t
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (32)
+http://45.181.122.46:8090/play/a017
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (33)
+http://45.169.163.83:8000/play/a1a6
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (34)
+http://207.248.3.81:8081/play/a0iv
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (35)
+http://181.78.78.66:8000/play/a01r
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (36)
+http://181.233.168.6:8282/play/a026
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (37)
+http://179.1.33.2:4000/play/a123
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (38)
+http://190.60.49.243:4000/play/a081
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (39)
+http://190.61.44.134:1088/play/a040
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (40)
+http://168.90.14.115:8282/play/a026
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (41)
+http://190.14.249.39:8000/play/a026
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (42)
+http://181.233.168.7:8282/play/a026
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (43)
+http://190.119.40.74:8200/play/a0da
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (44)
+http://179.63.6.17:9000/play/a02v
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (45)
+http://38.187.2.125:8000/play/a02y
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (46)
+http://200.59.188.3:8000/play/a034
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (47)
+http://38.41.8.1:8000/play/a031
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (48)
+http://177.8.76.2:8000/play/a03i
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (49)
+http://177.8.76.2:8000/play/a02z
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (50)
+http://45.181.122.46:8090/play/a029
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (51)
+http://181.233.168.8:8282/play/a011
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (52)
+http://179.1.33.2:4000/play/a113
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (53)
+http://190.2.212.209:8050/play/a0qg
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (54)
+http://168.90.14.116:8282/play/a011
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (55)
+http://168.90.14.118:8282/play/a011
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (56)
+http://190.61.117.35:8000/play/a02p
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (57)
+http://38.187.2.125:8000/play/a01v
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (58)
+http://38.41.8.1:8000/play/a01u
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (59)
+http://200.59.188.3:8000/play/a0hb
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (60)
+http://200.59.188.3:8000/play/a06m
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (61)
+http://207.248.3.81:8081/play/a0je
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (62)
+http://181.78.86.226:8086/play/a04m
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (63)
+http://181.233.168.4:8282/play/a01u
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (64)
+http://179.1.33.2:4000/play/a11n
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (65)
+http://168.90.14.115:8282/play/a01u
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (66)
+http://200.59.188.3:8000/play/a00m
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (67)
 http://38.41.8.1:8000/play/a00d
-#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (Opción 8)
-https://directv.bz/uuid/31akbsk6/key/6dd921c2b3dc16fa7cf3621b1a83e044
-#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (Opción 10)
-http://38.41.8.1:8000/play/a0f1
-#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (Opción 11)
-http://190.95.11.209:8000/play/019
-#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO Family - MoJiTo (Opción 12)
-https://directv.bz/uuid/31cnmne5/key/6dd921c2b3dc16fa7cf3621b1a83e044
-#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO+Plus - MoJiTo (Opción 13)
-https://directv.bz/uuid/317obfqa/key/6dd921c2b3dc16fa7cf3621b1a83e044
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (68)
+http://200.59.188.3:8000/play/a0l0
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (69)
+http://177.8.76.2:8000/play/a04u
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (70)
+http://168.90.14.114:8282/play/a027
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (71)
+http://181.233.168.6:8282/play/a027
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (72)
+http://179.1.33.2:4000/play/a10t
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (73)
+http://190.61.44.134:1088/play/a041
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (74)
+http://168.90.14.115:8282/play/a027
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (75)
+http://38.187.2.125:8000/play/a00w
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (76)
+http://200.59.188.3:8000/play/a035
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (77)
+http://38.41.8.1:8000/play/a032
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (78)
+http://190.2.212.209:8050/play/a0ps
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (79)
+http://5.39.189.42:8086/play/a0bt
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (80)
+http://5.39.189.42:8086/play/a0bu
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (81)
+http://177.126.51.9:8000/play/a00l
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (82)
+http://38.52.182.236:9000/play/a057
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (83)
+http://177.126.51.9:8000/play/a086
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (84)
+http://38.52.182.236:9000/play/a05x
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (85)
+http://38.52.182.236:9000/play/a06f
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (86)
+http://38.52.182.236:9000/play/a04d
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (87)
+http://181.233.168.7:8282/play/a011
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (88)
+http://190.107.20.43:6004/play/a011
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (89)
+http://5.39.189.42:8086/play/a098
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (90)
+http://200.59.188.3:8000/play/a0ku
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (91)
+http://190.2.212.209:8050/play/a0pr
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (92)
+http://38.41.8.1:8000/play/a05i
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (93)
+http://177.8.76.2:8000/play/a024
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (94)
+http://45.181.122.46:8090/play/a00j
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (95)
+http://207.248.3.81:8081/play/a0eo
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (96)
+http://181.78.78.66:8000/play/a03g
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (97)
+http://190.60.49.244:4000/play/a082
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (98)
+http://190.14.249.39:8000/play/a027
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (99)
+http://181.233.168.7:8282/play/a027
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (100)
+http://38.41.8.1:8000/play/a05j
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (101)
+http://38.187.2.125:8000/play/a008
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (102)
+http://177.126.51.9:8000/play/a087
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (103)
+http://177.126.51.9:8000/play/a06f
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (104)
+http://38.52.182.236:9000/play/a07o
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO - MoJiTo (105)
+http://38.52.182.236:9000/play/a07s
+
 
 # SporTV
 #EXTINF:-1 group-title="© SporTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",SporTV MoJiTo (Opción 1)
