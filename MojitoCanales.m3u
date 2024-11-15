@@ -34,14 +34,206 @@ http://177.8.76.2:8000/play/a02j
 http://186.148.181.154:8000/play/a02g
 
 # MTV
-#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://github.com/Bk-SaD/Mojito-Canales/blob/main/logo/mtv.png?raw=true",MTV MoJiTo (1)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
-#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://github.com/Bk-SaD/Mojito-Canales/blob/main/logo/mtv.png?raw=true",MTV MoJiTo (2)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://github.com/Bk-SaD/Mojito-Canales/blob/main/logo/mtv.png?raw=true",MTV MoJiTo (3)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aadf373bed3000794d1d7&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=300&terminate=false&userId=
-#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://github.com/Bk-SaD/Mojito-Canales/blob/main/logo/mtv.png?raw=true",MTV MoJiTo (4)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/611b87946b7f420007c22361/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (1)
+http://38.41.8.1:8000/play/a04t
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (2)
+http://38.41.8.1:8000/play/a0dc
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (3)
+http://38.41.8.1:8000/play/a0fh
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (4)
+http://177.8.76.2:8000/play/a035
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (5)
+http://177.8.76.2:8000/play/a04n
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (6)
+http://177.8.76.2:8000/play/a04g
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (7)
+http://179.1.33.2:4000/play/a11e
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (8)
+http://5.39.189.42:8086/play/a09b
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (9)
+http://154.198.57.34:8000/play/73
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (10)
+http://190.7.192.162:8006/play/s9
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (11)
+http://181.78.78.66:8000/play/a009
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (12)
+http://45.84.208.31:4000/play/a00j
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (13)
+http://66.231.71.18:8000/play/a009
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (14)
+http://38.187.2.125:8000/play/a00k
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (15)
+http://200.59.188.3:8000/play/a0kj
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (16)
+http://181.78.78.66:8000/play/a00n
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (17)
+http://195.24.90.119:800/play/a09q
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (18)
+http://154.198.59.1:8000/play/a01r
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (19)
+http://181.78.78.66:8000/play/a04h
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (20)
+http://45.181.123.30:8000/play/132
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (21)
+http://190.7.192.164:8020/play/s41
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (22)
+http://190.7.192.164:8020/play/s40
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (23)
+http://200.59.188.3:8000/play/a0kk
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (24)
+http://181.78.78.66:8000/play/a04n
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (25)
+http://45.175.139.194:8000/play/73
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (26)
+http://207.248.3.81:8081/play/a0ir
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (27)
+http://200.59.188.3:8000/play/a05c
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (28)
+http://45.65.112.49:8000/play/a0od
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (29)
+http://77.160.58.67:8004/play/a028
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (30)
+http://38.187.2.125:8000/play/a03c
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (31)
+http://190.61.117.35:8000/play/a00o
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (32)
+http://187.73.179.86:8000/play/a093
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (33)
+http://207.248.2.195:8000/play/a033
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (34)
+http://38.52.182.236:9000/play/a07c
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (35)
+http://177.93.46.163:8000/play/a00a
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (36)
+http://207.248.2.195:8000/play/a01s
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (37)
+http://45.169.163.83:8000/play/a1ao
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (38)
+http://190.60.49.244:4000/play/a073
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (39)
+http://45.169.163.83:8000/play/a18y
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (40)
+http://187.73.179.86:8000/play/a068
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (41)
+http://195.189.60.33:9015/play/a002
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (42)
+http://207.248.2.195:8000/play/a01e
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (43)
+http://45.184.87.142:8000/play/a043
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (44)
+http://38.52.182.236:9000/play/a09i
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (45)
+http://190.61.42.218:9000/play/a00i
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (46)
+http://195.189.60.33:9015/play/a00a
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (47)
+http://190.60.49.243:4000/play/a073
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (48)
+http://207.248.2.195:8000/play/a04s
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (49)
+http://190.61.117.35:8000/play/a00x
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (50)
+http://190.119.40.74:8200/play/a0h6
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (51)
+http://190.2.212.209:8050/play/a0oi
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (52)
+http://190.61.117.35:8000/play/a023
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (53)
+http://207.248.2.195:8000/play/a05o
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (54)
+http://190.61.44.134:1088/play/a00b
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (55)
+http://45.184.87.142:8000/play/a042
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (56)
+http://181.78.86.226:8086/play/a055
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (57)
+http://45.181.122.46:8090/play/a01w
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (58)
+http://207.248.2.195:8000/play/a05e
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (59)
+http://103.151.43.114:8000/play/a050
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (60)
+http://192.141.98.142:8000/play/a09f
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (61)
+http://181.78.105.146:8800/play/a029
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (62)
+http://154.58.202.185:8000/play/a00p
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (63)
+http://171.22.165.241:8888/play/a0m2
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (64)
+http://185.236.229.62:9981/play/a066
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (65)
+http://181.78.105.146:8800/play/a065
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (66)
+http://171.22.165.241:8888/play/a0me
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (67)
+http://45.181.123.233:8000/play/a17x
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (68)
+http://181.78.105.146:6060/play/a044
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (69)
+http://181.78.105.146:8800/play/a04j
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (70)
+http://185.236.229.62:9981/play/a063
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (71)
+http://185.236.229.62:9981/play/a07f
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (72)
+http://185.236.229.62:9981/play/a06b
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (73)
+http://45.181.123.233:8000/play/a18i
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (74)
+http://188.60.179.180:8000/play/a0q5
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (75)
+http://181.78.105.146:6060/play/a01w
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (76)
+http://38.137.217.169:8000/play/a06g
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (77)
+http://138.99.179.227:8000/play/a07p
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (78)
+http://192.141.98.142:8000/play/a092
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (79)
+http://195.189.60.33:9015/play/a005
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (80)
+http://190.61.117.35:8000/play/a00p
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (81)
+http://181.78.86.226:8086/play/a05i
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (82)
+http://45.181.122.46:8090/play/a011
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (83)
+http://84.50.127.180:9091/play/a01k
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (84)
+http://109.245.49.186:8000/play/a015
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (85)
+http://181.78.105.146:6060/play/a03o
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (86)
+http://181.78.105.146:8800/play/a06s
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (87)
+http://171.22.165.241:8888/play/a0jf
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (88)
+http://181.78.105.146:8800/play/a066
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (89)
+http://181.78.105.146:8800/play/a047
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (90)
+http://138.99.179.227:8000/play/a089
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (91)
+http://38.137.217.169:8000/play/a03l
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (92)
+http://45.189.148.254:8000/play/a00a
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (93)
+http://190.102.246.93:9005/play/a01p
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (94)
+http://38.137.217.169:8000/play/a06d
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (95)
+http://149.62.177.103:8000/play/a031
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (96)
+http://181.78.105.146:6060/play/a03n
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (97)
+http://181.78.105.146:6060/play/a011
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (98)
+http://186.96.98.138:19000/play/a03b
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (99)
+http://45.189.148.254:8000/play/a019
+#EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (100)
+http://181.78.105.146:6060/play/a028
 
 # NatGeo
 #EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",© NatGeo - MoJiTo (Opción 1)
