@@ -718,7 +718,160 @@ https://directv.bz/uuid/44b5f41s/key/2bf36c5220020ddf7c6e6a4b165b6b4a
 https://directv.bz/uuid/44d8bm9d/key/2bf36c5220020ddf7c6e6a4b165b6b4a
 
 # Premiere 
-#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Premiere 5 MoJiTo (Opción 1)
-https://directv.bz/uuid/369my5nn/key/2bf36c5220020ddf7c6e6a4b165b6b4a
-#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Premiere 5 MoJiTo (Opción 2)
-https://directv.bz/uuid/369my5nn/key/2bf36c5220020ddf7c6e6a4b165b6b4a
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Universal Premiere SD (1) - MoJiTo (1)
+http://38.41.8.1:8000/play/a05p
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",OSN TV Movies Premiere (1) - MoJiTo (2)
+http://167.235.207.141/play/a005
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Film1 Premiere (1) - MoJiTo (3)
+http://77.160.58.67:8008/play/a01n
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Universal Premiere SD (1) - MoJiTo (4)
+http://200.59.188.3:8000/play/a06t
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE HD (1) - MoJiTo (5)
+http://190.61.117.35:8000/play/a04v
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",GOLDENPREMIERE2 (2) - MoJiTo (6)
+http://45.184.87.142:8000/play/a038
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",RED - UNIVERSAL PREMIERE HD (1) - MoJiTo (7)
+http://38.52.182.236:9000/play/a09d
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",RED - Golden Premiere 2 HD (2) - MoJiTo (8)
+http://38.52.182.236:9000/play/a0ag
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",RED - Golden Premiere HD (1) - MoJiTo (9)
+http://38.52.182.236:9000/play/a0af
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Universal Premiere SD (1) - MoJiTo (10)
+http://190.61.42.218:9000/play/a006
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",GOLDENPREMIERE (1) - MoJiTo (11)
+http://45.184.87.142:8000/play/a03a
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Golden Premiere 2 HD (2) - MoJiTo (12)
+http://190.61.117.35:8000/play/a037
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Universal Premiere SD (1) - MoJiTo (13)
+http://190.2.212.209:8050/play/a0q2
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Universal Premiere (1) - MoJiTo (14)
+http://190.61.44.134:1088/play/a00w
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE O HD (1) - MoJiTo (15)
+http://190.61.117.35:8000/play/a04w
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Golden Premiere HD (1) - MoJiTo (16)
+http://190.61.117.35:8000/play/a036
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Universal Premiere SD (1) - MoJiTo (17)
+http://177.93.46.163:8000/play/a00t
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UniversalPremiereSD (1) - MoJiTo (18)
+http://45.169.163.83:8000/play/a1b4
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE O HD (1) - MoJiTo (19)
+http://181.78.105.146:8800/play/a068
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE O HD (1) - MoJiTo (20)
+http://181.78.105.146:6060/play/a03q
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",G - PELIS-Universal Premiere SD (1) - MoJiTo (21)
+http://192.141.98.142:8000/play/a065
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",V film premiere (30) - MoJiTo (22)
+http://185.96.183.139:8001/play/a03p
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE HD (1) - MoJiTo (23)
+http://181.78.105.146:6060/play/a03p
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE O (1) - MoJiTo (24)
+http://181.78.105.146:6060/play/a04j
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Tata Play Bollywood Premiere HD (1) - MoJiTo (25)
+http://116.90.120.150:8000/play/a02q
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",GOLDEN PREMIERE 2 (2) - MoJiTo (26)
+http://38.137.217.169:8000/play/a064
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Tata Sky Bollywood PremiereN HD (1) - MoJiTo (27)
+http://116.90.120.150:8000/play/a05q
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Premiere 3 HD (3) - MoJiTo (28)
+http://177.93.152.229:8000/play/a01o
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE HD (1) - MoJiTo (29)
+http://181.78.105.146:8800/play/a067
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE (1) - MoJiTo (30)
+http://181.78.105.146:8800/play/a076
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE (1) - MoJiTo (31)
+http://181.78.105.146:6060/play/a04i
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Universal Premiere SD (1) - MoJiTo (32)
+http://45.181.123.233:8000/play/a15d
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Golden Premiere 2 HD (2) - MoJiTo (33)
+http://200.125.170.121:8000/play/a00m
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE O HD (1) - MoJiTo (34)
+http://200.125.170.120:8000/play/a04p
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Golden Premiere HD (1) - MoJiTo (35)
+http://200.125.170.122:8000/play/a00l
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE HD (1) - MoJiTo (36)
+http://200.125.170.120:8000/play/a04o
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Golden Premiere 2 HD (2) - MoJiTo (37)
+http://190.216.162.154:8000/play/a0wd
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Golden Premiere 2 HD (2) - MoJiTo (38)
+http://200.125.170.120:8000/play/a00m
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE HD (1) - MoJiTo (39)
+http://45.190.187.105:58092/play/a02c
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Golden Premiere HD (1) - MoJiTo (40)
+http://190.216.162.154:8000/play/a00i
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE O HD (1) - MoJiTo (41)
+http://45.190.187.105:58092/play/a05q
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Golden Premiere HD (1) - MoJiTo (42)
+http://190.216.162.154:8000/play/a0wc
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE O HD (1) - MoJiTo (43)
+http://200.125.170.122:8000/play/a04p
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Golden Premiere 2 HD (2) - MoJiTo (44)
+http://200.125.170.122:8000/play/a00m
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Golden Premiere HD (1) - MoJiTo (45)
+http://200.125.170.121:8000/play/a00l
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE HD (1) - MoJiTo (46)
+http://200.125.170.123:8000/play/a04o
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE HD (1) - MoJiTo (47)
+http://200.125.170.121:8000/play/a04o
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",PREMIERE 1 (1) - MoJiTo (48)
+http://84.22.41.184:8001/play/56/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",PREMIERE 3 (3) - MoJiTo (49)
+http://84.22.41.184:8001/play/58/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE HD (134) - MoJiTo (50)
+http://38.191.90.5:8000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Golden Premiere HD (1) - MoJiTo (51)
+http://38.191.90.0:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE O HD (1) - MoJiTo (52)
+http://38.191.90.8:8000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE HD (1) - MoJiTo (53)
+http://38.191.90.8:8000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Streamer - PremiereFC1 (1) - MoJiTo (54)
+http://170.80.69.8:8000/play/a0ed/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Streamer - PremiereFC3 (3) - MoJiTo (55)
+http://170.80.69.8:8000/play/a0ef/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE O HD (1) - MoJiTo (56)
+http://38.191.90.4:8000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE HD (1) - MoJiTo (57)
+http://38.191.90.3:8000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Golden Premiere 2 HD (2) - MoJiTo (58)
+http://38.191.90.5:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Golden Premiere 2 HD (2) - MoJiTo (59)
+http://38.191.90.3:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE HD (1) - MoJiTo (60)
+http://38.191.90.2:8000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Golden Premiere 2 HD (2) - MoJiTo (61)
+http://38.191.90.0:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",D1V - Globosat - Premiere2 (1) - MoJiTo (62)
+http://170.80.69.8:8000/play/a09m/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Golden Premiere HD (1) - MoJiTo (63)
+http://38.191.90.8:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Golden Premiere HD (1) - MoJiTo (64)
+http://38.191.90.2:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Streamer - PremiereFC6 (6) - MoJiTo (65)
+http://170.80.69.8:8000/play/a0ei/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE HD (1) - MoJiTo (66)
+http://45.5.119.97:9000/play/a060/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE O HD (1) - MoJiTo (67)
+http://38.191.90.2:8000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE HD (1) - MoJiTo (68)
+http://190.216.162.154:8000/play/a0y0
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Golden Premiere HD (1) - MoJiTo (69)
+http://200.125.170.123:8000/play/a00l
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Golden Premiere 2 HD (2) - MoJiTo (70)
+http://200.125.170.123:8000/play/a00m
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE O HD (1) - MoJiTo (71)
+http://190.216.162.154:8000/play/a01i
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Golden Premiere HD (1) - MoJiTo (72)
+http://200.125.170.120:8000/play/a00l
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE HD (1) - MoJiTo (73)
+http://200.125.170.122:8000/play/a04o
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",Golden Premiere 2 HD (2) - MoJiTo (74)
+http://190.216.162.154:8000/play/a00j
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE O HD (1) - MoJiTo (75)
+http://190.216.162.154:8000/play/a0y1
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE O HD (1) - MoJiTo (76)
+http://200.125.170.121:8000/play/a04p
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE HD (1) - MoJiTo (77)
+http://190.216.162.154:8000/play/a01h
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/1280px-Premiere_logo_2013.png",UNIVERSAL PREMIERE O HD (1) - MoJiTo (78)
+http://200.125.170.123:8000/play/a04p
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-lo
