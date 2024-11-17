@@ -387,24 +387,242 @@ http://181.78.105.146:6060/play/a028
 
 
 # NatGeo
-#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",© NatGeo - MoJiTo (Opción 1)
-https://directv.bz/uuid/357d46ro/key/bdd15eb2eb1c0b1e42a77166b4964a58
-#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",© NatGeo - MoJiTo (Opción 2)
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NATGEO HD (1) - MoJiTo (1)
+http://154.198.57.34:8000/play/52
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NATGEO HD (1) - MoJiTo (2)
+http://45.175.139.194:8000/play/52
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NATGEO (1) - MoJiTo (3)
+http://181.78.8.90:16123/play/ch30
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NATGEO HD (1) - MoJiTo (4)
+http://154.198.59.1:8000/play/a01s
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",natgeosd (1) - MoJiTo (5)
+http://45.169.163.83:8000/play/a190
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NatGeo Mexico (NG55) (55) - MoJiTo (6)
+http://181.78.10.206:8000/play/a0bg
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",natgeo (1) - MoJiTo (7)
+http://45.184.87.142:8000/play/a03z
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NATGEO (1) - MoJiTo (8)
+http://190.61.55.107:8000/play/a009
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",natgeohd (1) - MoJiTo (9)
+http://45.169.163.83:8000/play/a18z
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NATGEO (1) - MoJiTo (10)
+http://181.78.21.60:16123/play/ch30
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NATGEO HD (1) - MoJiTo (11)
+http://181.78.23.26:45000/play/a016
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",natgeohd (1) - MoJiTo (12)
+http://45.181.123.233:8000/play/a17u
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",natgeosd (1) - MoJiTo (13)
+http://45.181.123.233:8000/play/a17t
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NatGeo (1) - MoJiTo (14)
+http://190.211.250.102:8000/play/a00i
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NATGEO (1) - MoJiTo (15)
+http://179.189.222.226:8000/play/ch30
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NATGEO (1) - MoJiTo (16)
+http://179.189.222.226:16123/play/ch30
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NATGEO (1) - MoJiTo (17)
+http://190.60.42.86:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NATGEO (1) - MoJiTo (18)
+http://38.51.234.86:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NatGeo People HD | Sharing (1) - MoJiTo (19)
+http://144.48.121.8:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NATGEO LA (1) - MoJiTo (20)
+http://45.5.117.183:9000/play/a0cl/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",01-NatGeo Wild HD-Rs8 (01) - MoJiTo (21)
+http://121.91.61.70:9000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",25 - NatGeo (25) - MoJiTo (22)
+http://200.115.98.26:9000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NATGEO CHO (1) - MoJiTo (23)
+http://200.115.96.66:4000/play/a0j8/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",312 NATGEO LA (31) - MoJiTo (24)
+http://38.123.205.14:8000/play/a0cl/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NATGEO (1) - MoJiTo (25)
+http://181.119.86.68:8000/play/b004/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NATGEO (1) - MoJiTo (26)
+http://190.121.42.18:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NATGEO NUEVO (1) - MoJiTo (27)
+http://190.0.241.181:8000/play/a077/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",312 NatGeo (31) - MoJiTo (28)
+http://181.78.105.146:2000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NatGeo (1) - MoJiTo (29)
+http://181.119.68.227:9500/play/a013/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NATGEO (1) - MoJiTo (30)
+http://181.188.216.148:8000/play/natgeo/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NatGeo Wild HD PR (1) - MoJiTo (31)
+http://176.65.146.175:8001/play/natgeoWild_HD/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic Wild HD DUT (1) - MoJiTo (32)
+http://5.39.189.42:8086/play/a097
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic Wild HD CZ (1) - MoJiTo (33)
+http://5.39.189.42:8086/play/a096
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic Wild HD (1) - MoJiTo (34)
+http://5.39.189.42:8086/play/a095
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (35)
+http://195.24.90.119:800/play/a09e
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic Wild HD (1) - MoJiTo (36)
+http://195.189.60.33:9014/play/a009
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (37)
+http://84.50.127.180:9091/play/a01z
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",Tunner 2 - National Geographic SD (2) - MoJiTo (38)
+http://38.52.182.236:9000/play/a02m
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (39)
+http://190.61.117.35:8000/play/a00l
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NATIONAL GEOGRAPHIC HD - Rs 14.00 (14) - MoJiTo (40)
+http://116.90.120.150:8000/play/a01d
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (41)
+http://181.78.105.146:8800/play/a044
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (42)
+http://181.78.105.146:6060/play/a01t
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic Wild HD (1) - MoJiTo (43)
+http://185.236.229.62:9981/play/a05z
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NATIONAL GEOGRAPHIC (1) - MoJiTo (44)
+http://103.101.197.10:8000/play/a02e
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (9) - MoJiTo (45)
+http://185.96.183.139:8001/play/Nationalgeo
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (46)
+http://45.4.1.202:8000/play/a0z2/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (47)
+http://45.5.119.97:9000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (48)
+http://45.5.119.96:9000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (49)
+http://45.167.3.81:45000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (50)
+http://45.71.37.196:8010/play/a0ao/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (51)
+http://45.5.116.178:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (52)
+http://38.52.209.82:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",120. National Geographic (12) - MoJiTo (53)
+http://45.5.117.182:8000/play/a0ey/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (54)
+http://191.97.12.90:8099/play/a048/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic Wild HD (1) - MoJiTo (55)
+http://78.130.250.2:8023/play/a02c/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (56)
+http://181.78.201.70:8000/play/a0a9/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NATIONAL GEOGRAPHIC (1) - MoJiTo (57)
+http://190.60.33.245:4002/play/a0sm/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (58)
+http://181.78.109.49:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (59)
+http://190.97.183.98:8000/play/a0ns/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (60)
+http://45.171.64.180:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (61)
+http://38.159.227.125:8000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (62)
+http://45.228.234.210:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (63)
+http://190.61.106.108:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic HD (1) - MoJiTo (64)
+http://119.156.26.155:8000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (65)
+http://200.52.148.194:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (66)
+http://38.159.227.126:8000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (137) - MoJiTo (67)
+http://200.92.227.238:8000/play/a0lp/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (68)
+http://216.122.181.10:8081/play/a0dq/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (69)
+http://45.186.106.207:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (70)
+http://38.159.227.124:8000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic RO (1) - MoJiTo (71)
+http://45.65.112.215:12000/play/a08d/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic HD (1) - MoJiTo (72)
+http://176.65.146.108:8022/play/a07l/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NATIONAL GEOGRAPHIC HD - Rs 14.00 (14) - MoJiTo (73)
+http://103.115.126.26:8000/play/a054/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (74)
+http://45.186.105.158:8006/play/a0ci/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (75)
 http://190.61.106.106:8000/play/a01w/index.m3u8
-#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",© NatGeo - MoJiTo (Opción 3)
-https://directv.bz/uuid/457nf87t/key/76c77e800adafaea29daa320f523e13a
-#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",© NatGeo - MoJiTo (Opción 4)
-https://directv.bz/uuid/43dffpfp/key/76c77e800adafaea29daa320f523e13a
-#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",© NatGeo - MoJiTo (Opción 5)
-https://directv.bz/uuid/434jyjbd/key/76c77e800adafaea29daa320f523e13a
-#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",© NatGeo - MoJiTo (Opción 6)
-https://directv.bz/uuid/35arr0n1/key/76c77e800adafaea29daa320f523e13a
-#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",© NatGeo - MoJiTo (Opción 8)
-https://directv.bz/uuid/36e447ew/key/76c77e800adafaea29daa320f523e13a
-#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",© NatGeo - MoJiTo (Opción 9)
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic RO (1) - MoJiTo (76)
+http://45.65.112.215:12000/play/a06y/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (77)
+http://200.229.147.210:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",CH54 - National Geographic (54) - MoJiTo (78)
+http://45.170.225.212:48001/play/a08e/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic SD (1) - MoJiTo (79)
+http://181.209.159.245:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (80)
+http://201.159.113.219:49000/play/a019/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",5888 | National Geographic (58) - MoJiTo (81)
+http://181.114.57.246:4000/play/TQqUqLTut8Hk4F89/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",153_National Geographic (15) - MoJiTo (82)
+http://213.91.178.133:8000/play/a048
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (83)
 http://181.233.168.46:8000/play/a037
-#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",© NatGeo - MoJiTo (Opción 10)
-https://directv.bz/uuid/331b3kxq/key/76c77e800adafaea29daa320f523e13a
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic RO (1) - MoJiTo (84)
+http://193.106.124.204:8003/play/a030
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (85)
+http://45.5.117.23:8000/play/a0m0/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (86)
+http://38.7.31.247:8000/play/a09m/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (87)
+http://204.157.96.1:8875/play/a0cv/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (88)
+http://45.5.117.183:9000/play/a0qj/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (89)
+http://45.71.37.194:8010/play/a0ao/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (90)
+http://216.155.91.47:8000/play/a0cd/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (91)
+http://38.180.133.31:8000/play/a0nc/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NATIONAL GEOGRAPHIC (1) - MoJiTo (92)
+http://201.168.8.230:8000/play/a04b/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (93)
+http://200.60.46.118:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (94)
+http://190.92.40.229:8000/play/a09b/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (95)
+http://190.123.76.22:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (96)
+http://190.61.116.50:9000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (97)
+http://38.180.133.31:8000/play/a0zm/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (98)
+http://190.115.15.49:8000/play/a0ol/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",33_National Geographic (33) - MoJiTo (99)
+http://217.113.25.45:8866/play/a00y/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",120. National Geographic (12) - MoJiTo (100)
+http://168.227.131.66:8000/play/a0ey/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (101)
+http://38.159.232.166:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (102)
+http://38.159.227.122:8000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic Wild HD hu (1) - MoJiTo (103)
+http://149.100.19.130:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (104)
+http://190.61.106.107:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",05 National Geographic (05) - MoJiTo (105)
+http://179.49.113.220:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (106)
+http://190.211.102.42:4000/play/a020/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (107)
+http://190.95.220.212:8000/play/a0p4/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (108)
+http://201.219.11.178:9998/play/a0hd/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (109)
+http://38.159.227.123:8000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic Wild (1) - MoJiTo (110)
+http://176.65.146.108:8022/play/a06z/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (111)
+http://45.186.105.215:9999/play/a023/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic Wild HD CZ (1) - MoJiTo (112)
+http://149.100.19.130:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (113)
+http://131.196.13.102:8000/play/a0aw/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (114)
+http://45.228.234.113:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic Wild HD (1) - MoJiTo (115)
+http://149.100.19.130:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (116)
+http://157.20.146.198:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NATIONAL GEOGRAPHIC (1) - MoJiTo (117)
+http://181.78.106.127:9000/play/ca060/index.m3u8
+#EXTINF:-1 group-title="© NatGeo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",National Geographic (1) - MoJiTo (118)
+http://138.118.105.190:8000/play/a04d/index.m3u8
 
 # TeleHit
 #EXTINF:-1 group-title="© TeleHit" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png",TeleHit - MoJiTo (Opción 1)
