@@ -1,1 +1,179 @@
+#EXTM3U
 
+
+# PlayBoy
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy TV Europe (1) - MoJiTo
+http://77.160.58.67:8002/play/a01p
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://181.78.78.66:8000/play/a00r
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://200.59.188.3:8000/play/a01m
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",9 - Playboy HD (9) - MoJiTo
+http://38.52.182.236:9000/play/a04p
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://181.78.86.226:8086/play/a05n
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://45.169.163.83:8000/play/a19d
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",5 - Playboy SD (5) - MoJiTo
+http://38.52.182.236:9000/play/a030
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://190.60.49.244:4000/play/a04f
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://190.61.44.134:1088/play/a02r
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://190.60.49.243:4000/play/a04f
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (1) - MoJiTo
+http://181.78.105.146:8800/play/a01a
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://45.181.123.233:8000/play/a18c
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",PlayBoy HD (1) - MoJiTo
+http://138.99.179.227:8000/play/a024
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (1) - MoJiTo
+http://181.78.105.146:6060/play/a052
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://38.137.217.169:8000/play/a01i
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",N - ADULTOS - Playboy HD (1) - MoJiTo
+http://192.141.98.142:8000/play/a08y
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (1) - MoJiTo
+http://200.125.170.123:8000/play/a02c
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://201.184.160.154:4849/play/CH53
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (1) - MoJiTo
+http://200.125.170.121:8000/play/a02c
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://201.184.160.157:4849/play/CH53
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (1) - MoJiTo
+http://200.125.170.120:8000/play/a02c
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (1) - MoJiTo
+http://200.125.170.122:8000/play/a02c
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",PLAYBOY (105) - MoJiTo
+http://45.5.119.43:4000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (1) - MoJiTo
+http://45.5.119.96:9000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",SES6L - Globosat - Playboy (6) - MoJiTo
+http://170.80.69.8:8000/play/a09j/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",- playboy (136) - MoJiTo
+http://170.80.69.8:8000/play/a0f3/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (1) - MoJiTo
+http://179.63.36.2:8000/play/a0p3/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://38.7.101.90:8000/play/a0ad/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (1) - MoJiTo
+http://45.5.119.97:9000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://45.58.126.6:8000/play/a0bk/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://8.243.249.70:8000/play/a06f/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://204.157.96.1:8875/play/a006/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://24.152.58.115:450/play/a084/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://209.45.52.14:8000/play/a05j/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://181.78.17.51:8000/play/a0aw/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://181.78.85.53:9000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (1) - MoJiTo
+http://45.5.116.178:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://181.78.85.43:9000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://190.29.110.32:450/play/a084/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (1) - MoJiTo
+http://45.167.3.81:45000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",128. Playboy (12) - MoJiTo
+http://45.5.117.182:8000/play/a0ed/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (1) - MoJiTo
+http://45.5.117.183:9000/play/a0pw/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://45.71.37.194:8010/play/a023/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",PLAYBOY (1) - MoJiTo
+http://38.199.5.160:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://179.1.64.157:8000/play/a0hh/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://45.71.37.196:8010/play/a023/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://38.7.100.225:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://8.243.126.131:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://38.56.113.50:11211/play/a0ub/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://200.121.48.17:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://45.70.237.125:8000/play/a0e1/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://190.60.33.245:4002/play/a0yq/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://181.204.29.20:8000/play/a0ny/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (1) - MoJiTo
+http://200.115.96.61:9090/play/a0hq/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (1) - MoJiTo
+http://181.78.109.49:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://179.51.136.19:8000/play/a0ro/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://45.70.201.252:8888/play/a056/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (1) - MoJiTo
+http://38.180.133.31:8000/play/a0mp/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (1) - MoJiTo
+http://45.171.64.180:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://38.44.237.122:8000/play/a0l5/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://38.43.150.189:8000/play/a06h/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (1) - MoJiTo
+http://216.244.200.34:8000/play/a04r/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",128. Playboy (12) - MoJiTo
+http://168.227.131.66:8000/play/a0ed/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (1) - MoJiTo
+http://45.186.105.215:9999/play/a01g/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (146) - MoJiTo
+http://200.92.227.238:8000/play/a0mv/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://131.196.13.102:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (1) - MoJiTo
+http://190.211.102.42:4000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://181.204.29.131:8000/play/a0ny/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (1) - MoJiTo
+http://216.122.181.10:8081/play/a0mw/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (1) - MoJiTo
+http://190.61.106.108:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (1) - MoJiTo
+http://190.61.106.106:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (1) - MoJiTo
+http://190.61.106.107:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (1) - MoJiTo
+http://179.49.113.220:8000/play/a0dq/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://200.41.79.165:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://181.176.21.82:8000/play/a0ax/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",PLAYBOY (1) - MoJiTo
+http://200.60.172.98:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (1) - MoJiTo
+http://190.61.116.50:9000/play/a086/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://38.188.100.27:8000/play/a04k/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://181.78.83.150:8000/play/a0gf/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://186.96.71.204:8000/play/a0a9/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://200.10.67.170:8000/play/a2uy/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://209.14.116.77:8000/play/a09u/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (1) - MoJiTo
+http://190.123.76.22:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://200.4.217.150:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://200.60.46.118:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - MoJiTo
+http://216.155.91.47:8000/play/a08l/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy (1) - MoJiTo
+http://45.228.234.210:8000/play/a09b/index.m3u8
+#EXTINF:-1 group-title="© Playboy" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/PlayboyLogo.svg/220px-PlayboyLogo.svg.png",Playboy HD (1) - M
