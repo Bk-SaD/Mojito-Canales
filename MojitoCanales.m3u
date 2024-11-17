@@ -34,6 +34,171 @@ http://177.8.76.2:8000/play/a02j
 #EXTINF:-1 group-title="© [ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[ Adult Swim ] MoJiTo (Opción 10)
 http://186.148.181.154:8000/play/a02g
 
+# Telemundo
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://179.1.33.2:4000/play/a0sy
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",telemundo (1) - MoJiTo
+http://177.8.76.2:8000/play/a008
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://179.63.6.17:9000/play/a04k
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://200.59.188.3:8000/play/a07p
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",TELEMUNDO HD (1) - MoJiTo
+http://154.198.59.1:8000/play/a03f
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",149 Telemundo (14) - MoJiTo
+http://45.181.123.30:8000/play/149
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://38.187.2.125:8000/play/a03k
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",OLE TELEMUNDO (1) - MoJiTo
+http://45.171.181.2:8000/play/a02t
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://38.44.109.41:8003/play/a017
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",TELEMUNDO (1) - MoJiTo
+http://181.78.14.26:8000/play/a00g
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",TELEMUNDO HD (1) - MoJiTo
+http://190.61.117.35:8000/play/a03e
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",1- Telemundo SD (1) - MoJiTo
+http://38.52.182.236:9000/play/a00f
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://177.93.46.163:8000/play/a01c
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://190.61.44.134:1088/play/a01f
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://181.233.168.5:8282/play/a07s
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://168.90.14.116:8282/play/a07s
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://190.107.20.43:6004/play/a07s
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://190.14.249.39:8000/play/a07s
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://190.61.42.218:9000/play/a01l
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://190.119.40.74:8200/play/a0g0
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://181.78.23.26:45000/play/a01t
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://181.233.168.6:8282/play/a07s
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://190.61.117.35:8000/play/a00g
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://181.233.168.4:8282/play/a07s
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://181.233.168.8:8282/play/a07s
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://45.169.163.83:8000/play/a19k
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://181.233.168.3:8282/play/a07s
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://190.2.212.209:8050/play/a0oa
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://168.90.14.114:8282/play/a07s
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",TELEMUNDO (1) - MoJiTo
+http://45.184.87.142:8000/play/a02b
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://181.233.168.7:8282/play/a07s
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",RED - Telemundo HD (1) - MoJiTo
+http://38.52.182.236:9000/play/a098
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",TELEMUNDO (1) - MoJiTo
+http://154.198.57.34:8000/play/a01d
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://168.90.14.118:8282/play/a07s
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://168.90.14.115:8282/play/a07s
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://181.204.79.182:8202/play/a01y
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",TELEMUNDO (1) - MoJiTo
+http://45.175.139.194:8000/play/a01d
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo Miami (1) - MoJiTo
+http://181.78.105.146:8800/play/a08n
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://181.233.168.13:8282/play/a07s
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo HD (1) - MoJiTo
+http://181.78.105.146:8800/play/a04t
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://181.78.105.146:8800/play/a03z
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://45.176.193.222:2405/play/a017
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://186.148.184.65:8000/play/a006
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",TELEMUNDO (1) - MoJiTo
+http://190.109.15.194:8000/play/a08f
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://45.181.122.201:8081/play/a02z
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://45.176.232.114:8000/play/a01y
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://138.99.179.227:8000/play/a078
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo HD (1) - MoJiTo
+http://181.78.105.146:6060/play/a02i
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://181.233.168.46:8000/play/a01e
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://45.181.123.233:8000/play/a16l
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://190.216.112.169:8000/play/a03k
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo HD (1) - MoJiTo
+http://200.125.170.123:8000/play/a031
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://190.211.250.102:8000/play/a01m
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo HD (44) - MoJiTo
+http://45.5.119.43:4000/play/a0gv/index.m3u8
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo HD (1) - MoJiTo
+http://45.5.119.97:9000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo HD (1) - MoJiTo
+http://45.5.119.96:9000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://191.97.6.28:8000/play/a07y/index.m3u8
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",TELEMUNDO M (1) - MoJiTo
+http://24.152.53.3:8090/play/a00z/index.m3u8
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://38.7.101.90:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://191.97.6.27:8000/play/a07y/index.m3u8
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://179.1.48.57:9000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://191.97.6.29:8000/play/a07y/index.m3u8
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://191.97.12.90:8099/play/a032/index.m3u8
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://181.78.85.59:2500/play/a01n/index.m3u8
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo HD (1) - MoJiTo
+http://190.61.90.17:9999/play/a0gv/index.m3u8
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",TELEMUNDO INTER HD (1) - MoJiTo
+http://45.5.117.183:9000/play/a0mg/index.m3u8
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo HD (1) - MoJiTo
+http://38.252.238.6:6102/play/a01b/index.m3u8
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://38.52.209.82:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://38.44.109.41:8003/play/a017/index.m3u8
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://181.78.85.53:9000/play/a06d/index.m3u8
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://181.78.105.146:6060/play/a01o
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",149 Telemundo (14) - MoJiTo
+http://170.233.192.234:8112/play/149
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://209.14.118.166:5800/play/a05l
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://186.96.98.138:19000/play/a00f
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",TELEMUNDO HD (1) - MoJiTo
+http://38.137.217.169:8000/play/a04t
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://181.176.175.145:8200/play/a0g0
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo HD (1) - MoJiTo
+http://200.125.170.122:8000/play/a031
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo (1) - MoJiTo
+http://181.176.174.135:8200/play/a0g0
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo HD (1) - MoJiTo
+http://200.125.170.120:8000/play/a031
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",1055| Telemundo (10) - MoJiTo
+http://190.216.162.234:8000/play/a01h
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/220px-Telemundo_logo_2018.svg.png",Telemundo HD (1) - MoJiTo
+http://200.125.170.121:8000/play/a031
+#EXTINF:-1 group-title="© Telemundo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb
+
 # Televisa
 #EXTINF:-1 group-title="© Televisa" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Logotipo_de_Televisa_%281973-1980%29.png/120px-Logotipo_de_Televisa_%281973-1980%29.png",Televisa (1) - MoJiTo
 http://177.8.76.2:8000/play/00001
