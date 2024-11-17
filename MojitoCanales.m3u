@@ -1346,3 +1346,165 @@ http://192.141.98.142:8000/play/a05q
 #EXTINF:-1 group-title="© Fox" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/200px-FOX_wordmark.svg.png",Fox Sports 3 HD (3) - MoJiTo (86)
 http://181.233.168.13:8282/play/a00d
 #EXTINF:-1 group-title="© Fox" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/
+
+# Star+
+
+#EXTM3U
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",ID - Investigation Discovery (1) - MoJiTo (1) - MoJiTo (1)
+http://190.60.49.243:4000/play/a03s
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",ID - Investigation Discovery (1) - MoJiTo (2) - MoJiTo (2)
+http://190.60.49.244:4000/play/a03s
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",ID - Investigation Discovery (1) - MoJiTo (3) - MoJiTo (3)
+http://191.97.12.90:8099/play/a03u/index.m3u8
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",ID - Investigation Discovery (1) - MoJiTo (4) - MoJiTo (4)
+http://181.78.85.43:9000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",ID - Investigation Discovery (1) - MoJiTo (5) - MoJiTo (5)
+http://190.61.46.92:8009/play/a038/index.m3u8
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",ID - Investigation Discovery (1) - MoJiTo (6) - MoJiTo (6)
+http://181.78.85.53:9000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",INVESTIGATION DISCOVERY (1) - MoJiTo (7) - MoJiTo (7)
+http://190.60.33.245:4002/play/a0sh/index.m3u8
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",ID - Investigation Discovery (1) - MoJiTo (8) - MoJiTo (8)
+http://200.69.80.179:5050/play/a0q2/index.m3u8
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",ID - Investigation Discovery (1) - MoJiTo (9) - MoJiTo (9)
+http://45.182.190.228:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",ID - Investigation Discovery (1) - MoJiTo (10) - MoJiTo (10)
+http://190.102.123.28:8097/play/a0do/index.m3u8
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",ID - Investigation Discovery (1) - MoJiTo (11) - MoJiTo (11)
+http://45.182.190.228:8010/play/a0af/index.m3u8
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",ID - Investigation Discovery (1) - MoJiTo (12) - MoJiTo (12)
+http://204.157.96.1:8875/play/a0cp/index.m3u8
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",ID - Investigation Discovery (1) - MoJiTo (13) - MoJiTo (13)
+http://190.216.112.169:8000/play/a03n
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",ID - Investigation Discovery (1) - MoJiTo (14) - MoJiTo (14)
+http://209.45.52.14:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",ID - Investigation Discovery (1) - MoJiTo (15) - MoJiTo (15)
+http://38.56.113.50:11211/play/a0pz/index.m3u8
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",ID - Investigation Discovery (1) - MoJiTo (16) - MoJiTo (16)
+http://209.45.30.135:8000/play/a0fi/index.m3u8
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",ID - Investigation Discovery (1) - MoJiTo (17) - MoJiTo (17)
+http://190.216.162.154:8000/play/a0un/index.m3u8
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",ID - Investigation Discovery (1) - MoJiTo (18) - MoJiTo (18)
+http://181.78.211.244:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",ID - Investigation Discovery (1) - MoJiTo (19) - MoJiTo (19)
+http://179.56.190.187:8000/play/a0ry/index.m3u8
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR TVE HD (1) - MoJiTo (20)
+http://179.1.33.2:4000/play/a117
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL HD (1) - MoJiTo (21)
+http://177.8.76.2:8000/play/a02w
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR TVE HD (1) - MoJiTo (22)
+http://177.8.76.2:8000/play/a03o
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL HD (1) - MoJiTo (23)
+http://177.8.76.2:8000/play/a04m
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL HD (1) - MoJiTo (24)
+http://179.1.33.2:4000/play/a11c
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL HD (1) - MoJiTo (25)
+http://177.8.76.2:8000/play/a043
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL HD (1) - MoJiTo (26)
+http://177.8.76.2:8000/play/a04l
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",Movistar Deportes HD (1) - MoJiTo (27)
+http://177.8.76.2:8000/play/a03u
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",Filmbox Stars (1) - MoJiTo (28)
+http://5.39.189.42:8086/play/a0bz
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",Prima STAR (1) - MoJiTo (29)
+http://5.39.189.42:8086/play/a0al
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR Peru (1) - MoJiTo (30)
+http://179.63.6.12:8000/play/a05r
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL HD (1) - MoJiTo (31)
+http://154.198.57.34:8000/play/42
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",Movistar Deportes HD (1) - MoJiTo (32)
+http://179.63.6.17:9000/play/a022
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",083 STAR CHANNEL HD (08) - MoJiTo (33)
+http://45.181.123.30:8000/play/083
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",Movistar Deportes HD (1) - MoJiTo (34)
+http://200.59.188.3:8000/play/a0jk
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL HD (1) - MoJiTo (35)
+http://200.59.188.3:8000/play/a02v
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",Star Crime (1) - MoJiTo (36)
+http://195.24.90.119:800/play/a096
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",FOX/STAR Channel (1) - MoJiTo (37)
+http://77.160.58.67:8003/play/a024
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL HD (1) - MoJiTo (38)
+http://66.231.71.18:8000/play/a02j
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL HD (1) - MoJiTo (39)
+http://45.175.139.194:8000/play/42
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",Star Life (1) - MoJiTo (40)
+http://195.24.90.119:800/play/a097
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR TVE HD (1) - MoJiTo (41)
+http://181.78.78.66:8000/play/a03b
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL HD (1) - MoJiTo (42)
+http://207.248.3.81:8081/play/a0iq
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR TVE HD (1) - MoJiTo (43)
+http://207.248.3.81:8081/play/a0ig
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",Star Channel (1) - MoJiTo (44)
+http://195.24.90.119:800/play/a094
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR TVE HD (1) - MoJiTo (45)
+http://200.59.188.3:8000/play/a025
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",Movistar Deportes HD (1) - MoJiTo (46)
+http://181.78.78.66:8000/play/a01t
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL HD (1) - MoJiTo (47)
+http://181.78.78.66:8000/play/a04l
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",Star Channel (1) - MoJiTo (48)
+http://38.44.109.41:8003/play/a012
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL HD (1) - MoJiTo (49)
+http://200.59.188.3:8000/play/a01g
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL HD (1) - MoJiTo (50)
+http://154.198.59.1:8000/play/a021
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",Movistar Deportes HD (1) - MoJiTo (51)
+http://38.187.2.125:8000/play/a00x
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL HD (1) - MoJiTo (52)
+http://38.187.2.125:8000/play/a01e
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",Movistar Plus (1) - MoJiTo (53)
+http://38.187.2.125:8000/play/a03g
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL HD (1) - MoJiTo (54)
+http://38.187.2.125:8000/play/a016
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL HD (1) - MoJiTo (55)
+http://181.233.168.3:8282/play/a02k
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR TVE HD (1) - MoJiTo (56)
+http://181.233.168.4:8282/play/a01q
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL (1) - MoJiTo (57)
+http://190.14.249.39:8000/play/a02t
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",Tunner 7 - Movistar TV SD (7) - MoJiTo (58)
+http://38.52.182.236:9000/play/a032
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR TVE HD (1) - MoJiTo (59)
+http://190.119.40.74:8200/play/a0f3
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL HD (2) - MoJiTo (60)
+http://190.60.49.244:4000/play/a048
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL HD (1) - MoJiTo (61)
+http://45.181.122.46:8090/play/a00l
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL HD (3) - MoJiTo (62)
+http://190.60.49.244:4000/play/a07r
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL (1) - MoJiTo (63)
+http://177.93.46.163:8000/play/a00b
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL HD (1) - MoJiTo (64)
+http://190.60.49.244:4000/play/a07s
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL HD (1) - MoJiTo (65)
+http://181.78.12.164:9000/play/a067
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL HD (1) - MoJiTo (66)
+http://181.233.168.5:8282/play/a02k
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR TVE HD (1) - MoJiTo (67)
+http://181.233.168.3:8282/play/a01q
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL (1) - MoJiTo (68)
+http://190.107.20.43:6004/play/a02t
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR TVE HD (1) - MoJiTo (69)
+http://168.90.14.115:8282/play/a01q
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR (1) - MoJiTo (70)
+http://190.61.55.107:8000/play/a008
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",Daystar SD (1) - MoJiTo (71)
+http://45.59.149.54:8045/play/s1890
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL HD (1) - MoJiTo (72)
+http://168.90.14.114:8282/play/a02k
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR Channel (1) - MoJiTo (73)
+http://84.50.127.180:9091/play/a021
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",IPTV|STAR CHANNEL HD (1) - MoJiTo (74)
+http://181.78.23.26:45000/play/a04m
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",Tunner 1- Movistar Plus SD (1) - MoJiTo (75)
+http://38.52.182.236:9000/play/a005
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL (1) - MoJiTo (76)
+http://187.73.179.86:8000/play/a07e
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",STAR CHANNEL HD (1) - MoJiTo (77)
+http://190.119.40.74:8200/play/a0fc
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",Tunner 12 - STAR CHANNEL HD (12) - MoJiTo (78)
+http://38.52.182.236:9000/play/a07y
+#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",Movistar Deportes (1) - MoJiTo (79)
+http://
