@@ -34,6 +34,20 @@ http://177.8.76.2:8000/play/a02j
 #EXTINF:-1 group-title="© [ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[ Adult Swim ] MoJiTo (Opción 10)
 http://186.148.181.154:8000/play/a02g
 
+# Telecine
+
+#EXTINF:-1 group-title="© Telecine" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ccd-telecine.svg/250px-Ccd-telecine.svg.png",D1V - Globosat - TC Touch (1) - MoJiTo
+http://170.80.69.8:8000/play/a09e/index.m3u8
+#EXTINF:-1 group-title="© Telecine" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ccd-telecine.svg/250px-Ccd-telecine.svg.png",D1V - Globosat - TC Premium (1) - MoJiTo
+http://170.80.69.8:8000/play/a09d/index.m3u8
+#EXTINF:-1 group-title="© Telecine" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ccd-telecine.svg/250px-Ccd-telecine.svg.png",D1V - Globosat - TC Pipoca (1) - MoJiTo
+http://170.80.69.8:8000/play/a09c/index.m3u8
+#EXTINF:-1 group-title="© Telecine" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ccd-telecine.svg/250px-Ccd-telecine.svg.png",D1V - Globosat - TC Fun (1) - MoJiTo
+http://170.80.69.8:8000/play/a09b/index.m3u8
+#EXTINF:-1 group-title="© Telecine" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ccd-telecine.svg/250px-Ccd-telecine.svg.png",D1V - Globosat - TC Cult (1) - MoJiTo
+http://170.80.69.8:8000/play/a09a/index.m3u8
+#EXTINF:-1 group-title="© Telecine" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ccd-telecine.svg/250px-Ccd-telecine.svg.png",D1V - Globosat - TC Action (1) - MoJiTo
+http://170.80.69.8:8000/play/a099/index.m3u8
 
 # Sound - GloboSat
 #EXTINF:-1 group-title="© Sound - Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sine_waves_different_frequencies.svg/220px-Sine_waves_different_frequencies.svg.png",C3V - Globosat - Sound10 - 137 - CBN RJO (3) - MoJiTo
@@ -3064,14 +3078,17 @@ http://201.168.8.230:8000/play/a061/index.m3u8
 http://170.80.69.8:8000/play/a0em/index.m3u8
 #EXTINF:-1 group-title="© SporTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",C3V - Globosat - SporTV1 (3) - MoJiTo
 http://170.80.69.8:8000/play/a097/index.m3u8
-#EXTINF:-1 group-title="© SporTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",C3V - Globosat - SporTV3 (3) - MoJiTo
-http://170.80.69.8:8000/play/a096/index.m3u8
 #EXTINF:-1 group-title="© SporTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",Streamer - Sportv2 (2) - MoJiTo
 http://170.80.69.8:8000/play/a0en/index.m3u8
 #EXTINF:-1 group-title="© SporTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",Streamer - Sportv3 (3) - MoJiTo
 http://170.80.69.8:8000/play/a0eo/index.m3u8
 #EXTINF:-1 group-title="© SporTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",C3V - Globosat - SporTV2 (3) - MoJiTo
 http://170.80.69.8:8000/play/a095/index.m3u8
+#EXTINF:-1 group-title="© SporTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",C3V - Globosat - SporTV3 (3) - MoJiTo
+http://170.80.69.8:8000/play/a096/index.m3u8
+
+
+
 
 # Premiere 
 #EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/400px-Premiere_logo_2013.png",D1V - Globosat - Premiere1 (1) - MoJiTo
@@ -3090,6 +3107,10 @@ http://170.80.69.8:8000/play/a09r/index.m3u8
 http://170.80.69.8:8000/play/a09s/index.m3u8
 #EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/400px-Premiere_logo_2013.png",C3V - Globosat - Premiere3 (3) - MoJiTo
 http://170.80.69.8:8000/play/a09n/index.m3u8
+
+
+
+
 
 
 #Fox
@@ -3267,6 +3288,9 @@ http://192.141.98.142:8000/play/a05q
 http://181.233.168.13:8282/play/a00d
 #EXTINF:-1 group-title="© Fox" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/
 
+
+
+
 # Star+
 #EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",ID - Investigation Discovery (1) - MoJiTo (1) - MoJiTo (1)
 http://190.60.49.243:4000/play/a03s
@@ -3424,5 +3448,3 @@ http://187.73.179.86:8000/play/a07e
 http://190.119.40.74:8200/play/a0fc
 #EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",Tunner 12 - STAR CHANNEL HD (12) - MoJiTo (78)
 http://38.52.182.236:9000/play/a07y
-#EXTINF:-1 group-title="© Star+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1280px-Star_Channel_2020.svg.png",Movistar Deportes (1) - MoJiTo (79)
-http://
