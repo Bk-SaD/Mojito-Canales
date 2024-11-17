@@ -34,6 +34,20 @@ http://177.8.76.2:8000/play/a02j
 #EXTINF:-1 group-title="© [ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[ Adult Swim ] MoJiTo (Opción 10)
 http://186.148.181.154:8000/play/a02g
 
+# Televisa
+#EXTINF:-1 group-title="© Televisa" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Logotipo_de_Televisa_%281973-1980%29.png/120px-Logotipo_de_Televisa_%281973-1980%29.png",Televisa (1) - MoJiTo
+http://177.8.76.2:8000/play/00001
+#EXTINF:-1 group-title="© Televisa" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Logotipo_de_Televisa_%281973-1980%29.png/120px-Logotipo_de_Televisa_%281973-1980%29.png",Televisa Novelas (1) - MoJiTo
+http://200.59.188.3:8000/play/a0is
+#EXTINF:-1 group-title="© Televisa" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Logotipo_de_Televisa_%281973-1980%29.png/120px-Logotipo_de_Televisa_%281973-1980%29.png",TELEVISA CON ENTRETEIMENT (1) - MoJiTo
+http://181.78.6.66:8000/play/a0av/index.m3u8
+#EXTINF:-1 group-title="© Televisa" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Logotipo_de_Televisa_%281973-1980%29.png/120px-Logotipo_de_Televisa_%281973-1980%29.png",TELEVISA DE 3 CANALES (3) - MoJiTo
+http://181.78.6.66:8000/play/a0at/index.m3u8
+#EXTINF:-1 group-title="© Televisa" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Logotipo_de_Televisa_%281973-1980%29.png/120px-Logotipo_de_Televisa_%281973-1980%29.png",televisa_sonora (1) - MoJiTo
+http://130.250.199.2:8000/play/15/index.m3u8
+#EXTINF:-1 group-title="© Televisa" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Logotipo_de_Televisa_%281973-1980%29.png/120px-Logotipo_de_Televisa_%281973-1980%29.png",TELEVISA (1) - MoJiTo
+http://8.243.249.70:8000/play/a068/index.m3u8
+
 # Caracol TV
 #EXTINF:-1 group-title="© Caracol" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Caracol_HD_Internacional.png/120px-Caracol_HD_Internacional.png",Caracol HD (1) - MoJiTo
 http://177.8.76.2:8000/play/a04p
