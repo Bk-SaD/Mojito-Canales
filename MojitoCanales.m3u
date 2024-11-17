@@ -8,6 +8,10 @@ https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
 #EXTINF:-1 group-title="© Venezuela" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG",Televen MoJiTo (Opción 1)
 https://directv.bz/uuid/357d46ro/key/bdd15eb2eb1c0b1e42a77166b4964a58
 
+# E!
+#EXTINF:-1 group-title="© E!" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/796px-E%21_Logo_2012.svg.png",E! Entertainment Television (1) - MoJiTo
+http://45.177.179.227:8000/play/a02p/index.m3u8
+
 
 # [ Adult Swim ]
 #EXTINF:-1 group-title="© [ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[ Adult Swim  ] MoJiTo (Opción 1)
