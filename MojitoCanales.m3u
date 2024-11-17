@@ -34,6 +34,10 @@ http://177.8.76.2:8000/play/a02j
 #EXTINF:-1 group-title="© [ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[ Adult Swim ] MoJiTo (Opción 10)
 http://186.148.181.154:8000/play/a02g
 
+# Hip Hop
+#EXTINF:-1 group-title="© Hip Hop" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/XXXTentacion_February_2018.png/220px-XXXTentacion_February_2018.png",HIP HOP (1) - MoJiTo
+http://185.234.111.229:8000/play/a034
+
 # Space
 #EXTINF:-1 group-title="© Space" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/378px-SpaceLogo.svg.png",Space HD (1) - MoJiTo
 http://179.1.33.2:4000/play/a11l
