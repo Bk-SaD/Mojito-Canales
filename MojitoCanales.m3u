@@ -36,6 +36,18 @@ http://186.148.181.154:8000/play/a02g
 
 
 # Sound - GloboSat
+#EXTINF:-1 group-title="© Sound - Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sine_waves_different_frequencies.svg/220px-Sine_waves_different_frequencies.svg.png",C3V - Globosat - Sound10 - 137 - CBN RJO (3) - MoJiTo
+http://170.80.69.8:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="© Sound - Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sine_waves_different_frequencies.svg/220px-Sine_waves_different_frequencies.svg.png",C3V - Globosat - Sound9 - 136 - BH FM (3) - MoJiTo
+http://170.80.69.8:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="© Sound - Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sine_waves_different_frequencies.svg/220px-Sine_waves_different_frequencies.svg.png",C3V - Globosat - Sound9 - 135 - CBN SPO (3) - MoJiTo
+http://170.80.69.8:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="© Sound - Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sine_waves_different_frequencies.svg/220px-Sine_waves_different_frequencies.svg.png",C3V - Globosat - Sound10 - 138 CBN BHZ (3) - MoJiTo
+http://170.80.69.8:8000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="© Sound - Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sine_waves_different_frequencies.svg/220px-Sine_waves_different_frequencies.svg.png",C3V - Globosat - Sound9 - 134 - Globo SPO (3) - MoJiTo
+http://170.80.69.8:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="© Sound - Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sine_waves_different_frequencies.svg/220px-Sine_waves_different_frequencies.svg.png",C3V - Globosat - Sound9 - 133 Globo RJO (3) - MoJiTo
+http://170.80.69.8:8000/play/a02p/index.m3u8
 #EXTINF:-1 group-title="© Sound - Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sine_waves_different_frequencies.svg/220px-Sine_waves_different_frequencies.svg.png",D1V - Globosat - Sound7 - 126 - Reggae (1) - MoJiTo
 http://170.80.69.8:8000/play/a02i/index.m3u8
 #EXTINF:-1 group-title="© Sound - Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sine_waves_different_frequencies.svg/220px-Sine_waves_different_frequencies.svg.png",D1V - Globosat - Sound4 - 113 - Sertanejo Universítario (1) - MoJiTo
