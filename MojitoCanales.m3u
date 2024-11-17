@@ -34,6 +34,154 @@ http://177.8.76.2:8000/play/a02j
 #EXTINF:-1 group-title="© [ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[ Adult Swim ] MoJiTo (Opción 10)
 http://186.148.181.154:8000/play/a02g
 
+# Warner Bros Channel
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner TV (1) - MoJiTo
+http://84.22.55.2:8004/play/s154
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner TV (1) - MoJiTo
+http://84.22.55.2:8004/play/s156
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://177.8.76.2:8000/play/a01z
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://181.119.86.1:8000/play/a00r
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",081 Warner Channel HD (08) - MoJiTo
+http://45.181.123.30:8000/play/081
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://200.59.188.3:8000/play/a00h
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner (1) - MoJiTo
+http://200.59.188.3:8000/play/a070
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel (1) - MoJiTo
+http://45.171.181.2:8000/play/a01s
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://181.78.78.66:8000/play/a02e
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",OLE WARNER (1) - MoJiTo
+http://45.171.181.2:8000/play/a02w
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://168.90.14.116:8282/play/a005
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",14 - Warner Channel HD (14) - MoJiTo
+http://38.52.182.236:9000/play/a06a
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",warnerhd (1) - MoJiTo
+http://45.184.87.142:8000/play/a04f
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://181.233.168.8:8282/play/a005
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://190.60.49.244:4000/play/a06m
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://190.60.49.243:4000/play/a06m
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://181.78.86.226:8086/play/a04h
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",WarnerTV HD (1) - MoJiTo
+http://195.189.60.33:9008/play/a00a
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://168.90.14.114:8282/play/a005
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://181.233.168.7:8282/play/a005
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD-10728H-IK (10) - MoJiTo
+http://191.52.212.81:8000/play/a008
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://190.61.44.134:1088/play/a04y
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://168.90.14.115:8282/play/a005
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner (1) - MoJiTo
+http://190.61.44.134:1088/play/a013
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://187.73.179.86:8000/play/a056
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://181.233.168.5:8282/play/a005
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://168.90.14.118:8282/play/a005
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://45.181.122.46:8090/play/a00f
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://181.233.168.6:8282/play/a005
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner (1) - MoJiTo
+http://45.169.163.83:8000/play/a19o
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://190.119.40.74:8200/play/a0dg
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://181.233.168.4:8282/play/a005
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://190.14.249.39:8000/play/a005
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://181.233.168.3:8282/play/a005
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://190.107.20.43:6004/play/a005
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://45.160.74.253:9000/play/a04s
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner (1) - MoJiTo
+http://190.2.212.209:8050/play/a0nl
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",warnerhd (1) - MoJiTo
+http://45.169.163.83:8000/play/a199
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",WARNER HD (1) - MoJiTo
+http://190.61.117.35:8000/play/a01k
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner (1) - MoJiTo
+http://177.93.46.163:8000/play/a011
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner (1) - MoJiTo
+http://181.78.105.146:6060/play/a02y
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://45.181.122.201:8081/play/a007
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://190.109.15.194:8000/play/a0aa
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://45.181.123.233:8000/play/a12b
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",081 Warner Channel HD (08) - MoJiTo
+http://170.233.192.234:8112/play/081
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://181.233.168.13:8282/play/a005
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://186.148.184.65:8000/play/a00b
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",warnerhd (1) - MoJiTo
+http://45.181.123.233:8000/play/a182
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://186.96.98.138:19000/play/a004
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://138.99.179.227:8000/play/a00s
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://201.184.160.154:4849/play/CH61
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://186.148.181.157:8000/play/a00e
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://186.148.181.150:8000/play/a00e
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",WARNER HD (1) - MoJiTo
+http://200.125.170.123:8000/play/a0a1
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://186.148.181.152:8000/play/a00e
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://181.176.174.135:8200/play/a0dg
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://186.148.181.149:8000/play/a00e
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://186.148.181.144:8000/play/a00e
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://186.148.181.158:8000/play/a00e
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",WARNER HD (1) - MoJiTo
+http://200.125.170.121:8000/play/a0a1
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://186.148.181.145:8000/play/a00e
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://186.148.181.154:8000/play/a00e
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://186.148.181.148:8000/play/a00e
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",1096| Warner Channel (10) - MoJiTo
+http://190.216.162.234:8000/play/a027
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://152.200.192.151:8000/play/a00e
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://201.184.160.157:4849/play/CH61
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://181.176.175.145:8200/play/a0dg
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner (1) - MoJiTo
+http://181.205.130.194:4000/play/a07f
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner TV (1) - MoJiTo
+http://202.150.161.117:8000/play/WarnerTV
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner (1) - MoJiTo
+http://191.97.6.30:8000/play/a07k/index.m3u8
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner (1) - MoJiTo
+http://45.5.117.23:8000/play/a0mz/index.m3u8
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://181.78.6.66:8000/play/a082/index.m3u8
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD (1) - MoJiTo
+http://190.61.42.218:9000/play/a05j
+
 # A&E
 #EXTINF:-1 group-title="© A&E" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/250px-A%26E_Network_logo.svg.png",A&E HD (1) - MoJiTo
 http://177.8.76.2:8000/play/a01x
