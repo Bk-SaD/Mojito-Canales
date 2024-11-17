@@ -12,7 +12,6 @@ https://directv.bz/uuid/357d46ro/key/bdd15eb2eb1c0b1e42a77166b4964a58
 #EXTINF:-1 group-title="© E!" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/796px-E%21_Logo_2012.svg.png",E! Entertainment Television (1) - MoJiTo
 http://45.177.179.227:8000/play/a02p/index.m3u8
 
-
 # [ Adult Swim ]
 #EXTINF:-1 group-title="© [ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[ Adult Swim  ] MoJiTo (Opción 1)
 http://152.200.192.150:8000/play/a02g
@@ -34,6 +33,176 @@ http://201.184.160.154:4849/play/CH155
 http://177.8.76.2:8000/play/a02j
 #EXTINF:-1 group-title="© [ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[ Adult Swim ] MoJiTo (Opción 10)
 http://186.148.181.154:8000/play/a02g
+
+# Golden
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://177.8.76.2:8000/play/a03x
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Edge (1) - MoJiTo
+http://177.8.76.2:8000/play/a00o
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",GOLDEN HD (1) - MoJiTo
+http://154.198.57.34:8000/play/40
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",GOLDEN EDGE HD (1) - MoJiTo
+http://154.198.57.34:8000/play/29
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Edge (1) - MoJiTo
+http://38.44.109.41:8003/play/a002
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",GOLDEN EDGE HD (1) - MoJiTo
+http://154.198.59.1:8000/play/a01e
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",GOLDEN EDGE HD (1) - MoJiTo
+http://45.175.139.194:8000/play/29
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",GOLDEN HD (1) - MoJiTo
+http://45.175.139.194:8000/play/40
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",GOLDEN EDGE (1) - MoJiTo
+http://181.78.8.90:16123/play/ch47
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://38.187.2.125:8000/play/a00y
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://200.59.188.3:8000/play/a02d
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://181.78.78.66:8000/play/a01v
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden (1) - MoJiTo
+http://38.44.109.41:8003/play/a001
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",GOLDEN HD (1) - MoJiTo
+http://154.198.59.1:8000/play/a01d
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://207.248.3.81:8081/play/a0h7
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://190.119.40.74:8200/play/a0dv
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",GOLDEN (1) - MoJiTo
+http://45.184.87.142:8000/play/a04u
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://181.78.86.226:8086/play/a06b
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Edge (1) - MoJiTo
+http://168.90.14.115:8282/play/a07v
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",GOLDENPREMIERE2 (2) - MoJiTo
+http://45.184.87.142:8000/play/a038
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://45.181.122.46:8090/play/a019
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://181.233.168.7:8282/play/a07n
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",4 - Golden SD (4) - MoJiTo
+http://38.52.182.236:9000/play/a02b
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Edge (1) - MoJiTo
+http://190.119.40.74:8200/play/a0gd
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Edge (1) - MoJiTo
+http://181.233.168.7:8282/play/a07v
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",GOLDEN EDGE IN (1) - MoJiTo
+http://154.198.57.34:8000/play/a01s
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",RED - Golden Premiere 2 HD (2) - MoJiTo
+http://38.52.182.236:9000/play/a0ag
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Edge (1) - MoJiTo
+http://190.107.20.43:6004/play/a042
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Edge (1) - MoJiTo
+http://168.90.14.114:8282/play/a07v
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://181.233.168.3:8282/play/a07n
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",GOLDEN PLUS (1) - MoJiTo
+http://45.184.87.142:8000/play/a037
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://181.233.168.4:8282/play/a07n
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://181.78.12.164:9000/play/a07e
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://190.107.20.43:6004/play/a07n
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",RED - Golden Premiere HD (1) - MoJiTo
+http://38.52.182.236:9000/play/a0af
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://190.61.44.134:1088/play/a04i
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://181.233.168.8:8282/play/a07n
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://190.14.249.39:8000/play/a07n
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://190.60.49.243:4000/play/a07a
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Edge (1) - MoJiTo
+http://181.233.168.8:8282/play/a07v
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",GOLDENPREMIERE (1) - MoJiTo
+http://45.184.87.142:8000/play/a03a
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Edge (1) - MoJiTo
+http://181.233.168.5:8282/play/a07v
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://168.90.14.118:8282/play/a07n
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",GOLDEN EDGE (1) - MoJiTo
+http://181.78.21.60:16123/play/ch47
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Edge (1) - MoJiTo
+http://190.61.44.134:1088/play/a08g
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Premiere 2 HD (2) - MoJiTo
+http://190.61.117.35:8000/play/a037
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://181.233.168.6:8282/play/a07n
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Edge (1) - MoJiTo
+http://181.233.168.4:8282/play/a07v
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://168.90.14.116:8282/play/a07n
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Edge (1) - MoJiTo
+http://168.90.14.116:8282/play/a07v
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",3- Golden Edge SD (3) - MoJiTo
+http://38.52.182.236:9000/play/a01w
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Edge (1) - MoJiTo
+http://181.78.12.164:9000/play/a07y
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Edge (1) - MoJiTo
+http://168.90.14.118:8282/play/a07v
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://181.233.168.5:8282/play/a07n
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Edge (1) - MoJiTo
+http://181.233.168.6:8282/play/a07v
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://171.22.165.241:8888/play/a0iq
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://186.148.184.65:8000/play/a01h
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden (1) - MoJiTo
+http://181.78.105.146:6060/play/a013
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden (1) - MoJiTo
+http://181.78.105.146:8800/play/a02b
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://186.96.98.138:19000/play/a01f
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden (1) - MoJiTo
+http://190.109.15.194:8000/play/a07c
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",GOLDEN PREMIERE 2 (2) - MoJiTo
+http://38.137.217.169:8000/play/a064
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",N - VAR - Golden HD (1) - MoJiTo
+http://192.141.98.142:8000/play/a07r
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden (1) - MoJiTo
+http://181.233.168.46:8000/play/a01g
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://38.137.217.169:8000/play/a027
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",GOLDEN EDGE IN (1) - MoJiTo
+http://45.175.139.194:8000/play/a01s
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",GOLDEN - TRANS (1) - MoJiTo
+http://186.148.184.65:8000/play/a02w
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Premiere 2 HD (2) - MoJiTo
+http://200.125.170.121:8000/play/a00m
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",GOLDEN (1) - MoJiTo
+http://179.189.222.226:8000/play/ch46
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://201.184.160.157:4849/play/CH47
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Premiere HD (1) - MoJiTo
+http://200.125.170.122:8000/play/a00l
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://190.60.49.244:4000/play/a07a
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",GOLDEN TRANS (1) - MoJiTo
+http://181.78.15.155:9800/play/a011
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",IPTV|GOLDEN (1) - MoJiTo
+http://181.78.23.26:45000/play/a04c
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden (1) - MoJiTo
+http://190.61.44.134:1088/play/a03m
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",GOLDENEDGE (1) - MoJiTo
+http://45.184.87.142:8000/play/a04t
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",GOLDEN IN (1) - MoJiTo
+http://154.198.57.34:8000/play/a01u
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Edge (1) - MoJiTo
+http://181.233.168.3:8282/play/a07v
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Premiere HD (1) - MoJiTo
+http://190.61.117.35:8000/play/a036
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",11 - Golden HD (11) - MoJiTo
+http://38.52.182.236:9000/play/a05c
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://168.90.14.115:8282/play/a07n
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden (1) - MoJiTo
+http://187.73.179.86:8000/play/a081
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Edge (1) - MoJiTo
+http://190.14.249.39:8000/play/a04u
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden HD (1) - MoJiTo
+http://168.90.14.114:8282/play/a07n
 
 # MTV
 #EXTINF:-1 group-title="© MTV+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1280px-MTV_2021_%28brand_version%29.svg.png",MTV -  MoJiTo (1)
