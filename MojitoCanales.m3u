@@ -13,26 +13,208 @@ https://directv.bz/uuid/357d46ro/key/bdd15eb2eb1c0b1e42a77166b4964a58
 http://45.177.179.227:8000/play/a02p/index.m3u8
 
 # [ Adult Swim ]
-#EXTINF:-1 group-title="© [ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[ Adult Swim  ] MoJiTo (Opción 1)
-http://152.200.192.150:8000/play/a02g
-#EXTINF:-1 group-title="© [ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[ Adult Swim ] MoJiTo (Opción 1)
-https://directv.bz/uuid/46d87nlr/key/b5f9bf673dbcd296f3e342d60ed1b781
-#EXTINF:-1 group-title="© [ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[ Adult Swim ] MoJiTo (Opción 2)
-https://directv.bz/uuid/455b644k/key/b5f9bf673dbcd296f3e342d60ed1b781
-#EXTINF:-1 group-title="© [ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[ Adult Swim ] MoJiTo (Opción 3)
-http://186.148.181.152:8000/play/a02g
-#EXTINF:-1 group-title="© [ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[ Adult Swim ] MoJiTo (Opción 5)
-http://181.119.86.1:8000/play/a019
-#EXTINF:-1 group-title="© [ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[ Adult Swim ] MoJiTo (Opción 6)
+
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - CO (20) - 𝐌øɉɨŧø杀手
+http://181.233.168.7:8282/play/a02a
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - CO (5) - 𝐌øɉɨŧø杀手
+http://190.14.249.39:8000/play/a02a
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - CO (7) - 𝐌øɉɨŧø杀手
+http://190.60.49.244:4000/play/a078
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - CO (9) - 𝐌øɉɨŧø杀手
 http://190.60.49.243:4000/play/a078
-#EXTINF:-1 group-title="© [ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[ Adult Swim ] MoJiTo (Opción 7)
-https://directv.bz/uuid/38dpkmez/key/b5f9bf673dbcd296f3e342d60ed1b781
-#EXTINF:-1 group-title="© [ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[ Adult Swim ] MoJiTo (Opción 8)
-http://201.184.160.154:4849/play/CH155
-#EXTINF:-1 group-title="© [ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[ Adult Swim  ] MoJiTo (Opción 2)
-http://177.8.76.2:8000/play/a02j
-#EXTINF:-1 group-title="© [ Adult Swim ]" language="Español" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/adult_sw.png?raw=true",[ Adult Swim ] MoJiTo (Opción 10)
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - CO (13) - 𝐌øɉɨŧø杀手
+http://181.233.168.6:8282/play/a02a
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - CO (15) - 𝐌øɉɨŧø杀手
+http://181.233.168.4:8282/play/a02a
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - CO (17) - 𝐌øɉɨŧø杀手
+http://168.90.14.114:8282/play/a02a
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - CO (2) - 𝐌øɉɨŧø杀手
+http://181.119.86.1:8000/play/a019
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - CO (23) - 𝐌øɉɨŧø杀手
+http://38.137.217.169:8000/play/a015
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - CO (26) - 𝐌øɉɨŧø杀手
+http://181.233.168.13:8282/play/a02a
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - CO (4) - 𝐌øɉɨŧø杀手
+http://190.107.20.43:6004/play/a02a
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - CO (3) - 𝐌øɉɨŧø杀手
+http://45.171.181.2:8000/play/a02e
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - DO (38) - 𝐌øɉɨŧø杀手
+http://200.125.170.123:8000/play/a0ct
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - DO (42) - 𝐌øɉɨŧø杀手
+http://200.125.170.121:8000/play/a0ct
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - CO (37) - 𝐌øɉɨŧø杀手
+http://152.200.192.150:8000/play/a02g
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - CO (39) - 𝐌øɉɨŧø杀手
+http://186.148.181.153:8000/play/a02g
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - CO (41) - 𝐌øɉɨŧø杀手
 http://186.148.181.154:8000/play/a02g
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - CO (43) - 𝐌øɉɨŧø杀手
+http://152.200.192.148:8000/play/a02g
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - CO (46) - 𝐌øɉɨŧø杀手
+http://186.148.181.158:8000/play/a02g
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - DO (78) - 𝐌øɉɨŧø杀手
+http://38.252.238.6:6102/play/a00h/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - CO (48) - 𝐌øɉɨŧø杀手
+http://186.148.181.144:8000/play/a02g
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - CO (49) - 𝐌øɉɨŧø杀手
+http://186.148.181.150:8000/play/a02g
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - US (67) - 𝐌øɉɨŧø杀手
+http://45.58.126.6:8000/play/a0fg/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - CO (54) - 𝐌øɉɨŧø杀手
+http://186.148.181.155:8000/play/a02g
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - DO (32) - 𝐌øɉɨŧø杀手
+http://200.125.170.122:8000/play/a0ct
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - CO (6) - 𝐌øɉɨŧø杀手
+http://168.90.14.115:8282/play/a02a
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (59) - 𝐌øɉɨŧø杀手
+http://38.191.90.7:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (61) - 𝐌øɉɨŧø杀手
+http://38.191.90.8:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (62) - 𝐌øɉɨŧø杀手
+http://38.191.90.2:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (63) - 𝐌øɉɨŧø杀手
+http://38.191.90.6:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (65) - 𝐌øɉɨŧø杀手
+http://38.191.90.1:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (66) - 𝐌øɉɨŧø杀手
+http://38.191.90.0:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult swim HD - PE (29) - 𝐌øɉɨŧø杀手
+http://186.148.196.82:8001/play/a03i
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - GT (72) - 𝐌øɉɨŧø杀手
+http://45.5.117.183:9000/play/a0qd/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (73) - 𝐌øɉɨŧø杀手
+http://38.191.90.24:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (74) - 𝐌øɉɨŧø杀手
+http://38.191.90.96:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (75) - 𝐌øɉɨŧø杀手
+http://38.191.90.17:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (77) - 𝐌øɉɨŧø杀手
+http://38.191.90.20:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (79) - 𝐌øɉɨŧø杀手
+http://38.191.90.64:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (80) - 𝐌øɉɨŧø杀手
+http://38.191.90.18:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (81) - 𝐌øɉɨŧø杀手
+http://38.191.90.97:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (83) - 𝐌øɉɨŧø杀手
+http://38.191.90.32:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (84) - 𝐌øɉɨŧø杀手
+http://38.191.90.86:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (86) - 𝐌øɉɨŧø杀手
+http://38.191.90.27:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (87) - 𝐌øɉɨŧø杀手
+http://38.191.90.50:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (89) - 𝐌øɉɨŧø杀手
+http://38.191.90.63:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (90) - 𝐌øɉɨŧø杀手
+http://38.191.90.60:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (92) - 𝐌øɉɨŧø杀手
+http://38.191.90.45:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (93) - 𝐌øɉɨŧø杀手
+http://38.191.90.52:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (95) - 𝐌øɉɨŧø杀手
+http://38.191.90.59:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (96) - 𝐌øɉɨŧø杀手
+http://38.191.90.15:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (98) - 𝐌øɉɨŧø杀手
+http://38.191.90.75:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (99) - 𝐌øɉɨŧø杀手
+http://38.191.90.88:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - BR (1) - 𝐌øɉɨŧø杀手
+http://177.8.76.2:8000/play/a02j
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",ADULT SWIM HD - PE (27) - 𝐌øɉɨŧø杀手
+http://138.99.179.227:8000/play/a01c
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - CL (28) - 𝐌øɉɨŧø杀手
+http://45.181.123.233:8000/play/a17h
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - CO (31) - 𝐌øɉɨŧø杀手
+http://186.148.181.148:8000/play/a02g
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - CO (33) - 𝐌øɉɨŧø杀手
+http://186.148.181.146:8000/play/a02g
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - CO (36) - 𝐌øɉɨŧø杀手
+http://186.148.181.145:8000/play/a02g
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - CO (40) - 𝐌øɉɨŧø杀手
+http://186.148.181.147:8000/play/a02g
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - CO (47) - 𝐌øɉɨŧø杀手
+http://186.148.181.156:8000/play/a02g
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - CO (51) - 𝐌øɉɨŧø杀手
+http://186.148.181.149:8000/play/a02g
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - GT (69) - 𝐌øɉɨŧø杀手
+http://45.5.119.43:4000/play/a051/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - HN (8) - 𝐌øɉɨŧø杀手
+http://190.61.117.35:8000/play/a00f
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (100) - 𝐌øɉɨŧø杀手
+http://38.191.90.10:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (57) - 𝐌øɉɨŧø杀手
+http://38.191.90.9:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (64) - 𝐌øɉɨŧø杀手
+http://38.191.90.3:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (68) - 𝐌øɉɨŧø杀手
+http://38.191.90.5:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (85) - 𝐌øɉɨŧø杀手
+http://38.191.90.93:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (91) - 𝐌øɉɨŧø杀手
+http://38.191.90.91:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (97) - 𝐌øɉɨŧø杀手
+http://38.191.90.16:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - CO (10) - 𝐌øɉɨŧø杀手
+http://181.233.168.3:8282/play/a02a
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - CO (11) - 𝐌øɉɨŧø杀手
+http://190.61.42.218:9000/play/a00u
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - CO (14) - 𝐌øɉɨŧø杀手
+http://181.233.168.5:8282/play/a02a
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - CO (16) - 𝐌øɉɨŧø杀手
+http://168.90.14.116:8282/play/a02a
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - CO (18) - 𝐌øɉɨŧø杀手
+http://181.78.86.226:8086/play/a05a
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - CO (21) - 𝐌øɉɨŧø杀手
+http://181.233.168.8:8282/play/a02a
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - CO (24) - 𝐌øɉɨŧø杀手
+http://190.109.15.194:8000/play/a025
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - CO (56) - 𝐌øɉɨŧø杀手
+http://201.184.160.154:4849/play/CH155
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - PE (19) - 𝐌øɉɨŧø杀手
+http://190.119.40.74:8200/play/a0cu
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - PE (34) - 𝐌øɉɨŧø杀手
+http://181.176.175.145:8200/play/a0cu
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - PE (50) - 𝐌øɉɨŧø杀手
+http://181.176.174.135:8200/play/a0cu
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - PE (30) - 𝐌øɉɨŧø杀手
+http://192.141.98.142:8000/play/a07o
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - CO (35) - 𝐌øɉɨŧø杀手
+http://186.148.181.159:8000/play/a02g
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - CO (44) - 𝐌øɉɨŧø杀手
+http://152.200.192.151:8000/play/a02g
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - CO (52) - 𝐌øɉɨŧø杀手
+http://186.148.181.157:8000/play/a02g
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - CO (53) - 𝐌øɉɨŧø杀手
+http://186.148.181.152:8000/play/a02g
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - DO (45) - 𝐌øɉɨŧø杀手
+http://200.125.170.120:8000/play/a0ct
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - DO (94) - 𝐌øɉɨŧø杀手
+http://38.252.238.0:6102/play/a00h/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - GT (60) - 𝐌øɉɨŧø杀手
+http://45.5.119.96:9000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - GT (70) - 𝐌øɉɨŧø杀手
+http://45.5.119.97:9000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - HN (58) - 𝐌øɉɨŧø杀手
+http://38.7.31.247:8000/play/a0gq/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (71) - 𝐌øɉɨŧø杀手
+http://38.191.90.4:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (76) - 𝐌øɉɨŧø杀手
+http://38.191.90.68:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (82) - 𝐌øɉɨŧø杀手
+http://38.191.90.61:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim - US (88) - 𝐌øɉɨŧø杀手
+http://38.191.90.33:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - CL (25) - 𝐌øɉɨŧø杀手
+http://190.102.246.93:9005/play/a02t
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",Adult Swim HD - CO (55) - 𝐌øɉɨŧø杀手
+http://201.184.160.157:4849/play/CH155
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",5 - Adult Swim HD - PE (22) - 𝐌øɉɨŧø杀手
+http://38.52.182.236:9000/play/a072
+#EXTINF:-1 group-title="© [Adult Swim]" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adult_Swim_2001.png/220px-Adult_Swim_2001.png",- Adult Swim SD - PE (12) - 𝐌øɉɨŧø杀手
+http://38.52.182.236:9000/play/a07l
+
 
 # Telecine
 #EXTINF:-1 group-title="© Telecine" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telecine_Touch_%282021%29.png/500px-Telecine_Touch_%282021%29.png",TeleCine Touch - MoJiTo
