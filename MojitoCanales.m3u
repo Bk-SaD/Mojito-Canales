@@ -235,178 +235,21 @@ http://170.80.69.8:8000/play/a099/index.m3u8
 
 
 # CNN
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - HN (1) - 𝐌øɉɨŧø杀手
-http://190.61.117.35:8000/play/a034
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - DO (6) - 𝐌øɉɨŧø杀手
-http://200.125.170.120:8000/play/a00d
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - DO (76) - 𝐌øɉɨŧø杀手
-http://38.252.238.3:6102/play/a04i/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (90) - 𝐌øɉɨŧø杀手
-http://38.191.90.70:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (12) - 𝐌øɉɨŧø杀手
-http://38.191.90.4:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (14) - 𝐌øɉɨŧø杀手
-http://38.191.90.0:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (16) - 𝐌øɉɨŧø杀手
-http://38.191.90.2:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (18) - 𝐌øɉɨŧø杀手
-http://38.191.90.7:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (20) - 𝐌øɉɨŧø杀手
-http://38.191.90.23:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (22) - 𝐌øɉɨŧø杀手
-http://38.191.90.43:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (24) - 𝐌øɉɨŧø杀手
-http://38.191.90.68:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (26) - 𝐌øɉɨŧø杀手
-http://38.191.90.95:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (10) - 𝐌øɉɨŧø杀手
-http://38.191.90.8:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (31) - 𝐌øɉɨŧø杀手
-http://38.191.90.99:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (33) - 𝐌øɉɨŧø杀手
-http://38.191.90.21:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (35) - 𝐌øɉɨŧø杀手
-http://38.191.90.63:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (37) - 𝐌øɉɨŧø杀手
-http://38.191.90.45:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (39) - 𝐌øɉɨŧø杀手
-http://38.191.90.92:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (41) - 𝐌øɉɨŧø杀手
-http://38.191.90.93:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (43) - 𝐌øɉɨŧø杀手
-http://38.191.90.64:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (45) - 𝐌øɉɨŧø杀手
-http://38.191.90.97:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (47) - 𝐌øɉɨŧø杀手
-http://38.191.90.20:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (49) - 𝐌øɉɨŧø杀手
-http://38.191.90.11:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (51) - 𝐌øɉɨŧø杀手
-http://38.191.90.46:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (53) - 𝐌øɉɨŧø杀手
-http://38.191.90.90:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (55) - 𝐌øɉɨŧø杀手
-http://38.191.90.47:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (57) - 𝐌øɉɨŧø杀手
-http://38.191.90.98:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (59) - 𝐌øɉɨŧø杀手
-http://38.191.90.89:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (61) - 𝐌øɉɨŧø杀手
-http://38.191.90.86:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (63) - 𝐌øɉɨŧø杀手
-http://38.191.90.22:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (65) - 𝐌øɉɨŧø杀手
-http://38.191.90.39:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (67) - 𝐌øɉɨŧø杀手
-http://38.191.90.26:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (70) - 𝐌øɉɨŧø杀手
-http://38.191.90.49:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (72) - 𝐌øɉɨŧø杀手
-http://38.191.90.17:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (74) - 𝐌øɉɨŧø杀手
-http://38.191.90.42:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (77) - 𝐌øɉɨŧø杀手
-http://38.191.90.83:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (78) - 𝐌øɉɨŧø杀手
-http://38.191.90.30:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (80) - 𝐌øɉɨŧø杀手
-http://38.191.90.62:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (82) - 𝐌øɉɨŧø杀手
-http://38.191.90.73:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (84) - 𝐌øɉɨŧø杀手
-http://38.191.90.79:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (86) - 𝐌øɉɨŧø杀手
-http://38.191.90.59:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (88) - 𝐌øɉɨŧø杀手
-http://38.191.90.41:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (9) - 𝐌øɉɨŧø杀手
-http://38.191.90.5:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (92) - 𝐌øɉɨŧø杀手
-http://38.191.90.57:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (94) - 𝐌øɉɨŧø杀手
-http://38.191.90.69:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (96) - 𝐌øɉɨŧø杀手
-http://38.191.90.96:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (98) - 𝐌øɉɨŧø杀手
-http://38.191.90.50:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional 25 - US (69) - 𝐌øɉɨŧø杀手
-http://38.191.90.37:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN INTERNACIONAL - CO (2) - 𝐌øɉɨŧø杀手
-http://38.137.217.169:8000/play/a04o
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - DO (25) - 𝐌øɉɨŧø杀手
-http://38.252.238.5:6102/play/a04i/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - DO (28) - 𝐌øɉɨŧø杀手
-http://38.252.238.6:6102/play/a04i/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - DO (4) - 𝐌øɉɨŧø杀手
-http://200.125.170.121:8000/play/a00d
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - DO (5) - 𝐌øɉɨŧø杀手
-http://200.125.170.122:8000/play/a00d
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - DO (7) - 𝐌øɉɨŧø杀手
-http://200.125.170.123:8000/play/a00d
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - GT (3) - 𝐌øɉɨŧø杀手
-http://181.78.105.146:8800/play/a00n
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (100) - 𝐌øɉɨŧø杀手
-http://38.191.90.38:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (11) - 𝐌øɉɨŧø杀手
-http://38.191.90.9:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (30) - 𝐌øɉɨŧø杀手
-http://38.191.90.55:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (32) - 𝐌øɉɨŧø杀手
-http://38.191.90.81:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (40) - 𝐌øɉɨŧø杀手
-http://38.191.90.24:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (42) - 𝐌øɉɨŧø杀手
-http://38.191.90.82:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (44) - 𝐌øɉɨŧø杀手
-http://38.191.90.77:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (48) - 𝐌øɉɨŧø杀手
-http://38.191.90.65:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (50) - 𝐌øɉɨŧø杀手
-http://38.191.90.13:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (52) - 𝐌øɉɨŧø杀手
-http://38.191.90.18:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (54) - 𝐌øɉɨŧø杀手
-http://38.191.90.15:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (58) - 𝐌øɉɨŧø杀手
-http://38.191.90.58:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (60) - 𝐌øɉɨŧø杀手
-http://38.191.90.44:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (66) - 𝐌øɉɨŧø杀手
-http://38.191.90.16:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (75) - 𝐌øɉɨŧø杀手
-http://38.191.90.14:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (79) - 𝐌øɉɨŧø杀手
-http://38.191.90.29:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (85) - 𝐌øɉɨŧø杀手
-http://38.191.90.91:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (89) - 𝐌øɉɨŧø杀手
-http://38.191.90.10:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (93) - 𝐌øɉɨŧø杀手
-http://38.191.90.80:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (97) - 𝐌øɉɨŧø杀手
-http://38.191.90.36:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (99) - 𝐌øɉɨŧø杀手
-http://38.191.90.54:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - DO (87) - 𝐌øɉɨŧø杀手
-http://38.252.238.8:6102/play/a04i/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - HN (8) - 𝐌øɉɨŧø杀手
-http://38.7.31.247:8000/play/a0gs/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - MX (27) - 𝐌øɉɨŧø杀手
-http://45.5.116.178:8000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (13) - 𝐌øɉɨŧø杀手
-http://38.191.90.6:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (15) - 𝐌øɉɨŧø杀手
-http://38.191.90.1:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (17) - 𝐌øɉɨŧø杀手
-http://38.191.90.3:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (19) - 𝐌øɉɨŧø杀手
-http://38.191.90.51:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (21) - 𝐌øɉɨŧø杀手
-http://38.191.90.88:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (23) - 𝐌øɉɨŧø杀手
-http://38.191.90.27:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Internacional - US (29) - 𝐌øɉɨŧø杀手
-http://38.191.90.35:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Español - EC (4) - 𝐌øɉɨŧø杀手
+http://38.44.109.41:8003/play/a00d/index.m3u8
+#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Español HD - US (5) - 𝐌øɉɨŧø杀手
+http://38.188.100.27:8000/play/a05v/index.m3u8
+#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN español - GT (6) - 𝐌øɉɨŧø杀手
+http://200.115.120.1:8000/play/ca044/index.m3u8
+#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",1160_ CNN Español - PE (7) - 𝐌øɉɨŧø杀手
+http://190.216.162.234:8000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",1160_ CNN Español 94 - PE (1) - 𝐌øɉɨŧø杀手
+http://190.216.162.234:8000/play/a03h
+#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Español - GT (2) - 𝐌øɉɨŧø杀手
+http://45.5.119.43:4000/play/a0gi/index.m3u8
+#EXTINF:-1 group-title="© CNN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN Español - GT (3) - 𝐌øɉɨŧø杀手
+http://190.61.90.17:9999/play/a0gi/index.m3u8
+
 
 
 # Radio
@@ -608,7 +451,6 @@ http://45.59.149.54:8011/play/s1470
 http://45.59.149.54:8011/play/s1458
 #EXTINF:-1 group-title="© Radio" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Radio_icon.png",TRT World Radio - XK (21) - 𝐌øɉɨŧø杀手
 http://84.22.33.123:8001/play/s171
-9
 
 
 
