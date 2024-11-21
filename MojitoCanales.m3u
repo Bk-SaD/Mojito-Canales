@@ -1,4 +1,143 @@
 #EXTM3U
+# Diacovery Theater
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - VE (65) - 𝐌øɉɨŧø杀手
+http://8.243.249.70:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (20) - 𝐌øɉɨŧø杀手
+http://181.233.168.6:8282/play/a00s
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - PE (40) - 𝐌øɉɨŧø杀手
+http://181.176.175.145:8200/play/a0fb
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - PE (41) - 𝐌øɉɨŧø杀手
+http://190.216.112.169:8000/play/a00g
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - EC (87) - 𝐌øɉɨŧø杀手
+http://45.70.201.252:8888/play/a051/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - VE (98) - 𝐌øɉɨŧø杀手
+http://217.26.191.84:8126/play/a0cw/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD 24 - PE (93) - 𝐌øɉɨŧø杀手
+http://190.108.83.86:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (13) - 𝐌øɉɨŧø杀手
+http://181.78.86.226:8086/play/a05f
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (14) - 𝐌øɉɨŧø杀手
+http://168.90.14.116:8282/play/a00s
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (16) - 𝐌øɉɨŧø杀手
+http://168.90.14.115:8282/play/a00s
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (18) - 𝐌øɉɨŧø杀手
+http://181.233.168.4:8282/play/a00s
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (19) - 𝐌øɉɨŧø杀手
+http://181.233.168.5:8282/play/a00s
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (2) - 𝐌øɉɨŧø杀手
+http://179.1.33.2:4000/play/a0zn
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (22) - 𝐌øɉɨŧø杀手
+http://168.90.14.118:8282/play/a00s
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (23) - 𝐌øɉɨŧø杀手
+http://181.233.168.3:8282/play/a00s
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (25) - 𝐌øɉɨŧø杀手
+http://168.90.14.114:8282/play/a00s
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (28) - 𝐌øɉɨŧø杀手
+http://181.233.168.46:8000/play/a00s
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - PE (27) - 𝐌øɉɨŧø杀手
+http://138.99.179.227:8000/play/a01x
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - PE (39) - 𝐌øɉɨŧø杀手
+http://181.176.174.135:8200/play/a0fb
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (31) - 𝐌øɉɨŧø杀手
+http://38.137.217.169:8000/play/a01a
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD 38 - BO (63) - 𝐌øɉɨŧø杀手
+http://190.186.131.21:81/play/a0jg/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (33) - 𝐌øɉɨŧø杀手
+http://181.233.168.13:8282/play/a00s
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (36) - 𝐌øɉɨŧø杀手
+http://186.148.184.65:8000/play/a00u
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (38) - 𝐌øɉɨŧø杀手
+http://201.184.160.157:4849/play/CH86
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - EC (50) - 𝐌øɉɨŧø杀手
+http://45.71.37.196:8010/play/a01v/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - EC (56) - 𝐌øɉɨŧø杀手
+http://45.71.37.194:8010/play/a01v/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - PE (4) - 𝐌øɉɨŧø杀手
+http://179.63.6.17:9000/play/a05b
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - PE (46) - 𝐌øɉɨŧø杀手
+http://38.7.101.90:8000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - PE (49) - 𝐌øɉɨŧø杀手
+http://209.45.52.14:8000/play/a05d/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - US (6) - 𝐌øɉɨŧø杀手
+http://38.187.2.125:8000/play/a00g
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - US (69) - 𝐌øɉɨŧø杀手
+http://38.199.5.160:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (52) - 𝐌øɉɨŧø杀手
+http://181.78.85.43:9000/play/a047/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - PE (51) - 𝐌øɉɨŧø杀手
+http://38.7.100.225:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - PE (62) - 𝐌øɉɨŧø杀手
+http://190.119.72.3:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (54) - 𝐌øɉɨŧø杀手
+http://181.78.3.162:8000/play/a09k/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (55) - 𝐌øɉɨŧø杀手
+http://179.1.64.157:8000/play/a0h7/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (57) - 𝐌øɉɨŧø杀手
+http://190.60.38.45:8000/play/a0ao/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - EC (79) - 𝐌øɉɨŧø杀手
+http://179.51.136.19:8000/play/a0rh/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",N - CUL - Discovery Theater HD - PE (35) - 𝐌øɉɨŧø杀手
+http://192.141.98.142:8000/play/a08r
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (61) - 𝐌øɉɨŧø杀手
+http://138.84.50.86:8000/play/a066/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (67) - 𝐌øɉɨŧø杀手
+http://179.1.134.75:9000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - PE (64) - 𝐌øɉɨŧø杀手
+http://179.1.146.21:8000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - VE (66) - 𝐌øɉɨŧø杀手
+http://204.157.96.1:8875/play/a0b7/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - VE (85) - 𝐌øɉɨŧø杀手
+http://217.26.191.83:8126/play/a0cw/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (7) - 𝐌øɉɨŧø杀手
+http://181.119.86.1:8000/play/a01d
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - US (95) - 𝐌øɉɨŧø杀手
+http://38.188.100.27:8000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (11) - 𝐌øɉɨŧø杀手
+http://190.60.49.243:4000/play/a047
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - PE (75) - 𝐌øɉɨŧø杀手
+http://190.116.38.19:9090/play/a03i/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",- Discovery Theater HD - PE (15) - 𝐌øɉɨŧø杀手
+http://38.52.182.236:9000/play/a04h
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - PE (94) - 𝐌øɉɨŧø杀手
+http://200.121.48.17:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - PE (97) - 𝐌øɉɨŧø杀手
+http://190.119.40.74:8200/play/a0fb/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - VE (89) - 𝐌øɉɨŧø杀手
+http://217.26.191.91:8126/play/a0cw/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - PE (99) - 𝐌øɉɨŧø杀手
+http://200.60.46.118:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD 29 - MX (30) - 𝐌øɉɨŧø杀手
+http://45.189.148.254:8000/play/a004
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD 42 - VE (77) - 𝐌øɉɨŧø杀手
+http://186.96.71.204:8000/play/a0a3/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",1073_ Discovery Theater HD 45 - PE (43) - 𝐌øɉɨŧø杀手
+http://190.216.162.234:8000/play/a01u
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",DISCOVERY THEATER HD - CO (53) - 𝐌øɉɨŧø杀手
+http://181.78.82.6:46090/play/a019/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CL (100) - 𝐌øɉɨŧø杀手
+http://45.160.74.253:9000/play/a039/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CL (5) - 𝐌øɉɨŧø杀手
+http://207.248.3.81:8081/play/a0hh
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (12) - 𝐌øɉɨŧø杀手
+http://190.60.49.244:4000/play/a047
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (17) - 𝐌øɉɨŧø杀手
+http://181.233.168.7:8282/play/a00s
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (42) - 𝐌øɉɨŧø杀手
+http://201.184.160.154:4849/play/CH86
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (47) - 𝐌øɉɨŧø杀手
+http://179.1.134.76:9000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (68) - 𝐌øɉɨŧø杀手
+http://181.78.17.51:8000/play/a0ao/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (72) - 𝐌øɉɨŧø杀手
+http://181.78.4.250:8098/play/a00m/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (78) - 𝐌øɉɨŧø杀手
+http://190.60.33.245:4002/play/a0t5/index.m3u8
+#EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - CO (84) - 𝐌øɉɨŧø杀手
+http://190.0.241.181:8000/play/a02i/index.m3u8
+
+
+
+
 
 # Discovery Science 
 #EXTINF:-1 group-title="© Discovery Science" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/500px-Science_Channel_logo.svg.png",DISCOVERY SCIENCE SD - SC (3) - 𝐌øɉɨŧø杀手
