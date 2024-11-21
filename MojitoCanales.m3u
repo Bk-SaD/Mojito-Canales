@@ -1,5 +1,86 @@
 #EXTM3U
 
+
+# Home & Health 
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - GT (10) - 𝐌øɉɨŧø杀手
+http://38.52.209.82:8000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - GT (36) - 𝐌øɉɨŧø杀手
+http://181.209.159.245:8000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - MX (7) - 𝐌øɉɨŧø杀手
+http://45.5.116.178:8000/play/a04z/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - GT (9) - 𝐌øɉɨŧø杀手
+http://45.5.117.183:9000/play/a0ty/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - US (15) - 𝐌øɉɨŧø杀手
+http://38.180.133.31:8000/play/a0q0/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health 68 - GT (38) - 𝐌øɉɨŧø杀手
+http://138.118.105.190:8000/play/a0ao/index.m3u8
+#EXTINF:-1 group-title="© Home & Healt" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - GT (12) - 𝐌øɉɨŧø杀手
+http://190.115.15.49:8000/play/a0t4/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - GT (16) - 𝐌øɉɨŧø杀手
+http://181.78.109.49:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - HN (19) - 𝐌øɉɨŧø杀手
+http://200.115.96.61:9090/play/a03j/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - US (27) - 𝐌øɉɨŧø杀手
+http://38.159.232.166:8000/play/a046/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - US (8) - 𝐌øɉɨŧø杀手
+http://38.196.236.6:8000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - GT (1) - 𝐌øɉɨŧø杀手
+http://181.78.105.146:8800/play/a06o
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - HN (37) - 𝐌øɉɨŧø杀手
+http://168.181.122.234:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - DO (26) - 𝐌øɉɨŧø杀手
+http://38.159.227.124:8000/play/a06f/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - DO (29) - 𝐌øɉɨŧø杀手
+http://38.159.227.123:8000/play/a06f/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - GT (24) - 𝐌øɉɨŧø杀手
+http://45.186.105.215:9999/play/a05j/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - GT (3) - 𝐌øɉɨŧø杀手
+http://45.5.119.96:9000/play/a06l/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - GT (5) - 𝐌øɉɨŧø杀手
+http://45.5.119.97:9000/play/a06l/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health 68 - MX (30) - 𝐌øɉɨŧø杀手
+http://200.92.227.238:8000/play/a0u5/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - DO (31) - 𝐌øɉɨŧø杀手
+http://38.159.227.122:8000/play/a06f/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",5837 _ Discovery Home & Health HD - HN (39) - 𝐌øɉɨŧø杀手
+http://181.114.57.246:4000/play/qUqJGdarkz5aTfGt/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - CR (35) - 𝐌øɉɨŧø杀手
+http://190.211.102.42:4000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - DO (18) - 𝐌øɉɨŧø杀手
+http://190.123.76.22:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - HN (4) - 𝐌øɉɨŧø杀手
+http://38.7.31.247:8000/play/a07l/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",01 Discovery Home & Health 8 - HN (33) - 𝐌øɉɨŧø杀手
+http://179.49.113.220:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",056. Discovery Home & Health - GT (11) - 𝐌øɉɨŧø杀手
+http://45.5.117.182:8000/play/a0iw/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",056. Discovery Home & Health - GT (32) - 𝐌øɉɨŧø杀手
+http://168.227.131.66:8000/play/a0iw/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",DISCOVERY HOME & HEALTH - CO (14) - 𝐌øɉɨŧø杀手
+http://190.60.33.245:4002/play/a0db/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - CL (2) - 𝐌øɉɨŧø杀手
+http://190.211.250.102:8000/play/a01d
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - CR (22) - 𝐌øɉɨŧø杀手
+http://190.61.106.108:8000/play/a04k/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - CR (28) - 𝐌øɉɨŧø杀手
+http://190.61.106.106:8000/play/a04k/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - CR (34) - 𝐌øɉɨŧø杀手
+http://190.61.106.107:8000/play/a04k/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - DO (20) - 𝐌øɉɨŧø杀手
+http://38.159.227.125:8000/play/a06f/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - DO (21) - 𝐌øɉɨŧø杀手
+http://38.159.227.126:8000/play/a06f/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - EC (17) - 𝐌øɉɨŧø杀手
+http://45.70.237.125:8000/play/a0ro/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - GT (23) - 𝐌øɉɨŧø杀手
+http://45.186.105.158:8006/play/a0fw/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - GT (25) - 𝐌øɉɨŧø杀手
+http://45.228.234.113:8000/play/a04z/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - GT (6) - 𝐌øɉɨŧø杀手
+http://45.5.117.23:8000/play/a0nw/index.m3u8
+#EXTINF:-1 group-title="© Home & Health" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/220px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health - HN (13) - 𝐌øɉɨŧø杀手
+http://190.61.116.50:9000/play/a07b/index.m3u8
+
 # Discovery Civilization
 #EXTINF:-1 group-title="© Discovery Civilization" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",Discovery Civilization (1) - 𝐌øɉɨŧø杀手
 http://216.122.181.10:8081/play/a0hu/index.m3u8
