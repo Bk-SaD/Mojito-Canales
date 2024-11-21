@@ -1,6 +1,26 @@
 #EXTM3U
 
 # GloboSat
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png/360px-Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png",TSA-Record News - DE (8) - 𝐌øɉɨŧø杀手
+http://176.65.146.108:8022/play/a05v/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png/360px-Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png",- Record 83 - BR (4) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a0cr/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png/360px-Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png",TERRESTRE - RECORDTV HD 336 - BR (2) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png/360px-Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png",TV Record - DE (7) - 𝐌øɉɨŧø杀手
+http://176.65.146.108:8022/play/a059/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png/360px-Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png",TV Record - PT (10) - 𝐌øɉɨŧø杀手
+http://83.240.145.172:20201/udp/239.42.1.59:1234
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png/360px-Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png",TSA-Record TV HD - DE (6) - 𝐌øɉɨŧø杀手
+http://176.65.146.108:8022/play/a05u/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png/360px-Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png",RecordTV HD - BR (1) - 𝐌øɉɨŧø杀手
+http://177.93.152.229:8000/play/a01e
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png/360px-Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png",Record SJRP HD - BR (9) - 𝐌øɉɨŧø杀手
+http://187.120.222.12:8000/play/a06k/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png/360px-Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png",Star One D2 Ku - RECORD NEWS 323 - BR (3) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png/360px-Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png",- RecordNews 84 - BR (5) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a0cs/index.m3u8
 #EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/580px-Logotipo_da_GloboNews.png",Gloob - 𝐌øɉɨŧø杀手
 http://170.80.69.8:8000/play/a08z/index.m3u8
 #EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/580px-Logotipo_da_GloboNews.png",GloboNews HD - BR (1) - 𝐌øɉɨŧø杀手
