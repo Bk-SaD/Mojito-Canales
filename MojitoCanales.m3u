@@ -1,6 +1,8 @@
 #EXTM3U
 
-
+# Discovery Civilization
+#EXTINF:-1 group-title="© Discovery Civilization" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",Discovery Civilization (1) - 𝐌øɉɨŧø杀手
+http://216.122.181.10:8081/play/a0hu/index.m3u8
 
 # TLC
 #EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - VE (7) - 𝐌øɉɨŧø杀手
