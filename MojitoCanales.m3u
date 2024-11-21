@@ -1,6 +1,14 @@
 #EXTM3U
 
 # GloboSat
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/580px-Logotipo_da_GloboNews.png",GloboNews HD - BR (1) - 𝐌øɉɨŧø杀手
+http://177.93.152.229:8000/play/a031
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/580px-Logotipo_da_GloboNews.png",Globonews 173 - BR (2) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a08y/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/580px-Logotipo_da_GloboNews.png",GloboNews HD - BR (4) - 𝐌øɉɨŧø杀手
+http://187.120.222.12:8000/play/GloboNews/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/580px-Logotipo_da_GloboNews.png",- Globonews 40 - BR (3) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a0dy/index.m3u8
 #EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/85px-Coat_of_arms_of_Brazil.svg.png",Combate 154 - BR (34) - 𝐌øɉɨŧø杀手
 http://170.80.69.8:8000/play/a08w/index.m3u8
 #EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/85px-Coat_of_arms_of_Brazil.svg.png",Bis 171 - BR (37) - 𝐌øɉɨŧø杀手
