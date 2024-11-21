@@ -1,6 +1,159 @@
 #EXTM3U
 
 
+# Animal Planet
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD 2 - CL (11) - 𝐌øɉɨŧø杀手
+http://207.248.3.81:8081/play/a0j7
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (32) - 𝐌øɉɨŧø杀手
+http://168.90.14.118:8282/play/a00o
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet - EE (36) - 𝐌øɉɨŧø杀手
+http://84.50.127.180:9091/play/a006
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - GT (52) - 𝐌øɉɨŧø杀手
+http://181.78.105.146:6060/play/a02d
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD 3 - CL (7) - 𝐌øɉɨŧø杀手
+http://207.248.3.81:8081/play/a0ik
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET SD - SC (5) - 𝐌øɉɨŧø杀手
+http://154.198.57.34:8000/play/47
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - VE (15) - 𝐌øɉɨŧø杀手
+http://200.59.188.3:8000/play/a029
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (21) - 𝐌øɉɨŧø杀手
+http://190.60.49.244:4000/play/a051
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (23) - 𝐌øɉɨŧø杀手
+http://181.233.168.8:8282/play/a00o
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (25) - 𝐌øɉɨŧø杀手
+http://190.60.49.243:4000/play/a051
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet - Rs 2.00 - PK (51) - 𝐌øɉɨŧø杀手
+http://116.90.120.150:8000/play/a03u
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CL (41) - 𝐌øɉɨŧø杀手
+http://45.181.122.46:8090/play/a02f
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - PE (66) - 𝐌øɉɨŧø杀手
+http://138.99.179.227:8000/play/a01s
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (38) - 𝐌øɉɨŧø杀手
+http://190.61.44.134:1088/play/a038
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet - GT (62) - 𝐌øɉɨŧø杀手
+http://181.78.105.146:6060/play/a033
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (40) - 𝐌øɉɨŧø杀手
+http://181.78.86.226:8086/play/a069
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (42) - 𝐌øɉɨŧø杀手
+http://181.233.168.4:8282/play/a00o
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet - CO (55) - 𝐌øɉɨŧø杀手
+http://181.204.79.182:8202/play/a01i
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (47) - 𝐌øɉɨŧø杀手
+http://168.90.14.116:8282/play/a00o
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (50) - 𝐌øɉɨŧø杀手
+http://181.233.168.13:8282/play/a00o
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",0 - Animal Planet HD - PE (18) - 𝐌øɉɨŧø杀手
+http://38.52.182.236:9000/play/a059
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - GT (59) - 𝐌øɉɨŧø杀手
+http://181.78.105.146:8800/play/a04o
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet Latin HD IN - CO (14) - 𝐌øɉɨŧø杀手
+http://181.78.14.26:8000/play/a00v
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet - CO (58) - 𝐌øɉɨŧø杀手
+http://181.233.168.46:8000/play/a01m
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - HN (86) - 𝐌øɉɨŧø杀手
+http://45.190.187.105:58092/play/a02g
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet - HN (27) - 𝐌øɉɨŧø杀手
+http://190.61.117.35:8000/play/a01c
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (100) - 𝐌øɉɨŧø杀手
+http://186.148.181.157:8000/play/a022
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - PE (74) - 𝐌øɉɨŧø杀手
+http://190.216.112.169:8000/play/a00q
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (70) - 𝐌øɉɨŧø杀手
+http://38.137.217.169:8000/play/a023
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (71) - 𝐌øɉɨŧø杀手
+http://186.148.181.156:8000/play/a022
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (73) - 𝐌øɉɨŧø杀手
+http://152.200.192.151:8000/play/a022
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - PE (76) - 𝐌øɉɨŧø杀手
+http://181.176.175.145:8200/play/a0f6
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - PE (78) - 𝐌øɉɨŧø杀手
+http://181.176.174.135:8200/play/a0f6
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - RS (57) - 𝐌øɉɨŧø杀手
+http://109.245.49.186:8000/play/a01f
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (81) - 𝐌øɉɨŧø杀手
+http://152.200.192.150:8000/play/a022
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (83) - 𝐌øɉɨŧø杀手
+http://201.184.160.157:4849/play/CH83
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (87) - 𝐌øɉɨŧø杀手
+http://152.200.192.148:8000/play/a022
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - PE (33) - 𝐌øɉɨŧø杀手
+http://190.119.40.74:8200/play/a0f6
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - DO (94) - 𝐌øɉɨŧø杀手
+http://200.125.170.120:8000/play/a02g
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (91) - 𝐌øɉɨŧø杀手
+http://186.148.181.145:8000/play/a022
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (93) - 𝐌øɉɨŧø杀手
+http://186.148.181.146:8000/play/a022
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - EC (9) - 𝐌øɉɨŧø杀手
+http://66.231.71.18:8000/play/a01k
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (97) - 𝐌øɉɨŧø杀手
+http://186.148.181.158:8000/play/a022
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (99) - 𝐌øɉɨŧø杀手
+http://186.148.181.150:8000/play/a022
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - DO (77) - 𝐌øɉɨŧø杀手
+http://200.125.170.122:8000/play/a02g
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",025 ANIMAL PLANET HD - CL (56) - 𝐌øɉɨŧø杀手
+http://170.233.192.234:8112/play/025
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",141_Animal Planet 29 - BG (69) - 𝐌øɉɨŧø杀手
+http://213.91.178.133:8000/play/a05r
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET - CO (96) - 𝐌øɉɨŧø杀手
+http://179.189.222.226:8000/play/ch29
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET SD - CO (13) - 𝐌øɉɨŧø杀手
+http://45.175.139.194:8000/play/47
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET SD - SC (12) - 𝐌øɉɨŧø杀手
+http://154.198.59.1:8000/play/a001
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet - CO (28) - 𝐌øɉɨŧø杀手
+http://181.78.23.26:45000/play/a01d
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet - CO (37) - 𝐌øɉɨŧø杀手
+http://190.61.42.218:9000/play/a017
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet - CO (43) - 𝐌øɉɨŧø杀手
+http://190.61.44.134:1088/play/a012
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet - CO (75) - 𝐌øɉɨŧø杀手
+http://201.184.160.157:4849/play/a0fh
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet - EC (6) - 𝐌øɉɨŧø杀手
+http://38.44.109.41:8003/play/a010
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet - VE (1) - 𝐌øɉɨŧø杀手
+http://38.41.8.1:8000/play/a07m
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - BR (4) - 𝐌øɉɨŧø杀手
+http://177.8.76.2:8000/play/a03s
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CL (10) - 𝐌øɉɨŧø杀手
+http://207.248.3.81:8081/play/a0jt
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CL (22) - 𝐌øɉɨŧø杀手
+http://201.222.45.70:4000/play/a06z
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CL (30) - 𝐌øɉɨŧø杀手
+http://45.160.74.253:9000/play/a056
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (17) - 𝐌øɉɨŧø杀手
+http://181.78.12.164:9000/play/a08g
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (19) - 𝐌øɉɨŧø杀手
+http://190.14.249.39:8000/play/a00o
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (39) - 𝐌øɉɨŧø杀手
+http://168.90.14.115:8282/play/a00o
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (45) - 𝐌øɉɨŧø杀手
+http://190.2.212.209:8050/play/a0qn
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (60) - 𝐌øɉɨŧø杀手
+http://186.148.184.65:8000/play/a016
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (65) - 𝐌øɉɨŧø杀手
+http://186.96.98.138:19000/play/a018
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (72) - 𝐌øɉɨŧø杀手
+http://186.148.181.149:8000/play/a022
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (8) - 𝐌øɉɨŧø杀手
+http://181.119.86.1:8000/play/a01t
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (82) - 𝐌øɉɨŧø杀手
+http://186.148.181.154:8000/play/a022
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (84) - 𝐌øɉɨŧø杀手
+http://152.200.192.149:8000/play/a022
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (89) - 𝐌øɉɨŧø杀手
+http://186.148.181.147:8000/play/a022
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - CO (90) - 𝐌øɉɨŧø杀手
+http://201.184.160.154:4849/play/CH83
+#EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD - DO (88) - 𝐌øɉɨŧø杀手
+http://200.125.170.121:8000/play/a02g
+
+
+
+
+
+
 # Discovery Channel 
 #EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - CL (20) - 𝐌øɉɨŧø杀手
 http://45.181.123.233:8000/play/a166
