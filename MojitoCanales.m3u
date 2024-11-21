@@ -1,4 +1,304 @@
 #EXTM3U
+
+
+
+# Discovery World
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - CO (20) - 𝐌øɉɨŧø杀手
+http://181.78.86.226:8086/play/a05w
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - GT (25) - 𝐌øɉɨŧø杀手
+http://181.78.105.146:8800/play/a05b
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - DO (31) - 𝐌øɉɨŧø杀手
+http://200.125.170.121:8000/play/a063
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - CO (12) - 𝐌øɉɨŧø杀手
+http://181.233.168.4:8282/play/a01o
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - CO (15) - 𝐌øɉɨŧø杀手
+http://181.233.168.8:8282/play/a01o
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - CO (18) - 𝐌øɉɨŧø杀手
+http://181.233.168.6:8282/play/a01o
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - CO (19) - 𝐌øɉɨŧø杀手
+http://190.2.212.209:8050/play/a0qc
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - CO (21) - 𝐌øɉɨŧø杀手
+http://181.233.168.7:8282/play/a01o
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - PE (35) - 𝐌øɉɨŧø杀手
+http://190.216.112.169:8000/play/a01r
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD 46 - US (48) - 𝐌øɉɨŧø杀手
+http://38.191.90.5:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - EC (5) - 𝐌øɉɨŧø杀手
+http://66.231.71.18:8000/play/a01d
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - DO (34) - 𝐌øɉɨŧø杀手
+http://200.125.170.122:8000/play/a063
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - CO (6) - 𝐌øɉɨŧø杀手
+http://181.119.86.1:8000/play/a01m
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - SV (71) - 𝐌øɉɨŧø杀手
+http://45.167.3.81:45000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - DO (57) - 𝐌øɉɨŧø杀手
+http://38.252.238.3:6102/play/a03c/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (42) - 𝐌øɉɨŧø杀手
+http://38.191.90.6:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",- Discovery World 28 - BR (46) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a0bx/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (45) - 𝐌øɉɨŧø杀手
+http://38.191.90.1:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HDMehr anzeigen - HN (36) - 𝐌øɉɨŧø杀手
+http://45.190.187.105:58092/play/a06j
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD 53 - GT (44) - 𝐌øɉɨŧø杀手
+http://45.5.119.43:4000/play/a0kp/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (53) - 𝐌øɉɨŧø杀手
+http://38.191.90.9:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - HN (7) - 𝐌øɉɨŧø杀手
+http://190.61.117.35:8000/play/a05a
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (55) - 𝐌øɉɨŧø杀手
+http://38.191.90.13:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - PE (22) - 𝐌øɉɨŧø杀手
+http://186.148.196.82:8001/play/a00w
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (60) - 𝐌øɉɨŧø杀手
+http://38.191.90.91:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (63) - 𝐌øɉɨŧø杀手
+http://38.191.90.49:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (64) - 𝐌øɉɨŧø杀手
+http://38.191.90.65:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (67) - 𝐌øɉɨŧø杀手
+http://38.191.90.15:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (69) - 𝐌øɉɨŧø杀手
+http://38.191.90.78:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (70) - 𝐌øɉɨŧø杀手
+http://38.191.90.48:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (72) - 𝐌øɉɨŧø杀手
+http://38.196.236.6:8000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (74) - 𝐌øɉɨŧø杀手
+http://38.191.90.94:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (77) - 𝐌øɉɨŧø杀手
+http://38.191.90.62:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (78) - 𝐌øɉɨŧø杀手
+http://38.191.90.97:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (81) - 𝐌øɉɨŧø杀手
+http://38.191.90.92:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (82) - 𝐌øɉɨŧø杀手
+http://38.191.90.34:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (84) - 𝐌øɉɨŧø杀手
+http://38.191.90.40:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (86) - 𝐌øɉɨŧø杀手
+http://38.191.90.39:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (88) - 𝐌øɉɨŧø杀手
+http://38.191.90.58:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - DO (99) - 𝐌øɉɨŧø杀手
+http://38.252.238.9:6102/play/a03c/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (93) - 𝐌øɉɨŧø杀手
+http://38.191.90.68:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (95) - 𝐌øɉɨŧø杀手
+http://38.191.90.42:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (97) - 𝐌øɉɨŧø杀手
+http://38.191.90.36:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - VE (1) - 𝐌øɉɨŧø杀手
+http://38.41.8.1:8000/play/a01q
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (4) - 𝐌øɉɨŧø杀手
+http://38.187.2.125:8000/play/a01r
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - AR (90) - 𝐌øɉɨŧø杀手
+http://45.5.151.151:8000/play/a0ol/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - BR (3) - 𝐌øɉɨŧø杀手
+http://177.8.76.2:8000/play/a03e
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - CL (17) - 𝐌øɉɨŧø杀手
+http://45.181.122.46:8090/play/a025
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - CL (26) - 𝐌øɉɨŧø杀手
+http://45.181.122.201:8081/play/a01m
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - CO (10) - 𝐌øɉɨŧø杀手
+http://181.233.168.5:8282/play/a01o
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - CO (23) - 𝐌øɉɨŧø杀手
+http://181.233.168.13:8282/play/a01o
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - CO (30) - 𝐌øɉɨŧø杀手
+http://181.205.130.194:4000/play/a0c2
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - CO (32) - 𝐌øɉɨŧø杀手
+http://201.184.160.154:4849/play/CH84
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - CO (33) - 𝐌øɉɨŧø杀手
+http://201.184.160.157:4849/play/CH84
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - CO (8) - 𝐌øɉɨŧø杀手
+http://181.233.168.3:8282/play/a01o
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - DO (38) - 𝐌øɉɨŧø杀手
+http://200.125.170.123:8000/play/a063
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - DO (62) - 𝐌øɉɨŧø杀手
+http://38.252.238.0:6102/play/a03c/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - DO (66) - 𝐌øɉɨŧø杀手
+http://38.252.238.2:6102/play/a03c/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - DO (76) - 𝐌øɉɨŧø杀手
+http://38.252.238.8:6102/play/a03c/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - GT (39) - 𝐌øɉɨŧø杀手
+http://45.5.119.97:9000/play/a07e/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - GT (47) - 𝐌øɉɨŧø杀手
+http://45.5.119.96:9000/play/a07e/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - HN (52) - 𝐌øɉɨŧø杀手
+http://38.7.31.247:8000/play/a0a6/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (100) - 𝐌øɉɨŧø杀手
+http://38.191.90.71:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (49) - 𝐌øɉɨŧø杀手
+http://38.191.90.0:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (50) - 𝐌øɉɨŧø杀手
+http://38.191.90.4:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (65) - 𝐌øɉɨŧø杀手
+http://38.191.90.41:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (73) - 𝐌øɉɨŧø杀手
+http://38.191.90.14:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (83) - 𝐌øɉɨŧø杀手
+http://38.191.90.83:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (91) - 𝐌øɉɨŧø杀手
+http://38.191.90.10:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (94) - 𝐌øɉɨŧø杀手
+http://38.191.90.70:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="© Discovery World" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/500px-World_Discovery_HD_logo.svg.png",Discovery World HD - US (96) - 𝐌øɉɨŧø杀手
+http://38.191.90.46:8000/play/a063/index.m3u8
+
+
+
+# Discovery Turbo
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - VE (7) - 𝐌øɉɨŧø杀手
+http://200.59.188.3:8000/play/a045
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",DISCOVERY TURBO SD - SC (5) - 𝐌øɉɨŧø杀手
+http://154.198.59.1:8000/play/a00x
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - BR (2) - 𝐌øɉɨŧø杀手
+http://177.8.76.2:8000/play/a00q
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - GT (38) - 𝐌øɉɨŧø杀手
+http://181.78.105.146:8800/play/a06n
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CO (12) - 𝐌øɉɨŧø杀手
+http://190.14.249.39:8000/play/a04j
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CO (14) - 𝐌øɉɨŧø杀手
+http://168.90.14.114:8282/play/a04j
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CO (16) - 𝐌øɉɨŧø杀手
+http://190.61.44.134:1088/play/a02f
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CO (19) - 𝐌øɉɨŧø杀手
+http://168.90.14.118:8282/play/a04j
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CO (20) - 𝐌øɉɨŧø杀手
+http://181.233.168.6:8282/play/a04j
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CO (23) - 𝐌øɉɨŧø杀手
+http://181.233.168.3:8282/play/a04j
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CO (25) - 𝐌øɉɨŧø杀手
+http://177.93.46.163:8000/play/a02c
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CO (27) - 𝐌øɉɨŧø杀手
+http://168.90.14.116:8282/play/a04j
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CO (29) - 𝐌øɉɨŧø杀手
+http://181.78.23.26:45000/play/a03b
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CO (32) - 𝐌øɉɨŧø杀手
+http://190.60.49.244:4000/play/a065
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CO (34) - 𝐌øɉɨŧø杀手
+http://181.233.168.46:8000/play/a04j
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CO (36) - 𝐌øɉɨŧø杀手
+http://190.109.15.194:8000/play/a0b7
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",- Discovery Turbo SD - PE (31) - 𝐌øɉɨŧø杀手
+http://38.52.182.236:9000/play/a03z
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - GT (54) - 𝐌øɉɨŧø杀手
+http://45.5.119.96:9000/play/a06k/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CL (47) - 𝐌øɉɨŧø杀手
+http://190.211.250.102:8000/play/a01h
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - DO (45) - 𝐌øɉɨŧø杀手
+http://200.125.170.123:8000/play/a059
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - DO (48) - 𝐌øɉɨŧø杀手
+http://200.125.170.122:8000/play/a059
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - EC (8) - 𝐌øɉɨŧø杀手
+http://66.231.71.18:8000/play/a02t
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CO (53) - 𝐌øɉɨŧø杀手
+http://191.97.6.26:8000/play/a09f/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - GT (57) - 𝐌øɉɨŧø杀手
+http://45.5.117.23:8000/play/a0nv/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - US (58) - 𝐌øɉɨŧø杀手
+http://38.191.90.4:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - US (61) - 𝐌øɉɨŧø杀手
+http://38.191.90.2:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CO (62) - 𝐌øɉɨŧø杀手
+http://191.97.6.27:8000/play/a09f/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - US (66) - 𝐌øɉɨŧø杀手
+http://38.191.90.1:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CO (71) - 𝐌øɉɨŧø杀手
+http://181.78.4.250:8098/play/a01v/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - US (68) - 𝐌øɉɨŧø杀手
+http://38.191.90.0:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - US (72) - 𝐌øɉɨŧø杀手
+http://38.191.90.31:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - US (73) - 𝐌øɉɨŧø杀手
+http://38.191.90.80:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - US (75) - 𝐌øɉɨŧø杀手
+http://38.191.90.97:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - US (77) - 𝐌øɉɨŧø杀手
+http://38.191.90.81:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - US (79) - 𝐌øɉɨŧø杀手
+http://38.191.90.18:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",DISCOVERY TURBO SD - CO (6) - 𝐌øɉɨŧø杀手
+http://45.175.139.194:8000/play/53
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - US (84) - 𝐌øɉɨŧø杀手
+http://38.191.90.32:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - US (86) - 𝐌øɉɨŧø杀手
+http://38.191.90.83:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - US (88) - 𝐌øɉɨŧø杀手
+http://38.191.90.77:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - US (90) - 𝐌øɉɨŧø杀手
+http://38.191.90.69:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - US (92) - 𝐌øɉɨŧø杀手
+http://38.191.90.62:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - US (94) - 𝐌øɉɨŧø杀手
+http://38.191.90.46:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - US (96) - 𝐌øɉɨŧø杀手
+http://38.191.90.53:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - US (98) - 𝐌øɉɨŧø杀手
+http://38.191.90.60:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - VE (1) - 𝐌øɉɨŧø杀手
+http://38.41.8.1:8000/play/a068
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",1078_ Discovery Turbo 50 - PE (46) - 𝐌øɉɨŧø杀手
+http://190.216.162.234:8000/play/a01z
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",DISCOVERY TURBO - CO (100) - 𝐌øɉɨŧø杀手
+http://190.60.42.86:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",DISCOVERY TURBO - GT (80) - 𝐌øɉɨŧø杀手
+http://45.5.117.183:9000/play/a0c4/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",DISCOVERY TURBO - PE (4) - 𝐌øɉɨŧø杀手
+http://179.63.6.12:8000/play/a01x
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",DISCOVERY TURBO SD - SC (3) - 𝐌øɉɨŧø杀手
+http://154.198.57.34:8000/play/53
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CL (40) - 𝐌øɉɨŧø杀手
+http://45.181.123.233:8000/play/a0p0
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CL (50) - 𝐌øɉɨŧø杀手
+http://45.4.1.202:8000/play/a0ts/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CO (17) - 𝐌øɉɨŧø杀手
+http://181.233.168.4:8282/play/a04j
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CO (21) - 𝐌øɉɨŧø杀手
+http://190.2.212.209:8050/play/a0n9
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CO (26) - 𝐌øɉɨŧø杀手
+http://190.107.20.43:6004/play/a04j
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CO (28) - 𝐌øɉɨŧø杀手
+http://181.233.168.8:8282/play/a04j
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CO (39) - 𝐌øɉɨŧø杀手
+http://181.233.168.13:8282/play/a04j
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CO (49) - 𝐌øɉɨŧø杀手
+http://201.184.160.154:4849/play/CH90
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CO (59) - 𝐌øɉɨŧø杀手
+http://191.97.6.29:8000/play/a09f/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CO (64) - 𝐌øɉɨŧø杀手
+http://191.97.6.30:8000/play/a09f/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CO (65) - 𝐌øɉɨŧø杀手
+http://191.97.6.28:8000/play/a09f/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CO (9) - 𝐌øɉɨŧø杀手
+http://190.61.42.218:9000/play/a01v
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CO (97) - 𝐌øɉɨŧø杀手
+http://8.242.176.45:1013/play/a024/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - US (51) - 𝐌øɉɨŧø杀手
+http://38.191.90.8:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - US (56) - 𝐌øɉɨŧø杀手
+http://38.191.90.6:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - US (76) - 𝐌øɉɨŧø杀手
+http://38.191.90.14:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - US (83) - 𝐌øɉɨŧø杀手
+http://38.191.90.47:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - US (89) - 𝐌øɉɨŧø杀手
+http://38.191.90.85:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo 52 - GT (70) - 𝐌øɉɨŧø杀手
+http://45.5.119.43:4000/play/a0ia/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo_Old - PK (37) - 𝐌øɉɨŧø杀手
+http://116.90.120.150:8000/play/a08f
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",DISCOVERY TURBO - PE (81) - 𝐌øɉɨŧø杀手
+http://191.97.49.83:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CL (18) - 𝐌øɉɨŧø杀手
+http://45.169.163.83:8000/play/a19p
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CL (30) - 𝐌øɉɨŧø杀手
+http://201.222.45.70:4000/play/a098
+#EXTINF:-1 group-title="© Discovery Turbo" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png",Discovery Turbo - CL (41) - 𝐌øɉɨŧø杀手
+http://45.181.122.201:8081/play/a033
+
+
 # Diacovery Theater
 #EXTINF:-1 group-title="© Discovery Theater" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater HD - VE (65) - 𝐌øɉɨŧø杀手
 http://8.243.249.70:8000/play/a01g/index.m3u8
