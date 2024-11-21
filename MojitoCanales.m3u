@@ -1,6 +1,8 @@
 #EXTM3U
 
 # GloboSat
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/580px-Logotipo_da_GloboNews.png",Globo 1- 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a08z/index.m3u8
 #EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/580px-Logotipo_da_GloboNews.png",GloboNews HD - BR (1) - 𝐌øɉɨŧø杀手
 http://177.93.152.229:8000/play/a031
 #EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/580px-Logotipo_da_GloboNews.png",Globonews 173 - BR (2) - 𝐌øɉɨŧø杀手
