@@ -1,5 +1,157 @@
 #EXTM3U
 
+
+# Discovery Channel 
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - CL (20) - 𝐌øɉɨŧø杀手
+http://45.181.123.233:8000/play/a166
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - CO (48) - 𝐌øɉɨŧø杀手
+http://179.1.87.75:8098/play/a0er/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - CO (10) - 𝐌øɉɨŧø杀手
+http://177.93.46.163:8000/play/a00z
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - CO (92) - 𝐌øɉɨŧø杀手
+http://181.78.85.43:9000/play/a09r/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - HN (25) - 𝐌øɉɨŧø杀手
+http://45.190.187.105:58092/play/a02l
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - CO (16) - 𝐌øɉɨŧø杀手
+http://181.233.168.46:8000/play/a01n
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - US (41) - 𝐌øɉɨŧø杀手
+http://38.191.90.2:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - CL (33) - 𝐌øɉɨŧø杀手
+http://190.211.250.102:8000/play/a012
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - CO (28) - 𝐌øɉɨŧø杀手
+http://201.184.160.157:4849/play/a0fi
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - DO (27) - 𝐌øɉɨŧø杀手
+http://200.125.170.123:8000/play/a062
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - HN (64) - 𝐌øɉɨŧø杀手
+http://38.7.31.247:8000/play/a0a4/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - DO (30) - 𝐌øɉɨŧø杀手
+http://200.125.170.120:8000/play/a062
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - DO (31) - 𝐌øɉɨŧø杀手
+http://200.125.170.120:8000/play/a09s
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - DO (35) - 𝐌øɉɨŧø杀手
+http://200.125.170.122:8000/play/a062
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - CL (7) - 𝐌øɉɨŧø杀手
+http://201.222.45.70:4000/play/a08b
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - DO (67) - 𝐌øɉɨŧø杀手
+http://38.252.238.6:6102/play/a03b/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - GT (58) - 𝐌øɉɨŧø杀手
+http://45.5.119.96:9000/play/a07d/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - GT (43) - 𝐌øɉɨŧø杀手
+http://45.5.117.23:8000/play/a0n3/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - US (42) - 𝐌øɉɨŧø杀手
+http://38.191.90.4:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - US (44) - 𝐌øɉɨŧø杀手
+http://38.191.90.3:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - US (46) - 𝐌øɉɨŧø杀手
+http://38.191.90.8:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - US (55) - 𝐌øɉɨŧø杀手
+http://38.191.90.1:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - CO (50) - 𝐌øɉɨŧø杀手
+http://191.97.6.30:8000/play/a07i/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD 50 - GT (56) - 𝐌øɉɨŧø杀手
+http://45.5.119.43:4000/play/a0kn/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",- Discovery Channel SD - PE (12) - 𝐌øɉɨŧø杀手
+http://38.52.182.236:9000/play/a03d
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - US (57) - 𝐌øɉɨŧø杀手
+http://38.191.90.9:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",IS21V - Discovery - Discovery Channel 252 - BR (53) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a09x/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - GT (68) - 𝐌øɉɨŧø杀手
+http://190.61.90.17:9999/play/a0kn/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - CO (8) - 𝐌øɉɨŧø杀手
+http://181.78.23.26:45000/play/a01c
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - US (66) - 𝐌øɉɨŧø杀手
+http://38.191.90.84:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - PE (15) - 𝐌øɉɨŧø杀手
+http://186.148.196.82:8001/play/a01c
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - US (69) - 𝐌øɉɨŧø杀手
+http://38.191.90.77:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - GT (87) - 𝐌øɉɨŧø杀手
+http://38.52.209.82:8000/play/a04v/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - US (72) - 𝐌øɉɨŧø杀手
+http://38.191.90.64:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - US (74) - 𝐌øɉɨŧø杀手
+http://38.191.90.54:8000/play/a09s/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - US (76) - 𝐌øɉɨŧø杀手
+http://38.191.90.63:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - US (77) - 𝐌øɉɨŧø杀手
+http://38.191.90.37:8000/play/a09s/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - US (78) - 𝐌øɉɨŧø杀手
+http://38.196.236.6:8000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - US (79) - 𝐌øɉɨŧø杀手
+http://38.191.90.92:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - US (81) - 𝐌øɉɨŧø杀手
+http://38.191.90.99:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - US (84) - 𝐌øɉɨŧø杀手
+http://38.191.90.85:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - US (85) - 𝐌øɉɨŧø杀手
+http://38.191.90.41:8000/play/a09s/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - US (93) - 𝐌øɉɨŧø杀手
+http://38.191.90.82:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - US (91) - 𝐌øɉɨŧø杀手
+http://38.191.90.35:8000/play/a09s/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - GT (18) - 𝐌øɉɨŧø杀手
+http://181.78.105.146:8800/play/a05a
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",024 DISCOVERY CHANNEL HD - CL (19) - 𝐌øɉɨŧø杀手
+http://170.233.192.234:8112/play/024
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",155_Discovery Channel 38 - BG (17) - 𝐌øɉɨŧø杀手
+http://213.91.178.133:8000/play/a044
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",202-HD Discovery Channel - CL (32) - 𝐌øɉɨŧø杀手
+http://138.186.122.170:8000/play/a00z
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",DISCOVERY CHANNEL SD - SC (2) - 𝐌øɉɨŧø杀手
+http://154.198.57.34:8000/play/46
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - CO (4) - 𝐌øɉɨŧø杀手
+http://181.119.86.1:8000/play/a034
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - CO (49) - 𝐌øɉɨŧø杀手
+http://191.97.6.27:8000/play/a07i/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - CO (9) - 𝐌øɉɨŧø杀手
+http://190.2.212.209:8050/play/a0nj
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - US (40) - 𝐌øɉɨŧø杀手
+http://38.191.90.0:8000/play/a09s/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - US (45) - 𝐌øɉɨŧø杀手
+http://38.191.90.1:8000/play/a09s/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - US (54) - 𝐌øɉɨŧø杀手
+http://38.191.90.7:8000/play/a09s/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - US (70) - 𝐌øɉɨŧø杀手
+http://38.191.90.16:8000/play/a09s/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - US (71) - 𝐌øɉɨŧø杀手
+http://38.191.90.59:8000/play/a09s/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - US (90) - 𝐌øɉɨŧø杀手
+http://38.191.90.91:8000/play/a09s/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - US (94) - 𝐌øɉɨŧø杀手
+http://38.191.90.88:8000/play/a09s/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - VE (1) - 𝐌øɉɨŧø杀手
+http://38.41.8.1:8000/play/a07l
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - BG (5) - 𝐌øɉɨŧø杀手
+http://195.24.90.119:800/play/a0as
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - DO (100) - 𝐌øɉɨŧø杀手
+http://38.252.238.7:6102/play/a03b/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - US (62) - 𝐌øɉɨŧø杀手
+http://38.191.90.6:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - US (80) - 𝐌øɉɨŧø杀手
+http://38.191.90.80:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - US (89) - 𝐌øɉɨŧø杀手
+http://38.191.90.61:8000/play/a09s/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel - US (95) - 𝐌øɉɨŧø杀手
+http://38.191.90.38:8000/play/a09s/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD - US (99) - 𝐌øɉɨŧø杀手
+http://38.191.90.58:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",Discovery Channel HD 41 - US (51) - 𝐌øɉɨŧø杀手
+http://38.191.90.5:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",A-Discovery Channel - HN (61) - 𝐌øɉɨŧø杀手
+http://38.7.31.247:8000/play/a08o/index.m3u8
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",DISCOVERY CHANNEL - JO (26) - 𝐌øɉɨŧø杀手
+http://185.234.111.229:8000/play/a027
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",DISCOVERY CHANNEL SD - CO (6) - 𝐌øɉɨŧø杀手
+http://45.175.139.194:8000/play/46
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png",DISCOVERY CHANNEL SD - SC (3) - 𝐌øɉɨŧø杀手
+http://154.198.59.1:8000/play/a00t
+#EXTINF:-1 group-title="© Discovery Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-20
+
+
+
+
+
 # Variado
 #EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",AvivamientoPRI - CO (21) - 𝐌øɉɨŧø杀手
 http://190.109.31.53:9000/play/a05w/index.m3u8
