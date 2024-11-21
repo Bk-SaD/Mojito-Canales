@@ -23,7 +23,46 @@ http://177.93.152.229:8000/play/a02k
 http://177.93.152.229:8000/play/a02j
 #EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/85px-Coat_of_arms_of_Brazil.svg.png",GloboNews HD - BR (13) - 𝐌øɉɨŧø杀手
 http://177.93.152.229:8000/play/a031
-
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_Globosat_Square2.svg/500px-Logo_Globosat_Square2.svg.png",- CNNBrasil 16 - BR (9) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a0c2/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_Globosat_Square2.svg/500px-Logo_Globosat_Square2.svg.png",REDE BRASIL 299 - BR (7) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a069/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_Globosat_Square2.svg/500px-Logo_Globosat_Square2.svg.png",- Cine Brasil TV 24 - BR (3) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a0fq/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_Globosat_Square2.svg/500px-Logo_Globosat_Square2.svg.png",STAR Channel Brasil (VC 122) - CO (1) - 𝐌øɉɨŧø杀手
+http://181.78.10.206:8000/play/a0bb
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_Globosat_Square2.svg/500px-Logo_Globosat_Square2.svg.png",CNN BRASIL 168 - BR (8) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a06i/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_Globosat_Square2.svg/500px-Logo_Globosat_Square2.svg.png",Film Arts Brasil HD - BR (19) - 𝐌øɉɨŧø杀手
+http://200.194.238.229:8000/udp/225.1.1.20:1234
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_Globosat_Square2.svg/500px-Logo_Globosat_Square2.svg.png",TV MILAGRO BRASIL 343 - BR (2) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a06l/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_Globosat_Square2.svg/500px-Logo_Globosat_Square2.svg.png",- TCMBrasil 98 - BR (14) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a0cw/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_Globosat_Square2.svg/500px-Logo_Globosat_Square2.svg.png",TCM Brasil - AC3 - BR (20) - 𝐌øɉɨŧø杀手
+http://200.194.238.229:8000/udp/225.1.1.21:1234
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_Globosat_Square2.svg/500px-Logo_Globosat_Square2.svg.png",IS21H - Turner - TCM Brasil 248 - BR (4) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a0ad/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_Globosat_Square2.svg/500px-Logo_Globosat_Square2.svg.png",- CanalBrasilHD 20 - BR (6) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a0dr/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_Globosat_Square2.svg/500px-Logo_Globosat_Square2.svg.png",C3V - Cine Brasil TV 152 - BR (11) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a0fp/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_Globosat_Square2.svg/500px-Logo_Globosat_Square2.svg.png",Canal Brasil 153 - BR (10) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a08v/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_Globosat_Square2.svg/500px-Logo_Globosat_Square2.svg.png",Sound6 - 124 - Rock Brasil 210 - BR (12) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_Globosat_Square2.svg/500px-Logo_Globosat_Square2.svg.png",Globo Brasil - PY (18) - 𝐌øɉɨŧø杀手
+http://181.78.27.128:8000/play/a068/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_Globosat_Square2.svg/500px-Logo_Globosat_Square2.svg.png",IS21H - Turner - TNT Series Brasil 249 - BR (5) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a0af/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_Globosat_Square2.svg/500px-Logo_Globosat_Square2.svg.png",- Rede Brasil 85 - BR (15) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a0fk/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_Globosat_Square2.svg/500px-Logo_Globosat_Square2.svg.png",Star One D2 Ku - TV Brasil 327 - BR (16) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a0as/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_Globosat_Square2.svg/500px-Logo_Globosat_Square2.svg.png",- TVBrasil 114 - BR (17) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a0d0/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_Globosat_Square2.svg/500px-Logo_Globosat_Square2.svg.png",TV MANA BRASIL 341 - BR (13) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a06m/index.m3u8
 
 
 
