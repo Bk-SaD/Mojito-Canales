@@ -1,7 +1,7 @@
 #EXTM3U
 
 # GloboSat
-#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/580px-Logotipo_da_GloboNews.png",Globo 1- 𝐌øɉɨŧø杀手
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/580px-Logotipo_da_GloboNews.png",Gloob - 𝐌øɉɨŧø杀手
 http://170.80.69.8:8000/play/a08z/index.m3u8
 #EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/580px-Logotipo_da_GloboNews.png",GloboNews HD - BR (1) - 𝐌øɉɨŧø杀手
 http://177.93.152.229:8000/play/a031
@@ -27,12 +27,6 @@ http://170.80.69.8:8000/play/a092/index.m3u8
 http://170.80.69.8:8000/play/a093/index.m3u8
 #EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/85px-Coat_of_arms_of_Brazil.svg.png",Off 179 - BR (35) - 𝐌øɉɨŧø杀手 
 http://170.80.69.8:8000/play/a094/index.m3u8
-#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/85px-Coat_of_arms_of_Brazil.svg.png",Globo TV Bahia HD - BR (14) - 𝐌øɉɨŧø杀手
-http://177.93.152.229:8000/play/a02k
-#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/85px-Coat_of_arms_of_Brazil.svg.png",Globo TV Verdes Mares Fortaleza HD - BR (15) - 𝐌øɉɨŧø杀手
-http://177.93.152.229:8000/play/a02j
-#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/85px-Coat_of_arms_of_Brazil.svg.png",GloboNews HD - BR (13) - 𝐌øɉɨŧø杀手
-http://177.93.152.229:8000/play/a031
 #EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_Globosat_Square2.svg/500px-Logo_Globosat_Square2.svg.png",- CNNBrasil 16 - BR (9) - 𝐌øɉɨŧø杀手
 http://170.80.69.8:8000/play/a0c2/index.m3u8
 #EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_Globosat_Square2.svg/500px-Logo_Globosat_Square2.svg.png",REDE BRASIL 299 - BR (7) - 𝐌øɉɨŧø杀手
