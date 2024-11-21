@@ -1,4 +1,64 @@
 #EXTM3U
+
+# Variado
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",AvivamientoPRI - CO (21) - 𝐌øɉɨŧø杀手
+http://190.109.31.53:9000/play/a05w/index.m3u8
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",Revival TV - ES (20) - 𝐌øɉɨŧø杀手
+http://149.62.177.67:8080/play/a0y0/index.m3u8
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",AvivamientoPRI - CO (5) - 𝐌øɉɨŧø杀手
+http://190.60.49.244:4000/play/a01f
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",Revival TV - PT (9) - 𝐌øɉɨŧø杀手
+http://185.236.229.50:8002/play/a03j
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",AVIVAMIENTO - CO (17) - 𝐌øɉɨŧø杀手
+http://181.78.82.6:46090/play/a05z/index.m3u8
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",Streamer - Viva 126 - BR (15) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a0f2/index.m3u8
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",Revival TV - ES (6) - 𝐌øɉɨŧø杀手
+http://149.62.177.67:8080/play/a0y0
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",AVIVAMIENTO - CO (22) - 𝐌øɉɨŧø杀手
+http://190.109.176.90:8000/play/a076/index.m3u8
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",AvivamientoPRI - CO (4) - 𝐌øɉɨŧø杀手
+http://190.60.49.243:4000/play/a01f
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",Terra Viva - BR (28) - 𝐌øɉɨŧø杀手
+http://200.194.238.229:8000/udp/227.0.0.65:1234
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",AVIVAMIENTO - CO (29) - 𝐌øɉɨŧø杀手
+http://190.0.241.181:8000/play/AVIVAMIENTO/index.m3u8
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",AVIVAMIENTO - CO (30) - 𝐌øɉɨŧø杀手
+http://181.119.68.227:9500/play/AVIVAMIENTO/index.m3u8
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",AVIVAMIENTO - CO (8) - 𝐌øɉɨŧø杀手
+http://190.61.42.218:9000/play/a002
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",AvivamientoPRI - CO (2) - 𝐌øɉɨŧø杀手
+http://181.78.14.26:8000/play/a01l
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",AVIVAMENTO - CO (26) - 𝐌øɉɨŧø杀手
+http://186.148.181.69:9000/play/a0dk/index.m3u8
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",AVIVAMIENTO - CO (10) - 𝐌øɉɨŧø杀手
+http://45.175.139.194:8000/play/a004
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",AVIVAMIENTO - CO (11) - 𝐌øɉɨŧø杀手
+http://186.148.184.65:8000/play/a03l
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",AVIVAMIENTO - CO (18) - 𝐌øɉɨŧø杀手
+http://190.60.33.245:4002/play/a0ul/index.m3u8
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",AVIVAMIENTO - CO (24) - 𝐌øɉɨŧø杀手
+http://190.102.123.28:8097/play/a0d1/index.m3u8
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",AVIVAMIENTO - CO (25) - 𝐌øɉɨŧø杀手
+http://181.119.85.222:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",AVIVAMIENTO - SC (3) - 𝐌øɉɨŧø杀手
+http://154.198.57.34:8000/play/a004
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",AVIVAMIENTO HD - SC (1) - 𝐌øɉɨŧø杀手
+http://154.198.59.1:8000/play/a02s
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",Avivamiento - CO (27) - 𝐌øɉɨŧø杀手
+http://45.167.124.127:8000/play/a09g/index.m3u8
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",AvivamientoPRI - CO (7) - 𝐌øɉɨŧø杀手
+http://181.78.10.206:8000/play/a0c3
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",CARTAGENA AVIVAMIENTO - CO (23) - 𝐌øɉɨŧø杀手
+http://190.121.146.75:8000/play/a0c9/index.m3u8
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",Star One D2 Ku - Terra Viva 333 - BR (16) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a05m/index.m3u8
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",Streamer - TERRAVIVA 102 - BR (12) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a0ew/index.m3u8
+#EXTINF:-1 group-title="© Variado" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LSD-2D%2C_3D.png/440px-LSD-2D%2C_3D.png",Viva TV HD - US (19) - 𝐌øɉɨŧø杀手
+http://38.188.100.27:8000/play/a07b/index.m3u8
+
+
 #EXTINF:-1 tvg-name="Venevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/641px-Logotipo_de_Venevisi%C3%B3n.svg.png" tvg-id="Venevision.ve" group-title="© Venezuela",Venevisión
 http://8.243.249.70:8000/play/a04u/index.m3u8
 #EXTINF:-1 tvg-name="Globovisión" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Globovisi%C3%B3n_logo_2013.png" tvg-id="Globovision.ve" group-title="© Venezuela",Globovisión
