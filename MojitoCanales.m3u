@@ -1,5 +1,31 @@
 #EXTM3U
 
+# GloboSat
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/85px-Coat_of_arms_of_Brazil.svg.png",Combate 154 - BR (34) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a08w/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/85px-Coat_of_arms_of_Brazil.svg.png",Bis 171 - BR (37) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a08p/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/85px-Coat_of_arms_of_Brazil.svg.png",GNT 172 - BR (94) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a08x/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/85px-Coat_of_arms_of_Brazil.svg.png",Gloobinho 175 - BR (49) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a090/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/85px-Coat_of_arms_of_Brazil.svg.png",Megapix 176 - BR (57) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a091/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/85px-Coat_of_arms_of_Brazil.svg.png",Modo Viagem 177 - BR (78) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a092/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/85px-Coat_of_arms_of_Brazil.svg.png",Multishow 178 - BR (38) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a093/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/85px-Coat_of_arms_of_Brazil.svg.png",Off 179 - BR (35) - 𝐌øɉɨŧø杀手 
+http://170.80.69.8:8000/play/a094/index.m3u8
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/85px-Coat_of_arms_of_Brazil.svg.png",Globo TV Bahia HD - BR (14) - 𝐌øɉɨŧø杀手
+http://177.93.152.229:8000/play/a02k
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/85px-Coat_of_arms_of_Brazil.svg.png",Globo TV Verdes Mares Fortaleza HD - BR (15) - 𝐌øɉɨŧø杀手
+http://177.93.152.229:8000/play/a02j
+#EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/85px-Coat_of_arms_of_Brazil.svg.png",GloboNews HD - BR (13) - 𝐌øɉɨŧø杀手
+http://177.93.152.229:8000/play/a031
+
+
+
 
 
 # Discovery World
