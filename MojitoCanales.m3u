@@ -1,6 +1,195 @@
 #EXTM3U
 
 
+
+# TLC
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - VE (7) - 𝐌øɉɨŧø杀手
+http://200.59.188.3:8000/play/a07k
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC SD - SC (5) - 𝐌øɉɨŧø杀手
+http://154.198.59.1:8000/play/a02f
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC SD - CO (11) - 𝐌øɉɨŧø杀手
+http://45.175.139.194:8000/play/55
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - EE (15) - 𝐌øɉɨŧø杀手
+http://84.50.127.180:9091/play/a01w
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (14) - 𝐌øɉɨŧø杀手
+http://181.233.168.4:8282/play/a067
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (16) - 𝐌øɉɨŧø杀手
+http://181.233.168.7:8282/play/a067
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (19) - 𝐌øɉɨŧø杀手
+http://181.233.168.5:8282/play/a067
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC HD EN - CH (53) - 𝐌øɉɨŧø杀手
+http://188.60.179.180:8000/play/a0ky
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (23) - 𝐌øɉɨŧø杀手
+http://168.90.14.115:8282/play/a067
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC Austria - CH (43) - 𝐌øɉɨŧø杀手
+http://188.60.179.180:8000/play/TLCA
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - HN (75) - 𝐌øɉɨŧø杀手
+http://38.7.31.247:8000/play/a08r/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (28) - 𝐌øɉɨŧø杀手
+http://177.93.46.163:8000/play/a017
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (29) - 𝐌øɉɨŧø杀手
+http://168.90.14.116:8282/play/a067
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (31) - 𝐌øɉɨŧø杀手
+http://190.61.42.218:9000/play/a01g
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC. - RO (57) - 𝐌øɉɨŧø杀手
+http://193.106.124.204:8003/play/a060
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (33) - 𝐌øɉɨŧø杀手
+http://168.90.14.114:8282/play/a067
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (34) - 𝐌øɉɨŧø杀手
+http://181.233.168.8:8282/play/a067
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - US (100) - 𝐌øɉɨŧø杀手
+http://38.191.90.89:8000/play/a09v/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (38) - 𝐌øɉɨŧø杀手
+http://190.14.249.39:8000/play/a067
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (39) - 𝐌øɉɨŧø杀手
+http://181.233.168.13:8282/play/a067
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - DO (56) - 𝐌øɉɨŧø杀手
+http://200.125.170.121:8000/play/a09v
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - DO (58) - 𝐌øɉɨŧø杀手
+http://200.125.170.120:8000/play/a09v
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC HD - UA (18) - 𝐌øɉɨŧø杀手
+http://195.189.60.33:9007/play/a003
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (46) - 𝐌øɉɨŧø杀手
+http://181.233.168.46:8000/play/a067
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (49) - 𝐌øɉɨŧø杀手
+http://45.176.193.222:2405/play/a07g
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC HD - Rs 3.00 - PK (42) - 𝐌øɉɨŧø杀手
+http://116.90.120.150:8000/play/a01z
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - NL (4) - 𝐌øɉɨŧø杀手
+http://77.160.58.67:8003/play/a025
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CL (54) - 𝐌øɉɨŧø杀手
+http://45.181.122.201:8081/play/a04v
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC Latin HD - CO (8) - 𝐌øɉɨŧø杀手
+http://181.78.14.26:8000/play/a00p
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (60) - 𝐌øɉɨŧø杀手
+http://179.189.222.226:8000/play/ch26
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",- TLC SD - PE (24) - 𝐌øɉɨŧø杀手
+http://38.52.182.236:9000/play/a07b
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (63) - 𝐌øɉɨŧø杀手
+http://179.189.222.226:16123/play/ch26
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - DO (62) - 𝐌øɉɨŧø杀手
+http://200.125.170.123:8000/play/a09v
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - DO (93) - 𝐌øɉɨŧø杀手
+http://38.252.238.6:6102/play/a05y/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC HD - RS (48) - 𝐌øɉɨŧø杀手
+http://109.245.49.186:8000/play/a01b
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (68) - 𝐌øɉɨŧø杀手
+http://191.97.6.28:8000/play/a07t/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - US (72) - 𝐌øɉɨŧø杀手
+http://38.191.90.8:8000/play/a09v/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (74) - 𝐌øɉɨŧø杀手
+http://181.78.6.66:8000/play/a0a3/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - BG (6) - 𝐌øɉɨŧø杀手
+http://195.24.90.119:800/play/a09g
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - BR (2) - 𝐌øɉɨŧø杀手
+http://177.8.76.2:8000/play/a00a
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - US (76) - 𝐌øɉɨŧø杀手
+http://38.191.90.3:8000/play/a09v/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - MX (50) - 𝐌øɉɨŧø杀手
+http://45.189.148.254:8000/play/a022
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - US (81) - 𝐌øɉɨŧø杀手
+http://38.191.90.1:8000/play/a09v/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - GT (83) - 𝐌øɉɨŧø杀手
+http://45.5.119.97:9000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC 2 - EE (21) - 𝐌øɉɨŧø杀手
+http://84.50.127.180:9091/play/a00y
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - US (86) - 𝐌øɉɨŧø杀手
+http://38.191.90.2:8000/play/a09v/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - GT (85) - 𝐌øɉɨŧø杀手
+http://45.5.117.23:8000/play/a0n6/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - HN (22) - 𝐌øɉɨŧø杀手
+http://190.61.117.35:8000/play/a01e
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - US (88) - 𝐌øɉɨŧø杀手
+http://38.191.90.4:8000/play/a09v/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - US (89) - 𝐌øɉɨŧø杀手
+http://38.191.90.59:8000/play/a09v/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - US (91) - 𝐌øɉɨŧø杀手
+http://38.191.90.49:8000/play/a09v/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - US (94) - 𝐌øɉɨŧø杀手
+http://38.191.90.81:8000/play/a09v/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - US (95) - 𝐌øɉɨŧø杀手
+http://38.191.90.57:8000/play/a09v/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - US (96) - 𝐌øɉɨŧø杀手
+http://38.191.90.60:8000/play/a09v/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - US (98) - 𝐌øɉɨŧø杀手
+http://38.191.90.96:8000/play/a09v/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - VE (1) - 𝐌øɉɨŧø杀手
+http://38.41.8.1:8000/play/a07y
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - US (67) - 𝐌øɉɨŧø杀手
+http://38.191.90.7:8000/play/a09v/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",1138_ TLC 88 - PE (59) - 𝐌øɉɨŧø杀手
+http://190.216.162.234:8000/play/a039
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",172 TLC - CL (51) - 𝐌øɉɨŧø杀手
+http://170.233.192.234:8112/play/172
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",IS21V - Discovery - TLC 259 - BR (71) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a0a2/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",Streamer - DiscoveryTLC 33 - BR (70) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a0ca/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CL (17) - 𝐌øɉɨŧø杀手
+http://45.184.87.142:8000/play/a028
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CL (27) - 𝐌øɉɨŧø杀手
+http://45.169.163.83:8000/play/a19l
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CL (65) - 𝐌øɉɨŧø杀手
+http://45.4.1.202:8000/play/a0uf/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (13) - 𝐌øɉɨŧø杀手
+http://181.78.12.164:9000/play/a07o
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (20) - 𝐌øɉɨŧø杀手
+http://181.233.168.3:8282/play/a067
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (25) - 𝐌øɉɨŧø杀手
+http://190.61.44.134:1088/play/a01b
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (36) - 𝐌øɉɨŧø杀手
+http://190.107.20.43:6004/play/a067
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (41) - 𝐌øɉɨŧø杀手
+http://181.204.79.182:8202/play/a01t
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (45) - 𝐌øɉɨŧø杀手
+http://186.148.184.65:8000/play/a025
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (55) - 𝐌øɉɨŧø杀手
+http://181.205.130.194:4000/play/a07p
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (66) - 𝐌øɉɨŧø杀手
+http://191.97.6.27:8000/play/a07t/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (69) - 𝐌øɉɨŧø杀手
+http://191.97.6.29:8000/play/a07t/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (79) - 𝐌øɉɨŧø杀手
+http://191.97.6.26:8000/play/a07t/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (87) - 𝐌øɉɨŧø杀手
+http://191.97.6.30:8000/play/a07t/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (99) - 𝐌øɉɨŧø杀手
+http://179.1.139.84:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - EC (10) - 𝐌øɉɨŧø杀手
+http://66.231.71.18:8000/play/a034
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - GT (78) - 𝐌øɉɨŧø杀手
+http://45.5.119.96:9000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - US (73) - 𝐌øɉɨŧø杀手
+http://38.191.90.0:8000/play/a09v/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - US (82) - 𝐌øɉɨŧø杀手
+http://38.191.90.9:8000/play/a09v/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - VE (92) - 𝐌øɉɨŧø杀手
+http://8.243.249.70:8000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC Telecampione - GG (30) - 𝐌øɉɨŧø杀手
+http://45.59.149.54:8034/play/s1595
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CL (12) - 𝐌øɉɨŧø杀手
+http://201.222.45.70:4000/play/a08n
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CL (47) - 𝐌øɉɨŧø杀手
+http://45.181.123.233:8000/play/a0og
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CL (52) - 𝐌øɉɨŧø杀手
+http://190.102.246.93:9005/play/a03q
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (26) - 𝐌øɉɨŧø杀手
+http://168.90.14.118:8282/play/a067
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (32) - 𝐌øɉɨŧø杀手
+http://190.2.212.209:8050/play/a0o5
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (37) - 𝐌øɉɨŧø杀手
+http://181.233.168.6:8282/play/a067
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (44) - 𝐌øɉɨŧø杀手
+http://186.96.98.138:19000/play/a01u
+#EXTINF:-1 group-title="© TLC" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/500px-TLC_Logo.svg.png",TLC - CO (84) - 𝐌øɉɨŧø杀手
+http://179.1.87.75:8098/play/a0fd/index.m3u8
+
+
+
+
+
+
+
 # Animal Planet
 #EXTINF:-1 group-title="© Animal Planet" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",Animal Planet HD 2 - CL (11) - 𝐌øɉɨŧø杀手
 http://207.248.3.81:8081/play/a0j7
