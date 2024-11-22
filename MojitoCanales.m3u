@@ -1,5 +1,153 @@
 #EXTM3U
 
+# Studio Universal 
+
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",- Studio Universal SD - PE (70) - 𝐌øɉɨŧø杀手
+http://38.52.182.236:9000/play/a04a
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",0 - Studio Universal HD - PE (52) - 𝐌øɉɨŧø杀手
+http://38.52.182.236:9000/play/a055
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",OLE STU UNIVERSAL - CO (25) - 𝐌øɉɨŧø杀手
+http://45.171.181.2:8000/play/a02s
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal - CL (93) - 𝐌øɉɨŧø杀手
+http://201.222.45.70:4000/play/a083
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal - CO (31) - 𝐌øɉɨŧø杀手
+http://45.171.181.2:8000/play/a029
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal - CO (49) - 𝐌øɉɨŧø杀手
+http://190.60.49.244:4000/play/a06g
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal - CO (54) - 𝐌øɉɨŧø杀手
+http://190.61.42.218:9000/play/a010
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal - CO (62) - 𝐌øɉɨŧø杀手
+http://190.2.212.209:8050/play/a0pw
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal - CO (64) - 𝐌øɉɨŧø杀手
+http://190.60.49.243:4000/play/a06g
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal - CO (66) - 𝐌øɉɨŧø杀手
+http://177.93.46.163:8000/play/a00r
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal - CO (76) - 𝐌øɉɨŧø杀手
+http://181.78.23.26:45000/play/a00l
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal - HN (68) - 𝐌øɉɨŧø杀手
+http://190.61.117.35:8000/play/a029
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",STUDIO UNIVERSAL - SC (60) - 𝐌øɉɨŧø杀手
+http://154.198.57.34:8000/play/a00z
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal - VE (7) - 𝐌øɉɨŧø杀手
+http://38.41.8.1:8000/play/a05n
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal - VE (20) - 𝐌øɉɨŧø杀手
+http://200.59.188.3:8000/play/a06r
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - BR (8) - 𝐌øɉɨŧø杀手
+http://177.8.76.2:8000/play/a03n
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CL (30) - 𝐌øɉɨŧø杀手
+http://207.248.3.81:8081/play/a0j5
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CL (79) - 𝐌øɉɨŧø杀手
+http://45.181.122.46:8090/play/a02d
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (9) - 𝐌øɉɨŧø杀手
+http://181.78.78.66:8000/play/a017
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (14) - 𝐌øɉɨŧø杀手
+http://181.233.168.5:8282/play/a00i
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (19) - 𝐌øɉɨŧø杀手
+http://168.90.14.118:8282/play/a00i
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (36) - 𝐌øɉɨŧø杀手
+http://181.233.168.5:8282/play/a00i
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (37) - 𝐌øɉɨŧø杀手
+http://190.2.212.209:8050/play/a0qk
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (48) - 𝐌øɉɨŧø杀手
+http://181.233.168.4:8282/play/a00i
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (50) - 𝐌øɉɨŧø杀手
+http://181.233.168.3:8282/play/a00i
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (51) - 𝐌øɉɨŧø杀手
+http://181.233.168.13:8282/play/a00i
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (61) - 𝐌øɉɨŧø杀手
+http://168.90.14.116:8282/play/a00i
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (69) - 𝐌øɉɨŧø杀手
+http://186.148.181.157:8000/play/a00g
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (71) - 𝐌øɉɨŧø杀手
+http://186.148.181.144:8000/play/a00g
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (81) - 𝐌øɉɨŧø杀手
+http://186.148.181.151:8000/play/a00g
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (82) - 𝐌øɉɨŧø杀手
+http://186.148.181.155:8000/play/a00g
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (94) - 𝐌øɉɨŧø杀手
+http://186.148.181.150:8000/play/a00g
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (96) - 𝐌øɉɨŧø杀手
+http://181.233.168.6:8282/play/a00i
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (98) - 𝐌øɉɨŧø杀手
+http://190.107.20.43:6004/play/a00i
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (99) - 𝐌øɉɨŧø杀手
+http://181.78.86.226:8086/play/a064
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",STUDIO UNIVERSAL HD - PE (13) - 𝐌øɉɨŧø杀手
+http://179.63.6.17:9000/play/a04y
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - PE (58) - 𝐌øɉɨŧø杀手
+http://190.119.40.74:8200/play/a0f2
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",STUDIO UNIVERSAL HD - SC (15) - 𝐌øɉɨŧø杀手
+http://154.198.59.1:8000/play/a037
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - US (27) - 𝐌øɉɨŧø杀手
+http://38.187.2.125:8000/play/a00p
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - VE (1) - 𝐌øɉɨŧø杀手
+http://38.41.8.1:8000/play/a01y
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - VE (18) - 𝐌øɉɨŧø杀手
+http://200.59.188.3:8000/play/a024
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CL (12) - 𝐌øɉɨŧø杀手
+http://207.248.3.81:8081/play/a0j5
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (40) - 𝐌øɉɨŧø杀手
+http://181.78.86.226:8086/play/a064
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (64) - 𝐌øɉɨŧø杀手
+http://38.137.217.169:8000/play/a01z
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (91) - 𝐌øɉɨŧø杀手
+http://152.200.192.149:8000/play/a00g
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CL (33) - 𝐌øɉɨŧø杀手
+http://45.181.122.46:8090/play/a02d
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (15) - 𝐌øɉɨŧø杀手
+http://181.233.168.7:8282/play/a00i
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (18) - 𝐌øɉɨŧø杀手
+http://181.233.168.3:8282/play/a00i
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (24) - 𝐌øɉɨŧø杀手
+http://168.90.14.116:8282/play/a00i
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (29) - 𝐌øɉɨŧø杀手
+http://168.90.14.114:8282/play/a00i
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (31) - 𝐌øɉɨŧø杀手
+http://190.14.249.39:8000/play/a00i
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",- Studio Universal SD - PE (30) - 𝐌øɉɨŧø杀手
+http://38.52.182.236:9000/play/a04a
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal - CO (48) - 𝐌øɉɨŧø杀手
+http://181.204.79.182:8202/play/a030
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (39) - 𝐌øɉɨŧø杀手
+http://190.107.20.43:6004/play/a00i
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",estudio universal - CL (61) - 𝐌øɉɨŧø杀手
+http://45.181.123.233:8000/play/a180
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (4) - 𝐌øɉɨŧø杀手
+http://179.1.33.2:4000/play/a116
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (53) - 𝐌øɉɨŧø杀手
+http://186.148.184.65:8000/play/a015
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (54) - 𝐌øɉɨŧø杀手
+http://186.96.98.138:19000/play/a017
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (65) - 𝐌øɉɨŧø杀手
+http://190.109.15.194:8000/play/a0br
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (66) - 𝐌øɉɨŧø杀手
+http://186.148.181.152:8000/play/a00g
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - PE (100) - 𝐌øɉɨŧø杀手
+http://38.7.101.90:8000/play/a090/index.m3u8
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - PE (57) - 𝐌øɉɨŧø杀手
+http://138.99.179.227:8000/play/a01o
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (67) - 𝐌øɉɨŧø杀手
+http://186.148.181.159:8000/play/a00g
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (75) - 𝐌øɉɨŧø杀手
+http://186.148.181.145:8000/play/a00g
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (76) - 𝐌øɉɨŧø杀手
+http://186.148.181.156:8000/play/a00g
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (77) - 𝐌øɉɨŧø杀手
+http://152.200.192.148:8000/play/a00g
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal - VE (10) - 𝐌øɉɨŧø杀手
+http://200.59.188.3:8000/play/a06r
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (79) - 𝐌øɉɨŧø杀手
+http://186.148.181.149:8000/play/a00g
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (83) - 𝐌øɉɨŧø杀手
+http://186.148.181.154:8000/play/a00g
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (88) - 𝐌øɉɨŧø杀手
+http://186.148.181.153:8000/play/a00g
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (93) - 𝐌øɉɨŧø杀手
+http://201.184.160.154:4849/play/CH36
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - CO (95) - 𝐌øɉɨŧø杀手
+http://186.148.181.147:8000/play/a00g
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD - PE (80) - 𝐌øɉɨŧø杀手
+http://190.216.112.169:8000/play/a00p
 
 # Universal Channel 
 #EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal - CL (40) - 𝐌øɉɨŧø杀手
