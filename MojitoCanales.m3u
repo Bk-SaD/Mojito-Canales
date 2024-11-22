@@ -1,7 +1,147 @@
 #EXTM3U
 
-# Studio Universal 
+# Comedy Central 
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Canales - 𝐌øɉɨŧø杀手
+http://187.120.222.12:8000/play/PFC5/index.m3u8
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central Romania - RO (66) - 𝐌øɉɨŧø杀手
+http://193.106.124.204:8004/play/a03q
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - CO (58) - 𝐌øɉɨŧø杀手
+http://201.184.160.157:4849/play/CH50
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - CO (8) - 𝐌øɉɨŧø杀手
+http://181.233.168.8:8282/play/a029
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",SES14R - Nick - Comedy Central - BR (79) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a09w/index.m3u8
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - CL (18) - 𝐌øɉɨŧø杀手
+http://45.160.74.253:9000/play/a054
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",- Comedy Central SD - PE (16) - 𝐌øɉɨŧø杀手
+http://38.52.182.236:9000/play/a03k
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - CO (22) - 𝐌øɉɨŧø杀手
+http://181.233.168.4:8282/play/a029
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - CL (27) - 𝐌øɉɨŧø杀手
+http://45.181.122.201:8081/play/a00w
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - CO (24) - 𝐌øɉɨŧø杀手
+http://181.233.168.6:8282/play/a029
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Polsat Comedy Central Extra - PT (29) - 𝐌øɉɨŧø杀手
+http://185.236.229.62:9981/play/a06c
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - CO (30) - 𝐌øɉɨŧø杀手
+http://181.233.168.13:8282/play/a029
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Polsat Comedy Central Extra - UA (9) - 𝐌øɉɨŧø杀手
+http://195.189.60.33:9015/play/a00b
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - CO (39) - 𝐌øɉɨŧø杀手
+http://201.184.160.154:4849/play/CH50
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - UA (19) - 𝐌øɉɨŧø杀手
+http://195.189.60.33:9015/play/a007
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - CO (10) - 𝐌øɉɨŧø杀手
+http://190.61.42.218:9000/play/a004
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central - CO (40) - 𝐌øɉɨŧø杀手
+http://152.200.192.150:8000/play/a01p
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central - CO (42) - 𝐌øɉɨŧø杀手
+http://186.148.181.153:8000/play/a01p
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central - CO (44) - 𝐌øɉɨŧø杀手
+http://186.148.181.145:8000/play/a01p
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central - CO (46) - 𝐌øɉɨŧø杀手
+http://186.148.181.144:8000/play/a01p
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central - CO (49) - 𝐌øɉɨŧø杀手
+http://186.148.181.155:8000/play/a01p
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central - CO (51) - 𝐌øɉɨŧø杀手
+http://152.200.192.148:8000/play/a01p
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central - CO (54) - 𝐌øɉɨŧø杀手
+http://186.148.181.157:8000/play/a01p
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - DO (55) - 𝐌øɉɨŧø杀手
+http://200.125.170.121:8000/play/a04l
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - DO (57) - 𝐌øɉɨŧø杀手
+http://200.125.170.120:8000/play/a04l
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - DO (61) - 𝐌øɉɨŧø杀手
+http://200.125.170.122:8000/play/a04l
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central - CO (62) - 𝐌øɉɨŧø杀手
+http://152.200.192.149:8000/play/a01p
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central - CO (64) - 𝐌øɉɨŧø杀手
+http://186.148.181.151:8000/play/a01p
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - HN (72) - 𝐌øɉɨŧø杀手
+http://38.7.31.247:8000/play/a0cd/index.m3u8
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - CO (7) - 𝐌øɉɨŧø杀手
+http://168.90.14.115:8282/play/a029
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - US (71) - 𝐌øɉɨŧø杀手
+http://38.191.90.6:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - US (73) - 𝐌øɉɨŧø杀手
+http://38.191.90.5:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - US (75) - 𝐌øɉɨŧø杀手
+http://38.191.90.8:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - US (77) - 𝐌øɉɨŧø杀手
+http://38.191.90.1:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - US (80) - 𝐌øɉɨŧø杀手
+http://38.191.90.3:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - US (82) - 𝐌øɉɨŧø杀手
+http://38.191.90.0:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - US (85) - 𝐌øɉɨŧø杀手
+http://38.191.90.32:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - US (86) - 𝐌øɉɨŧø杀手
+http://38.191.90.53:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - US (88) - 𝐌øɉɨŧø杀手
+http://38.191.90.43:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - US (91) - 𝐌øɉɨŧø杀手
+http://38.191.90.74:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - US (92) - 𝐌øɉɨŧø杀手
+http://38.191.90.86:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - US (94) - 𝐌øɉɨŧø杀手
+http://38.191.90.21:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - US (98) - 𝐌øɉɨŧø杀手
+http://38.191.90.98:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central - NL (4) - 𝐌øɉɨŧø杀手
+http://77.160.58.67:8005/play/a00s
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy central - CL (25) - 𝐌øɉɨŧø杀手
+http://45.169.163.83:8000/play/a18m
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",048. Comedy Central HD - GT (93) - 𝐌øɉɨŧø杀手
+http://45.5.117.182:8000/play/a0id/index.m3u8
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",COMEDY CENTRAL HD - CO (96) - 𝐌øɉɨŧø杀手
+http://177.93.60.26:8000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central - CO (37) - 𝐌øɉɨŧø杀手
+http://186.148.181.156:8000/play/a01p
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central - CO (43) - 𝐌øɉɨŧø杀手
+http://186.148.181.159:8000/play/a01p
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central - CO (45) - 𝐌øɉɨŧø杀手
+http://186.148.181.149:8000/play/a01p
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central - CO (48) - 𝐌øɉɨŧø杀手
+http://186.148.181.147:8000/play/a01p
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central - CO (50) - 𝐌øɉɨŧø杀手
+http://186.148.181.148:8000/play/a01p
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central - CO (56) - 𝐌øɉɨŧø杀手
+http://152.200.192.151:8000/play/a01p
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central - CO (59) - 𝐌øɉɨŧø杀手
+http://186.148.181.152:8000/play/a01p
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central - CO (60) - 𝐌øɉɨŧø杀手
+http://186.148.181.158:8000/play/a01p
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central - CO (97) - 𝐌øɉɨŧø杀手
+http://190.60.38.45:8000/play/a0d1/index.m3u8
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - BR (2) - 𝐌øɉɨŧø杀手
+http://177.8.76.2:8000/play/a02h
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - CL (12) - 𝐌øɉɨŧø杀手
+http://45.181.122.46:8090/play/a01z
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - CL (35) - 𝐌øɉɨŧø杀手
+http://190.102.246.93:9005/play/a02r
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - CO (15) - 𝐌øɉɨŧø杀手
+http://168.90.14.114:8282/play/a029
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - CO (17) - 𝐌øɉɨŧø杀手
+http://181.233.168.3:8282/play/a029
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - CO (23) - 𝐌øɉɨŧø杀手
+http://181.233.168.7:8282/play/a029
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - CO (26) - 𝐌øɉɨŧø杀手
+http://190.109.15.194:8000/play/a0ad
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - CO (6) - 𝐌øɉɨŧø杀手
+http://181.233.168.5:8282/play/a029
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - GT (33) - 𝐌øɉɨŧø杀手
+http://181.78.105.146:6060/play/a03m
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - GT (36) - 𝐌øɉɨŧø杀手
+http://181.78.105.146:8800/play/a064
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - GT (69) - 𝐌øɉɨŧø杀手
+http://45.5.119.97:9000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - GT (87) - 𝐌øɉɨŧø杀手
+http://190.61.90.17:9999/play/a0hy/index.m3u8
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - PT (32) - 𝐌øɉɨŧø杀手
+http://185.236.229.62:9981/play/a068
 
+
+# Studio Universal 
 #EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",- Studio Universal SD - PE (70) - 𝐌øɉɨŧø杀手
 http://38.52.182.236:9000/play/a04a
 #EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",0 - Studio Universal HD - PE (52) - 𝐌øɉɨŧø杀手
