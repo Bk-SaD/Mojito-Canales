@@ -3,7 +3,6 @@
 [![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-yellow?style=flat-square)](https://github.com/usuario/repo)
 [![Soporte](https://img.shields.io/badge/soporte-Canales%20HD-blue?style=flat-square)](https://github.com/usuario/repo/issues)
 [![Pull Requests](https://img.shields.io/badge/contribuye-abierto-red?style=flat-square)](https://github.com/usuario/repo/pulls)
-★ 𝐌øɉɨŧø
 
 ---
 
