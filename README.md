@@ -1,7 +1,6 @@
 # 📺 Lista IPTV M3U - Proyecto Interactivo
 
 [![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-yellow?style=flat-square)](https://github.com/usuario/repo)
-[![Licencia](https://img.shields.io/badge/licencia-MIT-green?style=flat-square)](LICENSE)
 [![Soporte](https://img.shields.io/badge/soporte-Canales%20HD-blue?style=flat-square)](https://github.com/usuario/repo/issues)
 [![Pull Requests](https://img.shields.io/badge/contribuye-abierto-red?style=flat-square)](https://github.com/usuario/repo/pulls)
 
@@ -26,15 +25,12 @@ Este proyecto ofrece una lista IPTV en formato **M3U**, diseñada para transmiti
 ## 📂 Estructura del Proyecto
 
 ```plaintext
-📁 Proyecto
-├── 📄 lista.m3u          # Archivo principal con las URLs de los canales
-├── 📄 LICENSE            # Información de la licencia
+📁 Mojito-Canalez
+├── 📁 Logos              # Logos
+├── 📄 MojitoCanales.m3u  # Archivo principal 
 ├── 📄 README.md          # Este archivo
-├── 📁 ejemplos           # Listas de prueba y ejemplos de uso
-└── 📁 scripts            # Scripts para automatizar la actualización
-
-
----
+└── 📄 .nojekyll          # nojekyll Java         
+```
 
 💻 Cómo Usar
 
