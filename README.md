@@ -34,8 +34,7 @@ Este proyecto ofrece una lista IPTV en formato **M3U**, diseñada para transmiti
 
 💻 Cómo Usar
 
-1. Descargar el archivo M3U
-Puedes clonar el repositorio o descargar directamente el archivo lista.m3u.
+1. Descargar el archivo, puedes clonar el repositorio o descargar directamente el archivo MojitoCanales.m3u.
 
 
 2. Abrir en tu reproductor favorito
@@ -50,20 +49,6 @@ Kodi: Configuración -> TV -> Configurar -> Importar lista M3U.
 ¡Todo listo para empezar a ver tus canales favoritos!
 
 
-
-
----
-
-🛠️ Herramientas Utilizadas
-
-GitHub Actions: Automatización de tareas.
-
-JSON: Formato base para manejar configuraciones adicionales.
-
-Shell Scripts: Automatización de procesos de actualización.
-
-
-
 ---
 
 🤝 Contribuciones
@@ -75,19 +60,13 @@ Reporta problemas en Issues.
 Envía mejoras con Pull Requests.
 
 
-# Requisitos para colaborar:
-- Código limpio y comentado.
-- Respetar la estructura existente del proyecto.
-- Incluir ejemplos si es necesario.
-
-
 ---
 
 📧 Contacto
 
 Si tienes alguna duda o sugerencia, no dudes en contactarme:
-Correo: correo@ejemplo.com
-Telegram: @tu_usuario
+Correo: @bk_lyric
+Telegram: @BK_SaDBoY
 
 
 ---
@@ -99,9 +78,9 @@ El uso de esta lista está destinado únicamente para propósitos personales y e
 
 ---
 
-🌟 ¡Apóyanos!
+🌟 ¡Apóyame!
 
-Si encuentras útil este proyecto, considera dejar una estrella ⭐ o hacer una donación:
+Si encuentras útil este proyecto, considera dejar una estrella ⭐
 
  
 
@@ -110,16 +89,8 @@ Si encuentras útil este proyecto, considera dejar una estrella ⭐ o hacer una 
 
 🖼️ Vista Previa
 
+```
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://ejemplo.com/logo.png" group-title="Deportes", ESPN HD
 http://stream.ejemplo.com/espn_hd.m3u8
-
-
----
-
-### Notas:
-1. Reemplaza los enlaces y nombres genéricos (`usuario`, `tu_enlace`, `correo@ejemplo.com`, etc.) con los correspondientes a tu proyecto.
-2. Puedes personalizar aún más añadiendo gifs o capturas de pantalla para ilustrar las instrucciones.
-
-Espero que esto cumpla con tus expectativas de un README lindo e interactivo.
-
+```
