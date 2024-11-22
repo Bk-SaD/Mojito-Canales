@@ -9,8 +9,6 @@ http://193.106.124.204:8004/play/a03q
 http://201.184.160.157:4849/play/CH50
 #EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - CO (8) - 𝐌øɉɨŧø杀手
 http://181.233.168.8:8282/play/a029
-#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",SES14R - Nick - Comedy Central - BR (79) - 𝐌øɉɨŧø杀手
-http://170.80.69.8:8000/play/a09w/index.m3u8
 #EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - CL (18) - 𝐌øɉɨŧø杀手
 http://45.160.74.253:9000/play/a054
 #EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",- Comedy Central SD - PE (16) - 𝐌øɉɨŧø杀手
@@ -411,6 +409,8 @@ http://190.61.42.218:9000/play/a006
 
 
 # GloboSat
+#EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",SES14R - Nick - Comedy Central - BR (79) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a09w/index.m3u8
 #EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png/360px-Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png",TSA-Record News - DE (8) - 𝐌øɉɨŧø杀手
 http://176.65.146.108:8022/play/a05v/index.m3u8
 #EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png/360px-Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png",- Record 83 - BR (4) - 𝐌øɉɨŧø杀手
