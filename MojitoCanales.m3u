@@ -1,5 +1,127 @@
 #EXTM3U
 
+
+# Universal Channel 
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal - CL (40) - 𝐌øɉɨŧø杀手
+http://201.222.45.70:4000/play/a076
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",universal - CL (41) - 𝐌øɉɨŧø杀手
+http://45.169.163.83:8000/play/a198
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal - CO (12) - 𝐌øɉɨŧø杀手
+http://179.1.33.2:4000/play/a0rd
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal Comedy SD - CO (38) - 𝐌øɉɨŧø杀手
+http://181.78.23.26:45000/play/a015
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL CHANNEL HD - CO (17) - 𝐌øɉɨŧø杀手
+http://181.78.78.66:8000/play/a04m
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL CHANNEL HD - CO (32) - 𝐌øɉɨŧø杀手
+http://45.171.181.2:8000/play/a02h
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal - CO (42) - 𝐌øɉɨŧø杀手
+http://190.60.49.244:4000/play/a03y
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL CHANNEL HD - CO (44) - 𝐌øɉɨŧø杀手
+http://181.233.168.7:8282/play/a02w
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal - VE (5) - 𝐌øɉɨŧø杀手
+http://38.41.8.1:8000/play/a04r
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal - CO (16) - 𝐌øɉɨŧø杀手
+http://45.171.181.2:8000/play/a01o
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",RED - UNIVERSAL COMEDY HD - PE (74) - 𝐌øɉɨŧø杀手
+http://38.52.182.236:9000/play/a09b
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL CHANNEL HD - SC (29) - 𝐌øɉɨŧø杀手
+http://154.198.59.1:8000/play/a039
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL CHANNEL HD - VE (23) - 𝐌øɉɨŧø杀手
+http://200.59.188.3:8000/play/a0ki
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL CHANNEL HD - VE (3) - 𝐌øɉɨŧø杀手
+http://38.41.8.1:8000/play/a0fg
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL CHANNEL HD - CO (45) - 𝐌øɉɨŧø杀手
+http://190.14.249.39:8000/play/a04n
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal Comedy SD - VE (4) - 𝐌øɉɨŧø杀手
+http://38.41.8.1:8000/play/a05r
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal - CO (46) - 𝐌øɉɨŧø杀手
+http://181.78.23.26:45000/play/a007
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal Comedy SD - CO (92) - 𝐌øɉɨŧø杀手
+http://190.2.212.209:8050/play/a0q4
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal - CO (47) - 𝐌øɉɨŧø杀手
+http://190.60.49.243:4000/play/a03y
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL CHANNEL HD - CO (55) - 𝐌øɉɨŧø杀手
+http://168.90.14.114:8282/play/a02w
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL CHANNEL HD - CO (57) - 𝐌øɉɨŧø杀手
+http://181.78.86.226:8086/play/a00q
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal - CO (56) - 𝐌øɉɨŧø杀手
+http://177.93.46.163:8000/play/a008
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",2 - UNIVERSAL CHANNEL HD - PE (95) - 𝐌øɉɨŧø杀手
+http://38.52.182.236:9000/play/a04j
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal - CO (84) - 𝐌øɉɨŧø杀手
+http://190.2.212.209:8050/play/a0og
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL CHANNEL HD - CO (65) - 𝐌øɉɨŧø杀手
+http://181.233.168.5:8282/play/a02w
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal - HN (97) - 𝐌øɉɨŧø杀手
+http://190.61.117.35:8000/play/a025
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL CHANNEL HD - CO (80) - 𝐌øɉɨŧø杀手
+http://181.233.168.6:8282/play/a02w
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSALCHANNEL - CL (53) - 𝐌øɉɨŧø杀手
+http://45.184.87.142:8000/play/a032
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL PREMIERE HD - HN (35) - 𝐌øɉɨŧø杀手
+http://190.61.117.35:8000/play/a04v
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL CHANNEL HD - CO (83) - 𝐌øɉɨŧø杀手
+http://168.90.14.116:8282/play/a02w
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal - VE (21) - 𝐌øɉɨŧø杀手
+http://200.59.188.3:8000/play/a05a
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL CHANNEL - SC (75) - 𝐌øɉɨŧø杀手
+http://154.198.57.34:8000/play/a010
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal Premiere SD - CO (90) - 𝐌øɉɨŧø杀手
+http://177.93.46.163:8000/play/a00t
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal Premiere SD - VE (2) - 𝐌øɉɨŧø杀手
+http://38.41.8.1:8000/play/a05p
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL CHANNEL HD - BR (11) - 𝐌øɉɨŧø杀手
+http://177.8.76.2:8000/play/a04f
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal Cinema SD - CO (78) - 𝐌øɉɨŧø杀手
+http://177.93.46.163:8000/play/a00u
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal Cinema SD - CO (88) - 𝐌øɉɨŧø杀手
+http://190.2.212.209:8050/play/a0q3
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL CHANNEL HD - CO (87) - 𝐌øɉɨŧø杀手
+http://181.233.168.4:8282/play/a02w
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal Cinema SD - VE (6) - 𝐌øɉɨŧø杀手
+http://38.41.8.1:8000/play/a05q
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL CHANNEL HD - CL (73) - 𝐌øɉɨŧø杀手
+http://45.181.122.46:8090/play/a01h
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL CHANNEL HD - CL (100) - 𝐌øɉɨŧø杀手
+http://201.222.45.70:4000/play/a09u
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL CHANNEL HD - CL (86) - 𝐌øɉɨŧø杀手
+http://45.160.74.253:9000/play/a04w
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL CHANNEL HD - CO (91) - 𝐌øɉɨŧø杀手
+http://181.233.168.3:8282/play/a02w
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL CHANNEL HD - EC (26) - 𝐌øɉɨŧø杀手
+http://66.231.71.18:8000/play/a008
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal Cinema SD - CO (77) - 𝐌øɉɨŧø杀手
+http://190.61.42.218:9000/play/a007
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal Comedy SD - VE (33) - 𝐌øɉɨŧø杀手
+http://200.59.188.3:8000/play/a06v
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal Premiere SD - CO (72) - 𝐌øɉɨŧø杀手
+http://190.2.212.209:8050/play/a0q2
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL CHANNEL HD - CO (89) - 𝐌øɉɨŧø杀手
+http://190.107.20.43:6004/play/a041
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal Cinema SD - VE (34) - 𝐌øɉɨŧø杀手
+http://200.59.188.3:8000/play/a06u
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL CHANNEL HD - US (28) - 𝐌øɉɨŧø杀手
+http://38.187.2.125:8000/play/a03b
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL CRIME HD - HN (63) - 𝐌øɉɨŧø杀手
+http://190.61.117.35:8000/play/a04y
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal Premiere SD - VE (22) - 𝐌øɉɨŧø杀手
+http://200.59.188.3:8000/play/a06t
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL CHANNEL HD - CO (10) - 𝐌øɉɨŧø杀手
+http://179.1.33.2:4000/play/a11d
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",OLE UNIVERSAL - CO (24) - 𝐌øɉɨŧø杀手
+http://45.171.181.2:8000/play/a02u
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",RED - UNIVERSAL CRIME HD - PE (39) - 𝐌øɉɨŧø杀手
+http://38.52.182.236:9000/play/a09c
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",RED - UNIVERSAL PREMIERE HD - PE (43) - 𝐌øɉɨŧø杀手
+http://38.52.182.236:9000/play/a09d
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL PREMIERE O HD - HN (85) - 𝐌øɉɨŧø杀手
+http://190.61.117.35:8000/play/a04w
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL TV - HN (59) - 𝐌øɉɨŧø杀手
+http://190.61.117.35:8000/play/a03s
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal Premiere SD - CO (67) - 𝐌øɉɨŧø杀手
+http://190.61.42.218:9000/play/a006
+
+
 # GloboSat
 #EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png/360px-Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png",TSA-Record News - DE (8) - 𝐌øɉɨŧø杀手
 http://176.65.146.108:8022/play/a05v/index.m3u8
