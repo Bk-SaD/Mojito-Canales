@@ -1,4 +1,4 @@
-# 📺 Lista IPTV M3U - Proyecto Interactivo
+# 📺 Lista IPTV M3U - ★ 𝐌øɉɨŧø
 
 [![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-yellow?style=flat-square)](https://github.com/usuario/repo)
 [![Soporte](https://img.shields.io/badge/soporte-Canales%20HD-blue?style=flat-square)](https://github.com/usuario/repo/issues)
