@@ -2791,21 +2791,7 @@ http://201.222.45.70:4000/play/a042
 http://45.175.139.194:8000/play/38
 #EXTINF:-1 group-title="© Paramount" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png",PARAMOUNT HD - SC (6) - 𝐌øɉɨŧø杀手
 http://154.198.59.1:8000/play/a01v
-#EXTINF:-1 group-title="© Paramount" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png",Paramount - GT (80) - 𝐌øɉɨŧø杀手
-http://45.5.119.96:9000/play/a021/index.m3u8
-#EXTINF:-1 group-title="© Paramount" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png",Paramount - GT (94) - 𝐌øɉɨŧø杀手
-http://45.5.119.97:9000/play/a021/index.m3u8
-#EXTINF:-1 group-title="© Paramount" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png",Paramount - HN (31) - 𝐌øɉɨŧø杀手
-http://190.61.117.35:8000/play/a02l
-#EXTINF:-1 group-title="© Paramount" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png",Paramount HD - BR (2) - 𝐌øɉɨŧø杀手
-http://177.8.76.2:8000/play/a03m
-#EXTINF:-1 group-title="© Paramount" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png",Paramount HD - CL (27) - 𝐌øɉɨŧø杀手
-http://45.181.122.46:8090/play/a02c
-#EXTINF:-1 group-title="© Paramount" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png",Paramount HD - CL (36) - 𝐌øɉɨŧø杀手
-http://45.181.123.233:8000/play/a0j0
-#EXTINF:-1 group-title="© Paramount" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png",Paramount HD - CO (13) - 𝐌øɉɨŧø杀手
-http://181.233.168.3:8282/play/a073
-#EXTINF:-1 group-title="© Paramount" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png",Par
+
 
 # Cinemax
 #EXTINF:-1 group-title="© Cinemax" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/MaxGO.svg/125px-MaxGO.svg.png",Cinemax HD (1) - MoJiTo
