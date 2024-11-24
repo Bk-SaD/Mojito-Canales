@@ -800,6 +800,352 @@ http://207.248.2.105:3200/play/a03p/index.m3u8
 
 
 # GloboSat
+#EXTINF:-1 tvg-logo="https://imgur.com/lm4HhaL.png" group-title="© Globosat",TV A Critica HD
+https://ythls.armelin.one/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/oiyGlGY.png" group-title="© Globosat",RTN TV SP HD
+https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/YXvSdlo.png" group-title="© Globosat",ESFLIX TV
+https://acesso.ecast.site:3186/live/esflixlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HhSQN5B.png" group-title="© Globosat",Oportunidades TV HD
+http://maistop.net:80/live/free/free/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HhSQN5B.png" group-title="© Globosat",Oportunidades TV FHD
+http://maistop.net:80/live/free/free/1.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FoPnWx0.png" group-title="© Globosat",TV Evangelizar 
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FoPnWx0.png" group-title="© Globosat",TV Evangelizar Maringá
+http://5829cb6b64c3c.streamlock.net/id2252/id2252/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wEOoyzq.png" group-title="© Globosat",TV Novo Tempo SD
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b1628000_slpor.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wEOoyzq.png" group-title="© Globosat",TV Novo Tempo HD
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Qo53X2.png" group-title="© Globosat",Olha TV
+https://cdnhd.iblups.com/hls/YV22T5BE5O.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OP1rFwr.png" group-title="© Globosat",TV Paraná Turismo 
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Hbt4qg.png" group-title="© Globosat",TV Candidés
+https://cdn.live.br1.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/nA0cWeE.png" group-title="© Globosat",TV RBC
+https://60d88f8ce1206.streamlock.net/id2515/id2515/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TyGio9J.png" group-title="© Globosat",Gogo Play
+https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/IAQIkuQ.png" group-title="© Globosat",BS TV
+https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w1014792137.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/LrTGoQn.png" group-title="© Globosat",TV CLASSICOS
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://imgur.com/LrTGoQn.png" group-title="© Globosat",Web TV Classicos
+https://live01.livemustv.com.br/livemustv7426/livemustv7426/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/gD0hmt2.png" group-title="© Globosat",OTAKU SIGN TV
+https://stmv1.srvif.com/otaku/otaku/chunklist_w776677652.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/brj5bHE.png" group-title="© Globosat",LASSTV 
+https://tv02.zas.media:1936/lasstv/lasstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ev3SsBX.png" group-title="© Globosat",AmazonSat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f7FvEEO.png" group-title="© Globosat",BR Super TV
+http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/egU0jsZ.png" group-title="© Globosat",TV Aparecida HD
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sxB1tnb.png" group-title="© Globosat",PBC TV
+https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/secIlPU.png" group-title="© Globosat",CENTRAL TV
+https://tv02.zas.media:1936/centraltv/centraltv/pkaylist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/6MtSWg4.png" group-title="© Globosat",ULB TV
+https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w1050568292.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/zxFbtNi.png" group-title="© Globosat",AW TV
+https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tnv08Si.png" group-title="© Globosat",TOP Mix TV
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/58dfbhr.png" group-title="© Globosat",TVM Pará 
+https://59f1cbe63db89.streamlock.net:1443/tvmpa/_definst_/tvmpa/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="Rede Vida" tvg-logo="https://imgur.com/0uNleBN.png" group-title="© Globosat", Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/uJfsfJV.png" group-title="© Globosat",GLN TV
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CbmctRN.png" group-title="© Globosat",TV Grão Pará
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0BoUkWv.png " group-title="© Globosat",TV LITORAL 
+https://cdnhd.iblups.com/hls/FU91GRJ5XT.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/FTXUY6K.png " group-title="© Globosat",TV LITORAL RN
+https://video01.logicahost.com.br/tvlitoralrn/tvlitoralrn/chunklist_w1263783526.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/52LSunV.png" group-title="© Globosat",Soul Cine Clube
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/3nNqJHr.png" group-title="© Globosat",Clube Web TV
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0zSVzOc.png" group-title="© Globosat",TV Osório News 
+https://serv2.videovox.pw/video13154/video13154/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n232OSq.png" group-title="© Globosat",Tela Viva TV 
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YSIvnhC.png" group-title="© Globosat",ISTV HD
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YSIvnhC.png" group-title="© Globosat",ISTV FHD
+https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wp0jhkB.png" group-title="© Globosat",Rede Família
+https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0QYXJwv.png" group-title="© Globosat",NBT
+https://isaocorp.cloudecast.com/nbt/index.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yGBFPRH.png" group-title="© Globosat",NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/WwEyKVj.png" group-title="© Globosat",Canal 29
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/3AbUT8O.png" group-title="© Globosat", XTREME TV
+https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xrbBNPa.png" group-title="© Globosat",TV Aracati
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/vI7gC3m.png" group-title="© Globosat",Life Channel Brasil
+https://cdn2.connectbr.com.br/life/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/V3haAYn.png" group-title="© Globosat",Sou TV.
+https://vdo1.audiostream.com.br:3010/live/soutvlive.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="© Globosat",TV BRASIL
+https://tvbrasil-stream.ebc.com.br/index.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XqAcHMg.png" group-title="© Globosat",Rede Brasil 
+https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Po8jJt4.png" group-title="© Globosat",TBO HD (Rede Brasil)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rGJNeou.png" group-title="© Globosat",Vivax TV
+https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/21W4K2J.png" group-title="© Globosat",TV Brasil Hits
+https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1407789719.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/p7gJt8P.png" group-title="© Globosat",TERRA VIVA HD
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/isJAvqM.png" group-title="© Globosat",Canal do Boi
+https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/662566507635863535910662.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ebNRqmy.png" group-title="© Globosat",Agro Canal
+https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/550918304441506960454875.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/WjWjQ2A.png" group-title="© Globosat",Agro Brasil 
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NY4GvIC.png" group-title="© Globosat",AgroMais HD
+https://cdn-2.nxplay.com.br/AGROMAIS_HD_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NY4GvIC.png" group-title="© Globosat",AgroMais HD [Alter]
+http://187.95.95.243/AgroMais-HD/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/3g7ijoK.png" group-title="© Globosat",XR HEALTH BRASIL
+http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tbxAkds.png" group-title="© Globosat",TV Brasil Central
+https://tbc.zoeweb.tv:443/tbc/tbc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/faofls5.png" group-title="© Globosat",REDE SECULO 21
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7AKdZrC.png" group-title="© Globosat",YEEAAH
+http://stmv2.painelvideo.top/yeeaahrede/yeeaahrede/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AUdVAuP.png" group-title="© Globosat",CONECTV
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="© Globosat",TV Gazeta MA SD
+https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1606860923.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7XGMhj.png" group-title="© Globosat",TV A Folha
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xnBg83J.png" group-title="© Globosat",Astral TV FHD
+https://isaocorp.cloudecast.com/astraltv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ShOT5Xg.png" group-title="© Globosat",Rede UTV
+https://utvcdn.acessaradios.com.br/utvcdn/utvcdn.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ZV8L3gl.png" group-title="© Globosat",Cultura Internacional 
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qUiPZiw.png" group-title="© Globosat",Caravana Play
+https://srv4.zcast.com.br/keynni2406/keynni2406/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QmhUB1N.png" group-title="© Globosat",TV Cidade Verde
+https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/nVFiftB.png" group-title="© Globosat",ABC BRASIL
+https://stmv1.srvstm.com/victor7513/victor7513/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/oWwYGI1.png" group-title="© Globosat", Wtj TV Minas
+https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="© Globosat",Play TV
+https://isaocorp.cloudecast.com/playtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://nVFiftB.png" group-title="© Globosat", Ypê TV
+https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/D9JfGzP.png" group-title="© Globosat",Rede SDP TV 
+https://video01.kshost.com.br/moobi3963/moobi3963/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kjL8Dvg.png" group-title="© Globosat",Seven TV
+https://video01.kshost.com.br/aubrey3291/aubrey3291/playlist.m3u8?t=1698888926
+
+#EXTINF:-1 tvg-logo="https://imgur.com/MByVw7Z.png" group-title="© Globosat",SPTV
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/XFp4O1Q.png" group-title="© Globosat",Imperial TV
+https://acesso.ecast.site:3630/live/imperiallive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tHbZKnY.png " group-title="© Globosat",TV Mais Família
+https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/X3lIFxM.png" group-title="© Globosat",TV Fala Litoral 
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/chunklist_w1605044150.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rEIu04G.png " group-title="© Globosat",Canal Ok TV
+https://video01.kshost.com.br/oktv6914/oktv6914/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pVFQTlu.png" group-title="© Globosat",IMG TV
+https://cdn.live.br1.jmvstream.com/w/AVJ-15526/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jbZIFGO.png" group-title="© Globosat",TV CEL 
+https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist_w636630499.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QqdFSOV.png" group-title="© Globosat",TV Vianney
+https://58c8a6b3c74e2.streamlock.net:1936/paroquiavianney/smil:paroquiavianney.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/MUUXCDM.png" group-title="© Globosat",TV Gospa Mira YouTube 
+https://ythls.armelin.one/channel/UC6oZlH7_E0fT90pblY7rX4g.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/usK7kMl.png" group-title="© Globosat",Tv Recanto da Fé
+https://stmv1.srvif.com/2022/2022/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5HoOtda.png" group-title="© Globosat", TV Imaculada
+https://caikron.com.br:19360/tvmi/tvmi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="© Globosat",Canção Nova Portugal
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="© Globosat",Canção Nova SD
+https://cdn-3.nxplay.com.br/CANCAO_NOVA_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="© Globosat",Canção Nova HD
+https://cdn-3.nxplay.com.br/CANCAO_NOVA_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Z49TV0y.png" group-title="© Globosat",Canção Nova Youtube
+https://livestream.zazerconer.workers.dev/channel/UCVrKQMmA2ew9LFzeIDaOFgw.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QZhhn6FN9to/UlFrsL3Tt0I/AAAAAAAAbHo/ds9DswoDlWo/s400/Logo%2Bdo%2BSite.png" group-title="© Globosat",CINEPIX
+https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1295959840.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jdd5Jsa.png" group-title="© Globosat",PIXTV HD
+https://cdn-2.nxplay.com.br/PIX_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jdd5Jsa.png" group-title="© Globosat",PIXTV.ᴴᴰ
+https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png" group-title="© Globosat",Canal Futura
+https://tv.unisc.br/hls/test.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9N1RL3.png" group-title="© Globosat",TV Mais
+https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/psyk2C5.png" group-title="© Globosat",RIT TV YT
+https://ythls.armelin.one/channel/UCA0bOG0NUfJ855eDtHSxOkw.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/psyk2C5.png" group-title="© Globosat",RIT TV
+https://cdn-1.nxplay.com.br/RIT_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BdTbhqX.gif" group-title="© Globosat",TV Alternativa
+https://stmv1.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.40graustv.com.br/wp-content/uploads/2017/02/logo-circular.png" group-title="© Globosat",40 GRAUS TV
+https://acesso.ecast.site:3125/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3YP7dFy.png" group-title="© Globosat",TV GAZETA NORTE MINEIRA
+https://59e4b6c1beddc.streamlock.net:443/tvgazeta/tvgazeta/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://westerntvclassics.com/wp-content/uploads/2018/07/westernclassics-header-logo.png" group-title="© Globosat",CLASSIQUE TV WETERN
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w696892955.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="© Globosat",CLASSIQUE TV SERIES
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="© Globosat",CLASSIQUE TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Klwjy9d.png" group-title="© Globosat",TV RIO MADEIRA
+https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mfdXYXs.png" group-title="© Globosat",TV OURO NEGRO
+https://StmV1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TIsk5zN.png " group-title="© Globosat",Igreja Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="© Globosat",GRJNGO
+http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qIzyAmA.png" group-title="© Globosat",WEB TV PROGRESSO
+https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist_w73777379.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/akpYIW2.png" group-title="© Globosat",VRT Channel 
+https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0JSnI01.png" group-title="© Globosat",Latina Sat
+https://video03.logicahost.com.br/latinasat/latinasat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Wl6vWI.png" group-title="© Globosat",Tenda TV
+https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UiNMxT2.png" group-title="© Globosat",Gospel Internacional
+https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/47oBUBM.png" group-title="© Globosat",Gospel Music TV
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xf2VM5n.png" group-title="© Globosat",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/coq8mWG.png" group-title="© Globosat",Gostei Gospel TV
+https://59f1cbe63db89.streamlock.net:1443/redegostei/redegostei/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/niOjbp5.png" group-title="© Globosat",Gospel Movies TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ngbsXOB.png" group-title="© Globosat",Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lzBM8Gh.png" group-title="© Globosat",TV gospel 
+https://5cf4a2c2512a2.streamlock.net/8036/8036/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/c8J2flM.png" group-title="© Globosat",Rede QDM
+https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wdyq9R9.png" group-title="© Globosat",TV Gramado
+https://isaocorp.cloudecast.com/tvgramado/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUVp1U1.png" group-title="© Globosat",TVC
+https://video01.kshost.com.br:4443/inside2133/inside2133/chunklist_w384766910.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qFfyqQm.png" group-title="© Globosat",Rede CNT 
+http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZesaflEnFih4nFWIp20LhZ-A
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pw0RLlI.png" group-title="© Globosat",TV União Fortaleza 
+https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pw0RLlI.png" group-title="© Globosat",
 #EXTINF:-1 group-title="© Globosat" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png/360px-Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png",Fox sport - BR - 𝐌øɉɨŧø杀手
 https://nimblestream2.canais.link/hls1/foxsports1.m3u
 #EXTINF:-1, Brasilian:fox sport
