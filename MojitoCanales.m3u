@@ -168,6 +168,39 @@ http://190.61.90.17:9999/play/a0hy/index.m3u8
 #EXTINF:-1 group-title="© Comedy Central" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_%281990s%29.svg/150px-Comedy_Central_logo_%281990s%29.svg.png",Comedy Central HD - PT (32) - 𝐌øɉɨŧø杀手
 http://185.236.229.62:9981/play/a068
 
+#Dazn
+#EXTINF:-1 group-title="Dazn" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png",Dsports 2 HD - CO (2) - 𝐌øɉɨŧø杀手
+http://38.137.217.169:8000/play/a05k
+#EXTINF:-1 group-title="Dazn" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png",Retro Music TV - ES (6) - 𝐌øɉɨŧø杀手
+http://149.100.19.130:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="Dazn" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png",RETRO PLUS - CO (2) - 𝐌øɉɨŧø杀手
+http://181.78.10.206:8000/play/a0d0
+#EXTINF:-1 group-title="Dazn" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png",Retro Music TV - NL (1) - 𝐌øɉɨŧø杀手
+http://5.39.189.42:8086/play/a0a7
+#EXTINF:-1 group-title="Dazn" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png",- BANDSPORTS 10 - BR (4) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a0dm/index.m3u8
+#EXTINF:-1 group-title="Dazn" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png",NETPLUS MUSIC [RETRO] - VE (4) - 𝐌øɉɨŧø杀手
+http://204.157.96.1:8875/play/a096/index.m3u8
+#EXTINF:-1 group-title="Dazn" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png",RETRO PALMARES - CO (5) - 𝐌øɉɨŧø杀手
+http://38.51.234.86:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="Dazn" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png",Retro Music TV - BG (3) - 𝐌øɉɨŧø杀手
+http://78.130.250.2:8023/play/a02r/index.m3u8
+#EXTINF:-1 group-title="Dazn" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png",Dsports + HD - CO (1) - 𝐌øɉɨŧø杀手
+http://38.137.217.169:8000/play/a05l
+#EXTINF:-1 group-title="Dazn" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png",C3H - Band - Bandsports 145 - BR (5) - 𝐌øɉɨŧø杀手
+http://170.80.69.8:8000/play/a08t/index.m3u8
+#EXTINF:-1 group-title="Dazn" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png",Dsports HD - CO (3) - 𝐌øɉɨŧø杀手
+http://38.137.217.169:8000/play/a05j
+#EXTINF:-1 group-title="Dazn" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png",DAZN LIGA FHD (SAT) - ES (1) - 𝐌øɉɨŧø杀手
+http://79.117.39.146:8000/play/a0ln
+#EXTINF:-1 group-title="Dazn" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png",DAZN1FHD - ES (3) - 𝐌øɉɨŧø杀手
+http://79.117.39.146:8000/play/a00u
+#EXTINF:-1 group-title="Dazn" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png",PRUEBADAZNLALIGA1FHD - ES (2) - 𝐌øɉɨŧø杀手
+http://79.117.39.146:8000/play/a00r
+#EXTINF:-1 group-title="Dazn" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png",DAZN - GT (5) - 𝐌øɉɨŧø杀手
+http://181.78.106.127:9000/play/ca027/index.m3u8
+#EXTINF:-1 group-title="Dazn" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png",DAZN1HD - ES (4) - 𝐌øɉɨŧø杀手
+http://79.117.39.146:8000/play/a00v
 
 # Studio Universal 
 #EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",- Studio Universal SD - PE (70) - 𝐌øɉɨŧø杀手
