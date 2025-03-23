@@ -3458,57 +3458,179 @@ http://190.131.238.59:45002/play/a018
 #EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN HD -CO (85) - 𝐌øɉɨŧø杀手
 http://181.233.168.110:8000/play/a080
 #EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN HD -CO (92) - 𝐌øɉɨŧø杀手
-http://190.121.145.27:18000/play/a05m
-#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN HD -DO (83) - 𝐌øɉɨŧø杀手
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 1 - MoJiTo
+http://181.119.86.1:8000/play/a033
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 2 - MoJiTo
+http://181.119.86.1:8000/play/a01f
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 3 - MoJiTo
+http://38.44.109.41:8003/play/a00u
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 4 - MoJiTo
+http://207.248.3.81:8081/play/a0f6
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 5 - MoJiTo
+http://181.78.78.66:8000/play/a03h
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 6 - MoJiTo
+http://181.119.86.1:8000/play/a015
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 7 - MoJiTo
+http://38.44.109.41:8003/play/a00v
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 8 - MoJiTo
+http://38.44.109.41:8003/play/a02v
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 9 - MoJiTo
+http://181.119.86.1:8000/play/a016
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 10 - MoJiTo
+http://181.78.78.66:8000/play/a03d
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 11 - MoJiTo
+http://38.44.109.41:8003/play/a00w
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 12 - MoJiTo
+http://38.41.8.1:8000/play/a0rv
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 13 - MoJiTo
+http://45.230.38.117:8000/play/a0c1
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 14 - MoJiTo
+http://186.96.98.138:19000/play/a05r
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 15 - MoJiTo
+http://38.41.8.1:8000/play/a0t3
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 16 - MoJiTo
+http://38.7.101.90:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 17 - MoJiTo
+http://181.119.86.1:8000/play/a01j
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 18 - MoJiTo
+http://38.51.234.86:8000/play/a04x
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 19 - MoJiTo
+http://181.78.14.26:8000/play/a05b
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 20 - MoJiTo
+http://104.243.47.4:8000/play/a0hd
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 21 - MoJiTo
+http://38.187.11.156:8000/play/a087
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 22 - MoJiTo
+http://38.187.11.154:8000/play/a087
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 23 - MoJiTo
+http://181.78.65.226:5433/play/a00g
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 24 - MoJiTo
+http://190.25.157.67:8000/play/a0ep
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 25 - MoJiTo
+http://177.11.254.2:8899/play/a1gh
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 26 - MoJiTo
+http://38.187.11.155:8000/play/a087
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 27 - MoJiTo
+http://38.187.11.151:8000/play/a087
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 28 - MoJiTo
+http://190.25.157.70:8000/play/a0ep
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 29 - MoJiTo
+http://38.187.11.153:8000/play/a087
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 30 - MoJiTo
+http://181.78.105.146:8800/play/a08s
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 31 - MoJiTo
+http://38.187.11.150:8000/play/a087
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 32 - MoJiTo
+http://45.190.187.183:8080/play/a1o8
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 33 - MoJiTo
+http://181.78.18.137:9000/play/a00m
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 34 - MoJiTo
+http://190.25.157.68:8000/play/a0ep
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 35 - MoJiTo
+http://181.78.192.231:4000/play/a0dt
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 36 - MoJiTo
+http://45.71.254.1:8000/play/a0e6/index.m3u8
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 37 - MoJiTo
+http://45.181.122.46:8090/play/a01m
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 38 - MoJiTo
+http://38.187.11.157:8000/play/a087
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 39 - MoJiTo
+http://38.187.11.147:8000/play/a087
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 40 - MoJiTo
+http://38.187.11.158:8000/play/a087
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 41 - MoJiTo
+http://190.107.20.43:6004/play/a0df
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 42 - MoJiTo
+http://190.109.15.194:8000/play/a0eh
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 43 - MoJiTo
+http://186.148.196.82:8001/play/a07j
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 44 - MoJiTo
+http://38.187.11.148:8000/play/a087
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 45 - MoJiTo
+http://38.187.11.152:8000/play/a087
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 46 - MoJiTo
+http://38.187.2.125:8000/play/a0d5
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 47 - MoJiTo
+http://186.148.196.82:8001/play/a00b
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 48 - MoJiTo
+http://45.190.187.105:58092/play/a0ay
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 49 - MoJiTo
+http://190.83.9.222:8000/play/ca021
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 50 - MoJiTo
+http://190.0.247.38:8000/play/a00z
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 51 - MoJiTo
+http://200.125.170.121:8000/play/a05v
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 52 - MoJiTo
+http://200.125.170.123:8000/play/a05v
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 53 - MoJiTo
+http://190.61.117.35:8000/play/a052
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 54 - MoJiTo
+http://181.78.106.127:9000/play/ca026/index.m3u8
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 55 - MoJiTo
+http://92.114.85.80:8000/play/a09y
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 56 - MoJiTo
+http://190.102.139.252:7878/play/a00a/index.m3u8
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 57 - MoJiTo
+http://38.199.6.1:17001/play/a0d0/index.m3u8
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 58 - MoJiTo
+http://138.99.179.229:8000/play/a0mk/index.m3u8
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 59 - MoJiTo
+http://138.99.179.229:8000/play/a0mg/index.m3u8
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 60 - MoJiTo
+http://190.234.242.31:8000/play/b1011/index.m3u8
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 61 - MoJiTo
+http://138.99.179.229:8000/play/a0bf/index.m3u8
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 62 - MoJiTo
+http://190.234.242.31:8000/play/a0e4/index.m3u8
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 63 - MoJiTo
+http://138.99.179.229:8000/play/a099/index.m3u8
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 64 - MoJiTo
+http://195.189.60.31:8003/play/a0dl/index.m3u8
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 65 - MoJiTo
+http://138.99.179.229:8000/play/a09u/index.m3u8
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 66 - MoJiTo
+http://138.99.179.229:8000/play/a0mh/index.m3u8
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 67 - MoJiTo
+http://190.93.229.18:8000/play/a1h4
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 68 - MoJiTo
+http://45.169.163.129:8000/play/a05q
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 69 - MoJiTo
+http://190.217.142.157:8000/play/a02d
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 70 - MoJiTo
+http://181.78.21.46:8009/play/a015
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 71 - MoJiTo
+http://38.51.234.86:8000/play/a018
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 72 - MoJiTo
+http://190.60.40.37:8001/play/a0ac
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 73 - MoJiTo
+http://191.97.9.130:18000/play/a0h7
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 74 - MoJiTo
+http://190.61.42.218:9000/play/a05t
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 75 - MoJiTo
+http://190.60.97.205:8000/play/a0fj
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 76 - MoJiTo
+http://190.14.228.107:8009/play/a015
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 77 - MoJiTo
+http://190.131.238.59:45002/play/a018
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 78 - MoJiTo
+http://181.233.168.110:8000/play/a080
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 79 - MoJiTo
 http://200.125.170.120:8000/play/a05v
-#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN HD -DO (86) - 𝐌øɉɨŧø杀手
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 80 - MoJiTo
 http://200.125.170.122:8000/play/a05v
-#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN HD -PE (10) - 𝐌øɉɨŧø杀手
-http://45.173.72.26:2072/play/a098
-#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN HD -PE (57) - 𝐌øɉɨŧø杀手
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 81 - MoJiTo
 http://190.108.83.86:8000/play/a07g
-#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN HD -US (30) - 𝐌øɉɨŧø杀手
-http://38.187.11.149:8000/play/a087
-#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN HD CHILE -US (14) - 𝐌øɉɨŧø杀手
-http://104.243.47.4:8000/play/a06b
-#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN HD SZNET -CL (29) - 𝐌øɉɨŧø杀手
-http://45.230.38.117:8000/play/a03y
-#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN HD jeyson -CL (55) - 𝐌øɉɨŧø杀手
-http://45.230.38.117:8000/play/a00a
-#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN HD - ISDBT -CL (77) - 𝐌øɉɨŧø杀手
-http://45.169.163.129:8000/play/a05x
-#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN HD -BR (69) - 𝐌øɉɨŧø杀手
-http://177.93.152.229:8000/play/a00u
-#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN HD -CL (2) - 𝐌øɉɨŧø杀手
-http://45.4.3.75:7700/play/a0cu
-#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN HD -CL (3) - 𝐌øɉɨŧø杀手
-http://45.4.3.75:7700/play/a09v
-#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN HD -CL (4) - 𝐌øɉɨŧø杀手
-http://45.4.3.75:7700/play/a0d9
-#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN HD -CL (48) - 𝐌øɉɨŧø杀手
-http://190.93.229.18:8000/play/a1dm
-#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN HD -CL (61) - 𝐌øɉɨŧø杀手
-http://190.93.229.18:8000/play/a1d7
-#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN HD -CO (16) - 𝐌øɉɨŧø杀手
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 82 - MoJiTo
 http://181.78.78.66:8000/play/a03e
-#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN HD -CO (41) - 𝐌øɉɨŧø杀手
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 83 - MoJiTo
 http://190.60.50.83:18000/play/a05q
-#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN HD -CO (42) - 𝐌øɉɨŧø杀手
-http://190.14.242.93:8088/play/a02n
-#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN HD -CO (54) - 𝐌øɉɨŧø杀手
-http://181.78.12.164:9000/play/a03r
-#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN HD -CO (7) - 𝐌øɉɨŧø杀手
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 84 - MoJiTo
 http://181.78.1.190:8000/play/a1a2
-#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN HD -EC (44) - 𝐌øɉɨŧø杀手
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 85 - MoJiTo
 http://181.198.67.62:8000/play/a02x
-#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN HD -EC (45) - 𝐌øɉɨŧø杀手
-http://181.39.27.141:8000/play/a0qs
-#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN HD -PE (89) - 𝐌øɉɨŧø杀手
+#EXTINF:-1 group-title="ESPN" language="Español" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-1536x1536.png", © ESPN 86 - MoJiTo
 http://190.216.112.169:8000/play/a0d5
-#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN HD -US (59) - 𝐌øɉɨŧø杀手
-http://38.187.11.159:8000/play/a087
-#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN HD -VE (99) - 𝐌øɉɨŧø杀手
-http://179.63.36.2:8000/play/a0o2/index.m3u8
+
 
 # Cartoon Network LA
 #EXTINF:-1 group-title="© Cartoon Network LA" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network HD (1) - MoJiTo
